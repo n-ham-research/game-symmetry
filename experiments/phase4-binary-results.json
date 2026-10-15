@@ -1,0 +1,230 @@
+{
+  "method": "Independent symbolic GF(2) Coxeter equations and utility-cell square coefficients",
+  "domains": [
+    {
+      "players": 3,
+      "subgroups": 15,
+      "kernels": [
+        {
+          "kernel": "zero",
+          "quotient_cocycle_dimension": 3,
+          "subgroups": 8,
+          "potential_families": 8,
+          "full_matching_families": 4,
+          "own_action_indifferent_families": 0,
+          "orbit_count_histogram": {
+            "4": 4,
+            "6": 4
+          },
+          "potential_failures": []
+        },
+        {
+          "kernel": "constant",
+          "quotient_cocycle_dimension": 2,
+          "subgroups": 4,
+          "potential_families": 4,
+          "full_matching_families": 4,
+          "own_action_indifferent_families": 0,
+          "orbit_count_histogram": {
+            "3": 4
+          },
+          "potential_failures": []
+        },
+        {
+          "kernel": "even",
+          "quotient_cocycle_dimension": 1,
+          "subgroups": 2,
+          "potential_families": 2,
+          "full_matching_families": 2,
+          "own_action_indifferent_families": 1,
+          "orbit_count_histogram": {
+            "1": 1,
+            "2": 1
+          },
+          "potential_failures": []
+        },
+        {
+          "kernel": "all",
+          "quotient_cocycle_dimension": 0,
+          "subgroups": 1,
+          "potential_families": 1,
+          "full_matching_families": 1,
+          "own_action_indifferent_families": 1,
+          "orbit_count_histogram": {
+            "1": 1
+          },
+          "potential_failures": []
+        }
+      ]
+    },
+    {
+      "players": 4,
+      "subgroups": 35,
+      "kernels": [
+        {
+          "kernel": "zero",
+          "quotient_cocycle_dimension": 4,
+          "subgroups": 16,
+          "potential_families": 16,
+          "full_matching_families": 16,
+          "own_action_indifferent_families": 0,
+          "orbit_count_histogram": {
+            "4": 8,
+            "8": 8
+          },
+          "potential_failures": []
+        },
+        {
+          "kernel": "constant",
+          "quotient_cocycle_dimension": 4,
+          "subgroups": 16,
+          "potential_families": 16,
+          "full_matching_families": 8,
+          "own_action_indifferent_families": 8,
+          "orbit_count_histogram": {
+            "2": 8,
+            "4": 8
+          },
+          "potential_failures": []
+        },
+        {
+          "kernel": "even",
+          "quotient_cocycle_dimension": 1,
+          "subgroups": 2,
+          "potential_families": 2,
+          "full_matching_families": 2,
+          "own_action_indifferent_families": 1,
+          "orbit_count_histogram": {
+            "1": 1,
+            "2": 1
+          },
+          "potential_failures": []
+        },
+        {
+          "kernel": "all",
+          "quotient_cocycle_dimension": 0,
+          "subgroups": 1,
+          "potential_families": 1,
+          "full_matching_families": 1,
+          "own_action_indifferent_families": 1,
+          "orbit_count_histogram": {
+            "1": 1
+          },
+          "potential_failures": []
+        }
+      ]
+    },
+    {
+      "players": 5,
+      "subgroups": 51,
+      "kernels": [
+        {
+          "kernel": "zero",
+          "quotient_cocycle_dimension": 5,
+          "subgroups": 32,
+          "potential_families": 32,
+          "full_matching_families": 32,
+          "own_action_indifferent_families": 0,
+          "orbit_count_histogram": {
+            "5": 16,
+            "10": 16
+          },
+          "potential_failures": []
+        },
+        {
+          "kernel": "constant",
+          "quotient_cocycle_dimension": 4,
+          "subgroups": 16,
+          "potential_families": 16,
+          "full_matching_families": 16,
+          "own_action_indifferent_families": 0,
+          "orbit_count_histogram": {
+            "5": 16
+          },
+          "potential_failures": []
+        },
+        {
+          "kernel": "even",
+          "quotient_cocycle_dimension": 1,
+          "subgroups": 2,
+          "potential_families": 2,
+          "full_matching_families": 2,
+          "own_action_indifferent_families": 1,
+          "orbit_count_histogram": {
+            "1": 1,
+            "2": 1
+          },
+          "potential_failures": []
+        },
+        {
+          "kernel": "all",
+          "quotient_cocycle_dimension": 0,
+          "subgroups": 1,
+          "potential_families": 1,
+          "full_matching_families": 1,
+          "own_action_indifferent_families": 1,
+          "orbit_count_histogram": {
+            "1": 1
+          },
+          "potential_failures": []
+        }
+      ]
+    },
+    {
+      "players": 6,
+      "subgroups": 99,
+      "kernels": [
+        {
+          "kernel": "zero",
+          "quotient_cocycle_dimension": 6,
+          "subgroups": 64,
+          "potential_families": 64,
+          "full_matching_families": 64,
+          "own_action_indifferent_families": 0,
+          "orbit_count_histogram": {
+            "6": 32,
+            "12": 32
+          },
+          "potential_failures": []
+        },
+        {
+          "kernel": "constant",
+          "quotient_cocycle_dimension": 5,
+          "subgroups": 32,
+          "potential_families": 32,
+          "full_matching_families": 32,
+          "own_action_indifferent_families": 0,
+          "orbit_count_histogram": {
+            "6": 32
+          },
+          "potential_failures": []
+        },
+        {
+          "kernel": "even",
+          "quotient_cocycle_dimension": 1,
+          "subgroups": 2,
+          "potential_families": 2,
+          "full_matching_families": 2,
+          "own_action_indifferent_families": 1,
+          "orbit_count_histogram": {
+            "1": 1,
+            "2": 1
+          },
+          "potential_failures": []
+        },
+        {
+          "kernel": "all",
+          "quotient_cocycle_dimension": 0,
+          "subgroups": 1,
+          "potential_families": 1,
+          "full_matching_families": 1,
+          "own_action_indifferent_families": 1,
+          "orbit_count_histogram": {
+            "1": 1
+          },
+          "potential_failures": []
+        }
+      ]
+    }
+  ]
+}
