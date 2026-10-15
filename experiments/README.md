@@ -54,3 +54,26 @@ All outputs are deterministic mathematical data. Finite enumeration is conclusiv
 for these specified finite classifications; it is not a proof for arbitrary n.
 The full typed bijection group's action on profiles may be nonfaithful; never
 collapse player permutations merely because singleton profiles coincide.
+
+## Research Phase 3
+
+```sh
+python3 experiments/phase3_splitting.py
+python3 experiments/phase3_splitting.py --binary-payoffs
+python3 experiments/phase3_split_search.py
+python3 experiments/phase3_equilibria.py
+```
+
+The first two commands check both explicit three-player/four-strategy
+nonsplitting games against all82,944 typed maps and all8 exact-Aut subgroups.
+The alternate construction checks a proved color-preserving reduction of the
+four-player/six-strategy domain. It is not enumeration of all6!^4·4! maps.
+
+The binary script covers every full-player-image subgroup for n=2,3,4 and
+checks formal potential-cycle coefficients on their utility-cell partitions.
+This covers all real invariant payoff assignments within each domain, not
+random numerical samples or nonisomorphic-game counts. Flags about a subgroup
+containing matching lifts are distinct from symmetry forced in its invariant
+game family. General-n claims use the proof in research/phase3-equilibria.md.
+The ordinary test-discovery command includes the new regressions and exact
+fairness counterexamples. No ignored source download is required.

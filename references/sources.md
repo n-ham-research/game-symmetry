@@ -55,3 +55,14 @@ public content endpoint. Its PDF was re-downloaded and is byte-identical to the
 cached2017 draft. Final2023 publisher metadata is distinct; final body and
 final/draft mathematical comparison remain uninspected. No copyright files or
 access-denied response bodies are redistributed by the repository.
+
+## Research Phase 3 comparison
+
+See [bounded comparison and retrieval record](../research/phase3-literature-and-sources.md).
+Cheng et al.'s primary five-page PDF, Definition2/Theorem1, was inspected for
+the prior ordinary binary equilibrium result. Cao–Yang's author SSRN abstract
+and publisher preview identify their binary renaming/exact-potential result;
+full definitions/proofs remain to be compared before a novelty claim.
+New DM86 web/screenshot/browser attempts produced no readable original pages.
+The final Plan PDF endpoint again failed to return a readable body. These
+failures do not change the source-specific proof limitations recorded earlier.

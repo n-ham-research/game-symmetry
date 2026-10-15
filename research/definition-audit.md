@@ -16,7 +16,7 @@ Original statements remain pinned in original-record.json. Status here concerns 
 | Example 3.16 | Verified | Extracted numeric table has cyclic image of order 3; some matching lifts transitive, none full. |
 | Definition 3.17 | Verified | Full specified permutation-equivariance; requires common labels. |
 | Definition 3.22 | Verified | Finite two-player zero-sum value exists by minimax; zero-value definition is mathematically well-formed. |
-| Definition 3.24 | Unresolved | Numeric security-value clauses are well-formed; pure/mixed preference-preservation clauses need explicit moved-player comparison maps before their claimed identifications can be certified. No philosophical fairness equivalence is inferred. |
+| Definition 3.24 | Resolved replacement | Phase 3 supplies explicit moved-player pure-profile and independent-mixed-profile pair quantifiers, subgroup proofs, implications and separating examples. Original unspecified intent is not retrospectively certified; see phase3-specifications.md S2. |
 | Example 4.1 | Verified | Matching pennies: identity-only bare player symmetry, full typed Aut order 4 with transitive image and no transitive strategy-trivial subgroup; mixed zero value. |
 | Definition 4.2 | Verified | All player/strategy source and target maps typed; bijection condition does not impose utilities. |
 | Example 4.3 | Verified | Both full payoff tables extracted; the displayed swap/strategy-flip isomorphism checked on all 4 profiles. |
@@ -30,7 +30,7 @@ Original statements remain pinned in original-record.json. Status here concerns 
 | Example 5.5 | Verified | Listed matching-pennies generator produces all 4 exact automorphisms; subgroup/matching checks verify nonstandardness. |
 | Definition 5.7 | Verified | Partition of a specified planar shape is data; measurable finite area is an additional requirement for later area comparisons. |
 | Definition 5.8 | Verified after correction | Make allowed isometry group and permutation of whole partition pieces explicit; color names need not be pointwise preserved. See ordinal-and-domain-audit.md. |
-| Definition 5.9 | Unresolved | Equal-area predicate needs measurable pieces and an area convention; supply finite positive-area measurable domain. Nontrivial group and nontrivial color-kernel clauses are distinct. |
+| Definition 5.9 | Resolved replacement | Phase 3 fixes measurable pieces, finite positive Lebesgue area and whole-piece isometries; transitivity proof and n=1 boundary are explicit. Recommend omitting formal geometry from the central paper; see phase3-specifications.md S3. |
 | Definition 5.10 | Verified | Specified actual color action defines transitive/full image; source implication to nontrivial group additionally requires n>=2. |
 | Example 5.12 | Verified after correction | General symmetric2x2 family is correct; remove false assertion that every real parameter assignment retains the same full automorphism group. |
 | Example 5.13 | Verified after correction | Full exact finite classification: standard and n-transitive always; nonfull iff beta!=gamma. Original one-matching exclusion proof replaced by all matching checks. Pure NE proof covers every real assignment. |

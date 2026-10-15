@@ -39,3 +39,29 @@ explicit anonymous/full-anonymous source-prose analogues. They independently
 returned conjugation/E-invariance proofs and boundary checks by message; no
 additional model or agent instance is counted. The canonical proofs and the
 limited independence are recorded in corrections.md and review-log.md.
+
+## Research Phase 3 — 16 October 2026
+
+The coordinator read the user's approved Phase2 review and new Phase3 request.
+Three additional same-family Codex subagents were assigned full conversation
+context and shared repository access: phase3_splitting (A, affirmative algebra),
+phase3_counterexamples (B, independent counterexample search), phase3_equilibria
+(C, binary equilibrium proof/search). Exact model build identifiers were not
+provided; none are invented. Initial assignments differed, but discoveries
+and proof drafts were subsequently shared explicitly for cross-review.
+
+A derived the three-player/four-strategy nonsplit witness, reduced its payoff
+alphabet from16 to3 and then2, proved exact full Aut and nonsplitting, and
+wrote exhaustive checks. B independently derived the four-player/six-strategy
+signed-parity obstruction and checked all reduced candidates; B reviewed A's
+compact and binary-payoff variants. C derived the binary kernel/Coxeter
+classification and exact-potential theorem, wrote symbolic finite-family checks,
+and independently verified the main counterexample. A and B reviewed C's proof,
+including its exceptional four-player argument. The coordinator independently
+checked the main arguments, wrote specification/fairness comparisons and exact
+counterexample tests, retried primary sources, and prepared the result ledger,
+publication outline and handover. A and B reviewed the specification/fairness
+notes. Review reports distinguish derivation from subsequent supplied-proof
+checking. No external peer review, author proof sign-off, or novelty conclusion
+is attributed to these activities. The manuscript remains by Nicholas Ham;
+these records document actual AI assistance rather than honorary coauthorship.

@@ -1,53 +1,47 @@
-# Roadmap — after the second audit,16 October 2026
+# Roadmap — Research Phase 3, 16 October 2026
 
-The foundation is approved. The main LaTeX manuscript remains conservative and
-unchanged while the research notes carry corrections and adversarial checks.
+The second audit is approved. Phase3 has produced complete internal answers to
+the two prioritized mathematical questions. The conservative main manuscript
+remains unchanged while source comparison and adversarial human scrutiny remain
+outstanding. See [Phase3 handover](handover-phase-3.md).
 
-## Completed this pass
+## Current mathematical foundation
 
-- All 41 numbered formal results have a proof/ambiguity record:33 Verified,
-7 Verified after correction/clarification,1 Unresolved as written (4.10).
-- The4.24 repair,4.23 matching theorem and 5.1–5.3 are independently reconstructed;
- explicit anonymous/full-anonymous analogues now have proofs too.
-- Product-distribution boundary, minimax/relabeling, increasing maps, action vs
- abstract group, hom-set and typed-groupoid issues are documented.
-- All 33 remaining numbered definitions/examples have been visited; exact source
- game tables, generators, matching lifts, Euler separations and both finite Hasse
- diagrams are checked. Generic parameter assertions are separated from all
- specialization patterns, including the 4140 eight-parameter patterns.
-- Original statements/proof defects are pinned; a dependency graph and impact
- command identify results to reconsider after an error.
+- Original 41-result audit:33 verified,7 corrected/clarified,1 original wording
+  unresolved. Pinned statements and old correction history are preserved.
+- Natural 4.10 set/bitorsor replacement, 3.24 transported-preference quantifiers,
+  and measurable geometry assumptions are specified. Recommend omitting formal
+  geometric analogies from the central new-result paper.
+- The converse of 5.6 is false: three players, four strategies, two payoff values
+  suffice for a standard full-player-image game with nonsplit player projection.
+- Binary n-transitively standard games have exact potentials and pure equilibria.
+  For n≥3 full player image alone suffices; n≥5 forces full symmetry up to
+  relabeling. The exceptional low-degree actions are explicitly handled.
+- Operational fairness tests and exact separating examples distinguish values,
+  information, focal opportunities, simultaneous transports and coherence.
 
-## Next mathematical work
+## Next work, in order
 
-1. Author review of corrections.md and the audit verdicts; specify4.10 hom-set
- language,3.24 preference transport and measurable area for any retained analogy.
-2. Close source gaps without inferring results: original Dasgupta–Maskin
- Definition 7/Lemmas6–7/Theorems6/6*; final Plan2023 text;1944 comparison and
- next-tier attribution sources. Access failures are logged, not proof verdicts.
-3. Investigate the source's5.6 converse through the actual player-projection
- extension and its possible splittings. Treat representation data explicitly.
-4. Use exact higher-degree examples to challenge the binary pure-Nash question
- for n-transitively standard games. Do not infer arbitrary-n conclusions from
- the complete two/three-player family enumerations.
-5. Develop one fairness decision primitive at a time (assignment, information,
- beliefs, strategy correspondences, utility normalization), then search for
- implications/separations. Keep proposals in fairness-preparation.md until proofs,
- source comparison and adversarial scrutiny justify promotion.
-6. Rewrite/expand the paper only around reviewed mathematics and appropriately
- attributed corrections; then obtain author and external scrutiny. Check journal
- fit, licenses and current AI/arXiv policies at submission preparation time.
+1. Human adversarial review and targeted full-text literature comparison of the
+   new proofs. Candidate results are not novelty claims. Compare Cao–Yang and
+   the exact group-representation literature, not only titles and abstracts.
+2. Study whether three strategies suffice for the nonsplit standard witness;
+   investigate useful nonbinary splitting hypotheses and controlled realization
+   of specified player actions.
+3. Develop one justified fairness assignment model with explicit participants,
+   information, strategy correspondences and utility scale. Keep speculative
+   interpretation separate from theorem statements.
+4. Continue lawful primary-source retrieval for DM86 and final Plan without
+   replacing missing original arguments with secondary assessments.
+5. Draft a coherent paper only after choosing its verified contribution. The
+   preliminary narrative connects lifting obstructions and binary potentialness;
+   the wider fairness programme may belong in a separate paper.
 
-## Research safeguards
+## Safeguards
 
-- No original statement is overwritten by a repair. Preserve original-record.json.
-- Counts refer to reviewed formulations; keep original statement/proof verdicts
- separate. Internal AI checks are not external peer review.
-- Run scripts/audit.py check and impact after a suspected error; inspect all
- descendants, adding missing edges as dependencies are discovered.
-- Exact finite enumeration proves its stated finite classifications or supplies
- counterexamples. General game claims require mathematical proofs.
-- No journal/arXiv submission is authorized.
-
-Detailed deliverables and limits: handover-pass-2.md. First-pass handover.md is a
-historical record and is superseded for current audit status.
+Preserve original-record.json and keep old/source and repaired verdicts
+separate. New candidate IDs and dependencies live in phase3-results.md rather
+than changing the original audit denominator. Finite exhaustive results state
+their exact domains; arbitrary-n conclusions require the written proofs.
+Record actual AI work and review context. No journal or arXiv submission is
+authorized. Internal reviews are not human sign-off or external peer review.

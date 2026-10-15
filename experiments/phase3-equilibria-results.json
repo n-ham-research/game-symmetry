@@ -1,0 +1,213 @@
+{
+  "scope": "All full-player-image binary typed-bijection subgroups for n=2,3,4; all real payoff assignments constant on each subgroup utility-cell orbit. Isomorphic copies are retained only as group coverage, not counted as independent games.",
+  "domains": [
+    {
+      "n": 2,
+      "groups": 5,
+      "utility_equality_families_up_to_typed_relabeling": 4,
+      "classes": [
+        {
+          "order": 2,
+          "kernel": 1,
+          "subgroup_has_transitive_matching": true,
+          "subgroup_has_full_matching": true,
+          "family_forces_full_symmetry_up_to_relabeling": true,
+          "exact_potential_for_all_payoffs": true,
+          "every_profile_equilibrium_for_all_payoffs": false,
+          "utility_orbits": 4,
+          "groups": 2
+        },
+        {
+          "order": 4,
+          "kernel": 2,
+          "subgroup_has_transitive_matching": false,
+          "subgroup_has_full_matching": false,
+          "family_forces_full_symmetry_up_to_relabeling": false,
+          "exact_potential_for_all_payoffs": false,
+          "every_profile_equilibrium_for_all_payoffs": false,
+          "utility_orbits": 2,
+          "groups": 1
+        },
+        {
+          "order": 4,
+          "kernel": 2,
+          "subgroup_has_transitive_matching": true,
+          "subgroup_has_full_matching": true,
+          "family_forces_full_symmetry_up_to_relabeling": true,
+          "exact_potential_for_all_payoffs": true,
+          "every_profile_equilibrium_for_all_payoffs": false,
+          "utility_orbits": 2,
+          "groups": 1
+        },
+        {
+          "order": 8,
+          "kernel": 4,
+          "subgroup_has_transitive_matching": true,
+          "subgroup_has_full_matching": true,
+          "family_forces_full_symmetry_up_to_relabeling": true,
+          "exact_potential_for_all_payoffs": true,
+          "every_profile_equilibrium_for_all_payoffs": true,
+          "utility_orbits": 1,
+          "groups": 1
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "groups": 15,
+      "utility_equality_families_up_to_typed_relabeling": 5,
+      "classes": [
+        {
+          "order": 6,
+          "kernel": 1,
+          "subgroup_has_transitive_matching": true,
+          "subgroup_has_full_matching": false,
+          "family_forces_full_symmetry_up_to_relabeling": false,
+          "exact_potential_for_all_payoffs": true,
+          "every_profile_equilibrium_for_all_payoffs": false,
+          "utility_orbits": 4,
+          "groups": 4
+        },
+        {
+          "order": 6,
+          "kernel": 1,
+          "subgroup_has_transitive_matching": true,
+          "subgroup_has_full_matching": true,
+          "family_forces_full_symmetry_up_to_relabeling": true,
+          "exact_potential_for_all_payoffs": true,
+          "every_profile_equilibrium_for_all_payoffs": false,
+          "utility_orbits": 6,
+          "groups": 4
+        },
+        {
+          "order": 12,
+          "kernel": 2,
+          "subgroup_has_transitive_matching": true,
+          "subgroup_has_full_matching": true,
+          "family_forces_full_symmetry_up_to_relabeling": true,
+          "exact_potential_for_all_payoffs": true,
+          "every_profile_equilibrium_for_all_payoffs": false,
+          "utility_orbits": 3,
+          "groups": 4
+        },
+        {
+          "order": 24,
+          "kernel": 4,
+          "subgroup_has_transitive_matching": true,
+          "subgroup_has_full_matching": false,
+          "family_forces_full_symmetry_up_to_relabeling": true,
+          "exact_potential_for_all_payoffs": true,
+          "every_profile_equilibrium_for_all_payoffs": true,
+          "utility_orbits": 1,
+          "groups": 1
+        },
+        {
+          "order": 24,
+          "kernel": 4,
+          "subgroup_has_transitive_matching": true,
+          "subgroup_has_full_matching": true,
+          "family_forces_full_symmetry_up_to_relabeling": true,
+          "exact_potential_for_all_payoffs": true,
+          "every_profile_equilibrium_for_all_payoffs": false,
+          "utility_orbits": 2,
+          "groups": 1
+        },
+        {
+          "order": 48,
+          "kernel": 8,
+          "subgroup_has_transitive_matching": true,
+          "subgroup_has_full_matching": true,
+          "family_forces_full_symmetry_up_to_relabeling": true,
+          "exact_potential_for_all_payoffs": true,
+          "every_profile_equilibrium_for_all_payoffs": true,
+          "utility_orbits": 1,
+          "groups": 1
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "groups": 35,
+      "utility_equality_families_up_to_typed_relabeling": 5,
+      "classes": [
+        {
+          "order": 24,
+          "kernel": 1,
+          "subgroup_has_transitive_matching": true,
+          "subgroup_has_full_matching": false,
+          "family_forces_full_symmetry_up_to_relabeling": true,
+          "exact_potential_for_all_payoffs": true,
+          "every_profile_equilibrium_for_all_payoffs": false,
+          "utility_orbits": 4,
+          "groups": 8
+        },
+        {
+          "order": 24,
+          "kernel": 1,
+          "subgroup_has_transitive_matching": true,
+          "subgroup_has_full_matching": true,
+          "family_forces_full_symmetry_up_to_relabeling": true,
+          "exact_potential_for_all_payoffs": true,
+          "every_profile_equilibrium_for_all_payoffs": false,
+          "utility_orbits": 8,
+          "groups": 8
+        },
+        {
+          "order": 48,
+          "kernel": 2,
+          "subgroup_has_transitive_matching": false,
+          "subgroup_has_full_matching": false,
+          "family_forces_full_symmetry_up_to_relabeling": false,
+          "exact_potential_for_all_payoffs": true,
+          "every_profile_equilibrium_for_all_payoffs": true,
+          "utility_orbits": 2,
+          "groups": 8
+        },
+        {
+          "order": 48,
+          "kernel": 2,
+          "subgroup_has_transitive_matching": true,
+          "subgroup_has_full_matching": true,
+          "family_forces_full_symmetry_up_to_relabeling": true,
+          "exact_potential_for_all_payoffs": true,
+          "every_profile_equilibrium_for_all_payoffs": false,
+          "utility_orbits": 4,
+          "groups": 8
+        },
+        {
+          "order": 192,
+          "kernel": 8,
+          "subgroup_has_transitive_matching": true,
+          "subgroup_has_full_matching": false,
+          "family_forces_full_symmetry_up_to_relabeling": true,
+          "exact_potential_for_all_payoffs": true,
+          "every_profile_equilibrium_for_all_payoffs": true,
+          "utility_orbits": 1,
+          "groups": 1
+        },
+        {
+          "order": 192,
+          "kernel": 8,
+          "subgroup_has_transitive_matching": true,
+          "subgroup_has_full_matching": true,
+          "family_forces_full_symmetry_up_to_relabeling": true,
+          "exact_potential_for_all_payoffs": true,
+          "every_profile_equilibrium_for_all_payoffs": false,
+          "utility_orbits": 2,
+          "groups": 1
+        },
+        {
+          "order": 384,
+          "kernel": 16,
+          "subgroup_has_transitive_matching": true,
+          "subgroup_has_full_matching": true,
+          "family_forces_full_symmetry_up_to_relabeling": true,
+          "exact_potential_for_all_payoffs": true,
+          "every_profile_equilibrium_for_all_payoffs": true,
+          "utility_orbits": 1,
+          "groups": 1
+        }
+      ]
+    }
+  ]
+}

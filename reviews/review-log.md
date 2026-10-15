@@ -139,3 +139,35 @@ Singleton/unequal-size cases were checked in all responses. The coordinator's
 canonical complete proof is corrections.md, section C4.24-A/C4.24-FA. This closes
 the previously unstated analogue gap for these exact numerical definitions;
 it does not resolve ordinal/cardinal preference or normative fairness concepts.
+
+## Research Phase 3: new questions and cross-review
+
+The user approved Phase2 and explicitly authorized affirmative/counterexample
+agents and new mathematical investigation. Three fresh subagents received
+full conversation context and the shared repository: A on affirmative splitting,
+B on counterexamples, C on binary equilibria. None was a different-model or
+blinded human reviewer. Initial discoveries were communicated before later
+cross-checks; later reviews were of supplied candidate proofs.
+
+A found and proved the main nonsplit three-player/four-action game, finally
+using only two payoff values. B independently developed a different signed
+four-player/six-action obstruction. C derived the full-image binary exact-
+potential theorem, strengthening the original standard-symmetry question.
+A and B checked C's kernel, Coxeter, stabilizer and exceptional n=4 argument.
+B and C checked A's exact-Aut proof, two-payoff reduction and nonsplitting.
+The coordinator independently read the complete proofs and checked the same
+sensitive steps; exact finite regressions accompany the general arguments.
+
+The coordinator's preference/bitorsor/geometry specifications and operational
+fairness notes were checked by A and B, including every counterexample and the
+zero coalition-value separation. VNM's original coalition-orbit and
+set-transitivity equations were re-read in the previously inspected scan text;
+that basic bridge is explicitly attributed. No normative fairness hierarchy or
+unverified novelty is promoted to the manuscript. Primary-source retries did
+not provide readable DM86 or final Plan proof bodies.
+
+Detailed actual findings: R-P3-SPLIT-A.md, R-P3-SPLIT-B.md,
+R-P3-EQ-C.md and R-P3-FAIR-SPEC-B.md. The result/dependency ledger is
+research/phase3-results.md. The original41-formal-result registry and pinned
+artifacts retain their prior meaning. New contributions remain research
+candidates pending targeted literature comparison and human/external scrutiny.
