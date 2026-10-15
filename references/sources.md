@@ -41,3 +41,17 @@ Prospective journal and arXiv AI-disclosure requirements have not been checked
 for a submission: none is planned or authorized now. Recheck current official
 policies after choosing a journal; do not assert that an illustrative AI
 acknowledgement guarantees compliance.
+
+## Second-pass retrieval/version check
+
+See ../research/primary-source-followup.md for actual request outcomes and
+response-byte hashes. Harvard's original scan and the public author-upload link
+still returned403 to the local workflow; the web cache exposes27 pages but no
+readable extracted text/images in this environment. Definition7, Lemmas6–7 and
+Theorems6/6* have therefore **not** been directly inspected.
+
+The actual Plan author research link was recovered from the site's advertised
+public content endpoint. Its PDF was re-downloaded and is byte-identical to the
+cached2017 draft. Final2023 publisher metadata is distinct; final body and
+final/draft mathematical comparison remain uninspected. No copyright files or
+access-denied response bodies are redistributed by the repository.

@@ -23,8 +23,8 @@ current draft explicitly states that author review remains pending.
 
 | Actual instance | Contribution | Independence / verification |
 |---|---|---|
-| Coordinator, OpenAI Codex | Full audit registry and dependency graph; pinning of original statements/proofs; reconciled correction ledger; exact ordinal counts; all4140 equality patterns of5.14a and independent parameter-constraint verifier; source-counterexample tests; conservative manuscript validation | Proofs checked against source; disagreements/test-data error recorded; exact tests reproducible; human review pending |
-| matching_proofs, new Codex instance | Independent matching-chain proofs; corrected4.24; typed groupoid and hom-set analysis; source-table extraction, all automorphisms/matching lifts, finite Hasse diagrams and generic/parameter-boundary classification | Fresh chat context but supplied repository/source leads and proposed repair; no newB/C reports read before derivation; returned proof/finite-scope evidence |
+| Coordinator, OpenAI Codex | Full audit registry and dependency graph; pinning of original statements/proofs; reconciled correction ledger; exact ordinal counts; all 4140 equality patterns of 5.14a and independent parameter-constraint verifier; source-counterexample tests; conservative manuscript validation | Proofs checked against source; disagreements/test-data error recorded; exact tests reproducible; human review pending |
+| matching_proofs, new Codex instance | Independent matching-chain proofs; corrected 4.24; typed groupoid and hom-set analysis; source-table extraction, all automorphisms/matching lifts, finite Hasse diagrams and generic/parameter-boundary classification | Fresh chat context but supplied repository/source leads and proposed repair; no newB/C reports read before derivation; returned proof/finite-scope evidence |
 | matching_search, new Codex instance | Independent correction proof and adversarial all-subgroup checks; minimal/nonconstant counterexamples; primary-source retries; independent Burnside counts and utility-representation domain criticism | Fresh chat context with proposed repair; no newA/C reports read initially; precise finite domains and response hashes recorded |
 | proof_review, reused Codex instance | Independent foundation and remaining-formal-result derivations; strategy-relabeling mixed minimax repair; actual-action/abstract-group counterexample | Prior exposure to first-pass findings retained; no newA/B reports read before report; scope limitation explicit |
 
@@ -33,3 +33,9 @@ external-peer-review independence is claimed. Original results and repairs
 are not advertised as novel. The main LaTeX manuscript was deliberately not
 expanded during this audit pass. No author claim that all mathematics has
 received final human sign-off is made.
+
+A final targeted follow-up asked the same A/B/C instances to scrutinize the
+explicit anonymous/full-anonymous source-prose analogues. They independently
+returned conjugation/E-invariance proofs and boundary checks by message; no
+additional model or agent instance is counted. The canonical proofs and the
+limited independence are recorded in corrections.md and review-log.md.

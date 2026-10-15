@@ -69,11 +69,11 @@ instances sharing a model family, not external peer reviewers.
 - [B](R-MATCH-003-B.md): independent corrected proof, exact all-subgroup/equality-partition challenge on seven domains, minimal counterexamples, later independent ordinal/Burnside and domain checks.
 - [C](R-FOUND-003-C.md): independent corrected proof; all remaining foundational/formal results; mixed-value repairs; supplementary source checks of the twelve previously verified formal IDs.
 
-No defect was found in the repaired4.24 equivalence. The full bijection ambient
+No defect was found in the repaired 4.24 equivalence. The full bijection ambient
 group is necessary; stabilizer invariance and full player image must be retained
 (or use the simpler matching/opponent-transposition formulation). All reviewer
 proofs were checked by the coordinator against component domains and composition.
-Corollaries5.1–5.3 have independent proofs and do not inherit the false4.24.
+Corollaries5.1–5.3 have independent proofs and do not inherit the false 4.24.
 
 New source proof defects are recorded for2.4,3.6,3.25. The source's unspecified
 4.10 hom-set isomorphism and inferred4.19 groupoid objects are separated from
@@ -84,7 +84,7 @@ formal counts:33 Verified,7 Verified after correction,1 Unresolved as written.
 The two incorrect printed statements remain recorded as incorrect separately;
 they have not been overwritten with corrected source text.
 
-The original74-item inventory remains byte-identical to commit a30c617. The
+The original 74-item inventory remains byte-identical to commit a30c617. The
 source/archive hash and selected exact defective proof environments are pinned
 by research/original-record.json. The checker reports changed pinned bytes;
 this is Git-based tamper evidence, not an external timestamp or write-once store.
@@ -98,17 +98,17 @@ research/classification-audit.md and experiments/classification-results.json.
 The coordinator removed reliance on a temporary/cache TeX source for tests by
 pinning author-owned diagram excerpts in research/original-diagrams.json.
 
-The coordinator additionally enumerated all4140 parameter-equality partitions
+The coordinator additionally enumerated all 4140 parameter-equality partitions
 for5.14a and independently verified the results by compiling each ambient
-bijection's payoff conditions into equalities on the8 parameter names. No
+bijection's payoff conditions into equalities on the 8 parameter names. No
 sampling of real values or floating arithmetic is involved. Reviewer B
 independently checked the ordinal convention counts by Burnside's lemma; the
 coordinator's tracked program also enumerates complete orbits.
 
 An added regression test initially mistranscribed the first component of
-Example4.4's printed composite as identity. Reinspection of the original TeX
+Example 4.4's printed composite as identity. Reinspection of the original TeX
 showed it is the strategy flip; the test was corrected to match the source.
-The source's Example4.4 composite is valid. This was a test-data error, not a
+The source's Example 4.4 composite is valid. This was a test-data error, not a
 new error attributed to the paper.
 
 ## Primary-source follow-up
@@ -120,3 +120,22 @@ actual author link still delivers byte-identical2017 draft content. This work
 supports no conclusion about Lemmas6–7 or Theorems6/6* of DM86; those original
 proofs remain uninspected. Source-access failures did not delay the mathematical
 Ham audit. No credentials, external messages or submissions were used.
+
+## R-ANON-004: final targeted source-prose clarification
+
+The coordinator supplied the same explicit anonymous/full-anonymous candidate
+formulations independently to A, B and C after their main reports. These were
+not blinded reviews: all had reviewed the 4.24 repair, and no different-model
+independence is claimed. They were instructed not to read one another's new
+responses. All returned complete conjugation proofs and boundary checks by
+message; no additional agent-authored files or external review are invented.
+
+Their shared mathematical route: pull back the common-label diagonal under an
+arbitrary player-permuting exact isomorphism, conjugate all matching lifts to
+all S_N, and use exact-isomorphism invariance of pointwise payoff equality E.
+Thus anonymous upiso is all-i/all-permutation matching invariance; fully
+anonymous upiso is E plus that condition, equivalently E plus 5.2 full symmetry.
+Singleton/unequal-size cases were checked in all responses. The coordinator's
+canonical complete proof is corrections.md, section C4.24-A/C4.24-FA. This closes
+the previously unstated analogue gap for these exact numerical definitions;
+it does not resolve ordinal/cardinal preference or normative fairness concepts.

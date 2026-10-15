@@ -36,3 +36,11 @@ For g:G->H, h:H->K, the strategy component of hg at i is h_{pi(i)} o g_i. It has
 - §4.3 writes S_N wr S_M for the bijection group. With the usual imprimitive convention the expected group is S_M wr S_N, of order (m!)^n n!. Determine whether the author uses a reverse convention before classifying this as an error.
 - An abstract group being isomorphic to some transitive subgroup is not automatically equivalent to its particular player action being transitive. Audit the unnumbered statement after Example 5.5 with its precise degree and representation specified.
 - Corollary 4.10 uses isomorphism notation for hom-sets, which are generally torsors rather than groups without selected base arrows. Clarify intended structure before assigning a verdict.
+
+## Second-pass resolution
+
+This first-pass evidence is retained. Complete replacement statements/proofs are
+now in corrections.md, with all41 formal-result statuses in audit.json and
+separate source/proof verdicts. See handover-pass-2.md for updated counts and
+new action/parameter/ordinal counterexamples. Previously pending matching and
+counting derivations have been completed; source-access gaps remain explicit.

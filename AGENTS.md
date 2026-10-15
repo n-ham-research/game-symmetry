@@ -14,3 +14,9 @@ Author: Nicholas Ham. This is a mathematical research project, not a rewrite.
 - Manuscript author is Nicholas Ham; log actual AI assistance without attributing unperformed author review.
 - Run scripts/build.sh and python3 -m unittest discover -s experiments before pushing relevant changes. Inspect rendered pages after manuscript layout edits.
 - Do not submit to arXiv or any journal without explicit author approval. Recheck applicable disclosure policies at submission time.
+
+- Preserve the pinned original files in research/original-record.json. Repairs belong in audit.json/corrections.md; never regenerate pinned originals in place.
+- Maintain research/dependencies.json with prerequisite-to-dependent edges. After suspecting an error, run python3 scripts/audit.py impact ID and reconsider every descendant. Source adjacency is not a dependency.
+- All 41 formal results have second-pass records; status is for the reviewed formulation, and original statement/proof verdicts remain separate. Cor4.10 is ambiguous as written.
+- Run python3 scripts/audit.py check and render when changing the registry. Tests must run from a fresh clone without ignored downloads; pinned source excerpts provide the needed data.
+- Keep philosophical fairness proposals in research/fairness-preparation.md until their independent decision primitives, source comparison and proofs are ready.

@@ -95,7 +95,7 @@ def render(root=ROOT):
            '  C --> F[5.2: full symmetry]',
            '  E --> G[5.3: equal payoffs on a matching]',
            '  P[4.22: fixed matching profiles] --> G',
-           '  D --> U[Proposed anonymity analogues: review separately]',
+           '  D --> U[Explicit anonymity analogues: reviewed]',
            '```','',
            'No dependency from 4.24 to 5.1–5.3 is inferred merely because the statements occur later in the source. Their conjugation proofs stand without it. The 4.19 typing ambiguity is repaired by explicit player objects; downstream coherence is checked directly.','',
            '```sh','python3 scripts/audit.py check','python3 scripts/audit.py impact 4.24','python3 scripts/audit.py impact 4.23','python3 scripts/audit.py impact 2.2:strict-nonsurjectivity','```','',

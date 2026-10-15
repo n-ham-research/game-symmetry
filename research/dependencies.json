@@ -886,12 +886,6 @@
       "note": "Dependency of the independently checked argument or typed construction, not source proximity"
     },
     {
-      "source": "4.15",
-      "target": "5.6",
-      "kind": "reviewed-proof",
-      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
-    },
-    {
       "source": "5.1",
       "target": "5.6",
       "kind": "reviewed-proof",
@@ -1070,6 +1064,18 @@
       "target": "U-fairness",
       "kind": "interpretation-review",
       "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "D-player-projection",
+      "target": "5.6",
+      "kind": "reviewed-proof",
+      "note": "Faithfulness/order uses the specified player projection"
+    },
+    {
+      "source": "4.13",
+      "target": "5.6",
+      "kind": "reviewed-proof",
+      "note": "Regular player action gives trivial stabilizers and strategy triviality"
     }
   ],
   "original_explicit_reference_edges": [

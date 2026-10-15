@@ -1,3 +1,7 @@
 research/inventory.json linguist-generated=true
 research/original-result-inventory.md linguist-generated=true
 experiments/results.json linguist-generated=true
+research/original-defects.json linguist-generated=true
+research/original-diagrams.json linguist-generated=true
+experiments/*-results.json linguist-generated=true
+research/counterexamples.json linguist-generated=true

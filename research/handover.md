@@ -47,3 +47,9 @@ Plan comparison should precede claims of new fairness equivalences.
 No submission to arXiv or a journal has been made or authorized. Human author
 review is pending. See Git history and the chat's final handover for publication
 of this repository pass; repository publication is distinct from paper submission.
+
+## Subsequent status
+
+This first-pass handover is retained as history. The current second-pass results,
+corrections,38-test validation scope and remaining source/definition gaps are in
+handover-pass-2.md. Do not use this earlier “unverified” count as the current audit.

@@ -1,22 +1,53 @@
-# Roadmap — 16 October 2026
+# Roadmap — after the second audit,16 October 2026
 
-## First pass
+The foundation is approved. The main LaTeX manuscript remains conservative and
+unchanged while the research notes carry corrections and adversarial checks.
 
-Create the public repository, a compiling attributed research draft, complete numbered inventory, reproducible exact computations and explicit source/review records. Do not attempt a finished submission. Manuscript and speculative notes are separate.
+## Completed this pass
 
-## Order of work
+- All 41 numbered formal results have a proof/ambiguity record:33 Verified,
+7 Verified after correction/clarification,1 Unresolved as written (4.10).
+- The4.24 repair,4.23 matching theorem and 5.1–5.3 are independently reconstructed;
+ explicit anonymous/full-anonymous analogues now have proofs too.
+- Product-distribution boundary, minimax/relabeling, increasing maps, action vs
+ abstract group, hom-set and typed-groupoid issues are documented.
+- All 33 remaining numbered definitions/examples have been visited; exact source
+ game tables, generators, matching lifts, Euler separations and both finite Hasse
+ diagrams are checked. Generic parameter assertions are separated from all
+ specialization patterns, including the 4140 eight-parameter patterns.
+- Original statements/proof defects are pinned; a dependency graph and impact
+ command identify results to reconsider after an error.
 
-1. **Foundation completed locally:** common action convention; exact isomorphisms; source statement inventory; known inverse-permutation characterization with three internal agent reviews. No novelty claimed.
-2. **Close source gaps:** compare the now located 2011-dated honours thesis (arXiv posting 2019) with the survey; inspect Dasgupta–Maskin Definition 7 and every proof invoking it, compare the first edition with the now inspected 1953 §28 and p.256 fn.4. Obtain Plan's final journal text; the available author PDF is dated 2017.
-3. **Audit corrections:** repair Proposition 2.2's degenerate strategy-set boundary, Corollary 4.24's subgroup domain, the unnumbered monotone-map assertion and Theorem 5.11's proof. Keep statement validity distinct from proof validity.
-4. **Audit structure:** Theorems 4.7, 4.9, 4.23; strategy triviality, matchings, player-image kernels. Clarify cardinal vs ordinal utility comparisons and the wreath-product order.
-5. **Classification:** extract full payoff tables from Examples 5.13–5.16; implement exact automorphism enumeration including strategy relabeling; validate every separation and parameter restriction. Do not draw a complete hierarchy before this.
-6. **Plan comparison:** normalize action conventions and compare weak/total symmetry, anonymity, solution equivariance and mixed-extension results. Treat transitive automorphism fairness as existing Definition 5.4, not new discovery.
-7. **Fairness programme:** formulate opportunity equivalence, opponent-order sensitivity and distribution-dependent equality separately. Search for separations, then prove surviving implications.
-8. **Submission preparation (later):** author review, external scrutiny, priority search, journal scope and AI-policy checks, arXiv-compatible clean build. Submission requires explicit approval.
+## Next mathematical work
 
-## Verification gates
+1. Author review of corrections.md and the audit verdicts; specify4.10 hom-set
+ language,3.24 preference transport and measurable area for any retained analogy.
+2. Close source gaps without inferring results: original Dasgupta–Maskin
+ Definition 7/Lemmas6–7/Theorems6/6*; final Plan2023 text;1944 comparison and
+ next-tier attribution sources. Access failures are logged, not proof verdicts.
+3. Investigate the source's5.6 converse through the actual player-projection
+ extension and its possible splittings. Treat representation data explicitly.
+4. Use exact higher-degree examples to challenge the binary pure-Nash question
+ for n-transitively standard games. Do not infer arbitrary-n conclusions from
+ the complete two/three-player family enumerations.
+5. Develop one fairness decision primitive at a time (assignment, information,
+ beliefs, strategy correspondences, utility normalization), then search for
+ implications/separations. Keep proposals in fairness-preparation.md until proofs,
+ source comparison and adversarial scrutiny justify promotion.
+6. Rewrite/expand the paper only around reviewed mathematics and appropriately
+ attributed corrections; then obtain author and external scrutiny. Check journal
+ fit, licenses and current AI/arXiv policies at submission preparation time.
 
-A result enters the manuscript as established only with a complete proof, correctly scoped assumptions, traceable provenance and recorded review appropriate to its importance. Three AI reviews are internal criticism, not peer review. Computation disproves universal statements when it produces a valid counterexample; finite success is not a general proof.
+## Research safeguards
 
-See handover.md for the actual completion checklist and unresolved items.
+- No original statement is overwritten by a repair. Preserve original-record.json.
+- Counts refer to reviewed formulations; keep original statement/proof verdicts
+ separate. Internal AI checks are not external peer review.
+- Run scripts/audit.py check and impact after a suspected error; inspect all
+ descendants, adding missing edges as dependencies are discovered.
+- Exact finite enumeration proves its stated finite classifications or supplies
+ counterexamples. General game claims require mathematical proofs.
+- No journal/arXiv submission is authorized.
+
+Detailed deliverables and limits: handover-pass-2.md. First-pass handover.md is a
+historical record and is superseded for current audit status.

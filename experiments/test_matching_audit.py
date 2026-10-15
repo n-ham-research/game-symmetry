@@ -72,8 +72,6 @@ class MatchingAuditTests(unittest.TestCase):
         self.assertFalse(satisfies(p,q))
 
 
-if __name__ == '__main__': unittest.main()
-
 class FailedStrengtheningTests(unittest.TestCase):
     def test_matching_pennies_has_transitive_but_no_strategy_trivial_subgroup(self):
         sizes=(2,2)
@@ -83,3 +81,6 @@ class FailedStrengtheningTests(unittest.TestCase):
         self.assertEqual(len(autos),4)
         self.assertEqual({g[0][0] for g in autos},{0,1})
         self.assertFalse(any(strategy_trivial(h) and {g[0][0] for g in h}=={0,1} for h in subgroups(autos)))
+
+
+if __name__ == '__main__': unittest.main()

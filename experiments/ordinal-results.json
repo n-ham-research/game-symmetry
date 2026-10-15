@@ -1,0 +1,73 @@
+{
+  "scope": "All normalized strict/weak-order payoff rankings in 2x2; not a general game classification",
+  "cases": [
+    {
+      "ties": false,
+      "player_swaps": false,
+      "orders_per_player": 24,
+      "labelled_games": 576,
+      "relabellings": 4,
+      "classes": 144,
+      "fixed_counts": [
+        576,
+        0,
+        0,
+        0
+      ],
+      "method": "Complete orbit enumeration, independently cross-checked by Burnside fixed-point average"
+    },
+    {
+      "ties": false,
+      "player_swaps": true,
+      "orders_per_player": 24,
+      "labelled_games": 576,
+      "relabellings": 8,
+      "classes": 78,
+      "fixed_counts": [
+        576,
+        0,
+        0,
+        0,
+        24,
+        0,
+        0,
+        24
+      ],
+      "method": "Complete orbit enumeration, independently cross-checked by Burnside fixed-point average"
+    },
+    {
+      "ties": true,
+      "player_swaps": false,
+      "orders_per_player": 75,
+      "labelled_games": 5625,
+      "relabellings": 4,
+      "classes": 1413,
+      "fixed_counts": [
+        5625,
+        9,
+        9,
+        9
+      ],
+      "method": "Complete orbit enumeration, independently cross-checked by Burnside fixed-point average"
+    },
+    {
+      "ties": true,
+      "player_swaps": true,
+      "orders_per_player": 75,
+      "labelled_games": 5625,
+      "relabellings": 8,
+      "classes": 726,
+      "fixed_counts": [
+        5625,
+        9,
+        9,
+        9,
+        75,
+        3,
+        3,
+        75
+      ],
+      "method": "Complete orbit enumeration, independently cross-checked by Burnside fixed-point average"
+    }
+  ]
+}

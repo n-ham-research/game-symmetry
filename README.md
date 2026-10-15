@@ -4,9 +4,11 @@ Research by **Nicholas Ham** on symmetry, anonymity, player interchangeability
 and fairness in finite strategic-form games. Principal starting source:
 [Ham, arXiv:1311.4766v5 (2021)](https://arxiv.org/abs/1311.4766v5).
 
-This repository contains an initial research manuscript and an audit programme.
-It is not a completed paper or a claim of new results. The historical record,
-classification examples and fairness interpretations remain under investigation.
+This repository contains an initial research manuscript and an adversarial audit programme.
+It is not a completed paper or a claim of new results. Historical source gaps and fairness interpretations remain under investigation.
+The second pass accounts for all 41 formal results: 33 unchanged valid statements,
+7 corrected/clarified formulations and 1 unresolved original ambiguity. The source
+verdict and corrected-result verdict are kept separate; see the audit ledger.
 
 ## Build and experiments
 
@@ -15,6 +17,7 @@ Requirements: Python 3.10+ (standard library only), pdfLaTeX, BibTeX and latexmk
 
 ```sh
 ./scripts/build.sh
+python3 scripts/audit.py check
 python3 -m unittest discover -s experiments
 python3 experiments/constraint_audit.py --output experiments/results.json
 ```
@@ -28,6 +31,7 @@ compile the bundle in a clean directory before upload. No upload is authorized.
 ## Reading order
 
 - [Roadmap](research/roadmap.md) and [handover](research/handover.md).
+- [Second-pass handover](research/handover-pass-2.md), [correction ledger](research/corrections.md), and [dependency graph](research/dependencies.md).
 - [Complete numbered inventory](research/original-result-inventory.md): source statements, ambient assumptions and explicit dependencies; this is extraction, not verification.
 - [Theorem audit](research/theorem-audit.md), [definition audit](research/definition-audit.md).
 - [First mathematical investigation](research/dasgupta-maskin.md) and [reviews](reviews/review-log.md).

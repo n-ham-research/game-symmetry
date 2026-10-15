@@ -1,0 +1,10144 @@
+{
+  "scope": "Exact finite source tables, equality of symbolic parameters; no floating point or sampled automorphisms.",
+  "extracted_source_tables": {
+    "2.1": {
+      "source": "section-background.tex",
+      "line": 54,
+      "tables": [
+        [
+          [
+            1,
+            1,
+            1
+          ],
+          [
+            2,
+            2,
+            3
+          ],
+          [
+            2,
+            3,
+            2
+          ],
+          [
+            4,
+            5,
+            5
+          ]
+        ],
+        [
+          [
+            3,
+            2,
+            2
+          ],
+          [
+            5,
+            4,
+            5
+          ],
+          [
+            5,
+            5,
+            4
+          ],
+          [
+            6,
+            6,
+            6
+          ]
+        ]
+      ]
+    },
+    "3.10": {
+      "source": "section-label-dependent-symmetric-games.tex",
+      "line": 140,
+      "tables": [
+        [
+          [
+            0,
+            1,
+            2
+          ],
+          [
+            4,
+            6,
+            7
+          ],
+          [
+            4,
+            5,
+            8
+          ],
+          [
+            9,
+            12,
+            14
+          ]
+        ],
+        [
+          [
+            3,
+            6,
+            8
+          ],
+          [
+            10,
+            11,
+            14
+          ],
+          [
+            10,
+            12,
+            13
+          ],
+          [
+            15,
+            16,
+            17
+          ]
+        ]
+      ]
+    },
+    "3.12": {
+      "source": "section-label-dependent-symmetric-games.tex",
+      "line": 166,
+      "tables": [
+        [
+          [
+            0,
+            1,
+            2
+          ],
+          [
+            3,
+            4,
+            5
+          ],
+          [
+            3,
+            4,
+            5
+          ],
+          [
+            6,
+            7,
+            8
+          ]
+        ],
+        [
+          [
+            3,
+            4,
+            5
+          ],
+          [
+            6,
+            7,
+            8
+          ],
+          [
+            6,
+            7,
+            8
+          ],
+          [
+            9,
+            10,
+            11
+          ]
+        ]
+      ]
+    },
+    "3.14": {
+      "source": "section-label-dependent-symmetric-games.tex",
+      "line": 192,
+      "tables": [
+        [
+          [
+            1,
+            1,
+            1
+          ],
+          [
+            2,
+            2,
+            2
+          ],
+          [
+            2,
+            2,
+            2
+          ],
+          [
+            3,
+            3,
+            3
+          ]
+        ],
+        [
+          [
+            2,
+            2,
+            2
+          ],
+          [
+            3,
+            3,
+            3
+          ],
+          [
+            3,
+            3,
+            3
+          ],
+          [
+            4,
+            4,
+            4
+          ]
+        ]
+      ]
+    },
+    "3.16": {
+      "source": "section-label-dependent-symmetric-games.tex",
+      "line": 224,
+      "tables": [
+        [
+          [
+            1,
+            1,
+            1
+          ],
+          [
+            3,
+            7,
+            4
+          ],
+          [
+            7,
+            4,
+            3
+          ],
+          [
+            6,
+            5,
+            8
+          ]
+        ],
+        [
+          [
+            4,
+            3,
+            7
+          ],
+          [
+            8,
+            6,
+            5
+          ],
+          [
+            5,
+            8,
+            6
+          ],
+          [
+            2,
+            2,
+            2
+          ]
+        ]
+      ]
+    },
+    "4.1": {
+      "source": "section-bijections.tex",
+      "line": 8,
+      "tables": [
+        [
+          [
+            1,
+            -1
+          ],
+          [
+            -1,
+            1
+          ],
+          [
+            -1,
+            1
+          ],
+          [
+            1,
+            -1
+          ]
+        ]
+      ]
+    },
+    "4.3": {
+      "source": "section-bijections.tex",
+      "line": 27,
+      "tables": [
+        [
+          [
+            1,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            5,
+            6
+          ],
+          [
+            7,
+            8
+          ]
+        ],
+        [
+          [
+            4,
+            3
+          ],
+          [
+            8,
+            7
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            6,
+            5
+          ]
+        ]
+      ]
+    },
+    "4.4": {
+      "source": "section-bijections.tex",
+      "line": 48,
+      "tables": [],
+      "reference": "3.16, with coordinate labels changed"
+    },
+    "4.18": {
+      "source": "section-bijections.tex",
+      "line": 182,
+      "tables": [],
+      "reference": "Matching only; no payoff table"
+    },
+    "4.25": {
+      "source": "section-bijections.tex",
+      "line": 254,
+      "tables": [],
+      "reference": "Matching enumeration only; no payoff table"
+    },
+    "5.5": {
+      "source": "section-label-independent-symmetric-games.tex",
+      "line": 38,
+      "tables": [],
+      "reference": "4.1, automorphism listing rather than a new table"
+    },
+    "5.12": {
+      "source": "section-label-independent-symmetric-games.tex",
+      "line": 213,
+      "tables": [
+        [
+          [
+            "alpha",
+            "alpha"
+          ],
+          [
+            "gamma",
+            "beta"
+          ],
+          [
+            "beta",
+            "gamma"
+          ],
+          [
+            "delta",
+            "delta"
+          ]
+        ]
+      ]
+    },
+    "5.13": {
+      "source": "section-label-independent-symmetric-games.tex",
+      "line": 331,
+      "tables": [
+        [
+          [
+            "alpha",
+            "alpha",
+            "alpha"
+          ],
+          [
+            "beta",
+            "gamma",
+            "delta"
+          ],
+          [
+            "gamma",
+            "delta",
+            "beta"
+          ],
+          [
+            "delta",
+            "gamma",
+            "beta"
+          ]
+        ],
+        [
+          [
+            "delta",
+            "beta",
+            "gamma"
+          ],
+          [
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          [
+            "gamma",
+            "beta",
+            "delta"
+          ],
+          [
+            "alpha",
+            "alpha",
+            "alpha"
+          ]
+        ]
+      ]
+    },
+    "5.14": {
+      "source": "section-label-independent-symmetric-games.tex",
+      "line": 468,
+      "tables": [
+        [
+          [
+            "alpha",
+            "beta",
+            "gamma",
+            "delta"
+          ],
+          [
+            "rho",
+            "tau",
+            "sigma",
+            "omega"
+          ],
+          [
+            "sigma",
+            "omega",
+            "rho",
+            "tau"
+          ],
+          [
+            "omega",
+            "rho",
+            "tau",
+            "sigma"
+          ]
+        ],
+        [
+          [
+            "delta",
+            "alpha",
+            "beta",
+            "gamma"
+          ],
+          [
+            "tau",
+            "sigma",
+            "omega",
+            "rho"
+          ],
+          [
+            "gamma",
+            "delta",
+            "alpha",
+            "beta"
+          ],
+          [
+            "beta",
+            "gamma",
+            "delta",
+            "alpha"
+          ]
+        ],
+        [
+          [
+            "beta",
+            "gamma",
+            "delta",
+            "alpha"
+          ],
+          [
+            "gamma",
+            "delta",
+            "alpha",
+            "beta"
+          ],
+          [
+            "tau",
+            "sigma",
+            "omega",
+            "rho"
+          ],
+          [
+            "delta",
+            "alpha",
+            "beta",
+            "gamma"
+          ]
+        ],
+        [
+          [
+            "omega",
+            "rho",
+            "tau",
+            "sigma"
+          ],
+          [
+            "sigma",
+            "omega",
+            "rho",
+            "tau"
+          ],
+          [
+            "rho",
+            "tau",
+            "sigma",
+            "omega"
+          ],
+          [
+            "alpha",
+            "beta",
+            "gamma",
+            "delta"
+          ]
+        ],
+        [
+          [
+            "alpha",
+            "alpha",
+            "beta",
+            "beta"
+          ],
+          [
+            "gamma",
+            "delta",
+            "delta",
+            "gamma"
+          ],
+          [
+            "delta",
+            "gamma",
+            "gamma",
+            "delta"
+          ],
+          [
+            "beta",
+            "beta",
+            "alpha",
+            "alpha"
+          ]
+        ],
+        [
+          [
+            "gamma",
+            "delta",
+            "delta",
+            "gamma"
+          ],
+          [
+            "alpha",
+            "alpha",
+            "beta",
+            "beta"
+          ],
+          [
+            "beta",
+            "beta",
+            "alpha",
+            "alpha"
+          ],
+          [
+            "delta",
+            "gamma",
+            "gamma",
+            "delta"
+          ]
+        ],
+        [
+          [
+            "delta",
+            "gamma",
+            "gamma",
+            "delta"
+          ],
+          [
+            "beta",
+            "beta",
+            "alpha",
+            "alpha"
+          ],
+          [
+            "alpha",
+            "alpha",
+            "beta",
+            "beta"
+          ],
+          [
+            "gamma",
+            "delta",
+            "delta",
+            "gamma"
+          ]
+        ],
+        [
+          [
+            "beta",
+            "beta",
+            "alpha",
+            "alpha"
+          ],
+          [
+            "delta",
+            "gamma",
+            "gamma",
+            "delta"
+          ],
+          [
+            "gamma",
+            "delta",
+            "delta",
+            "gamma"
+          ],
+          [
+            "alpha",
+            "alpha",
+            "beta",
+            "beta"
+          ]
+        ]
+      ]
+    },
+    "5.15": {
+      "source": "section-label-independent-symmetric-games.tex",
+      "line": 535,
+      "tables": [
+        [
+          [
+            "alpha",
+            "beta",
+            "beta",
+            "beta"
+          ],
+          [
+            "beta",
+            "alpha",
+            "beta",
+            "beta"
+          ],
+          [
+            "beta",
+            "beta",
+            "beta",
+            "alpha"
+          ],
+          [
+            "beta",
+            "beta",
+            "beta",
+            "alpha"
+          ]
+        ],
+        [
+          [
+            "beta",
+            "beta",
+            "alpha",
+            "beta"
+          ],
+          [
+            "beta",
+            "alpha",
+            "beta",
+            "beta"
+          ],
+          [
+            "beta",
+            "beta",
+            "alpha",
+            "beta"
+          ],
+          [
+            "alpha",
+            "beta",
+            "beta",
+            "beta"
+          ]
+        ],
+        [
+          [
+            "alpha",
+            "beta",
+            "beta",
+            "beta"
+          ],
+          [
+            "beta",
+            "beta",
+            "alpha",
+            "beta"
+          ],
+          [
+            "beta",
+            "alpha",
+            "beta",
+            "beta"
+          ],
+          [
+            "beta",
+            "beta",
+            "alpha",
+            "beta"
+          ]
+        ],
+        [
+          [
+            "beta",
+            "beta",
+            "beta",
+            "alpha"
+          ],
+          [
+            "beta",
+            "beta",
+            "beta",
+            "alpha"
+          ],
+          [
+            "beta",
+            "alpha",
+            "beta",
+            "beta"
+          ],
+          [
+            "alpha",
+            "beta",
+            "beta",
+            "beta"
+          ]
+        ]
+      ]
+    },
+    "5.16": {
+      "source": "section-label-independent-symmetric-games.tex",
+      "line": 569,
+      "tables": [
+        [
+          [
+            1,
+            2,
+            1,
+            2,
+            1,
+            2
+          ],
+          [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        ],
+        [
+          [
+            5,
+            6,
+            7,
+            8,
+            3,
+            4
+          ],
+          [
+            20,
+            15,
+            19,
+            17,
+            18,
+            16
+          ],
+          [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          [
+            27,
+            27,
+            28,
+            28,
+            28,
+            27
+          ]
+        ],
+        [
+          [
+            11,
+            12,
+            13,
+            14,
+            9,
+            10
+          ],
+          [
+            29,
+            29,
+            30,
+            30,
+            30,
+            29
+          ],
+          [
+            26,
+            24,
+            22,
+            23,
+            21,
+            25
+          ],
+          [
+            4,
+            8,
+            6,
+            7,
+            5,
+            3
+          ]
+        ],
+        [
+          [
+            17,
+            18,
+            19,
+            20,
+            15,
+            16
+          ],
+          [
+            8,
+            3,
+            7,
+            5,
+            6,
+            4
+          ],
+          [
+            31,
+            32,
+            32,
+            32,
+            31,
+            31
+          ],
+          [
+            16,
+            20,
+            18,
+            19,
+            17,
+            15
+          ]
+        ],
+        [
+          [
+            7,
+            8,
+            3,
+            4,
+            5,
+            6
+          ],
+          [
+            18,
+            16,
+            20,
+            15,
+            19,
+            17
+          ],
+          [
+            30,
+            29,
+            29,
+            29,
+            30,
+            30
+          ],
+          [
+            6,
+            4,
+            8,
+            3,
+            7,
+            5
+          ]
+        ],
+        [
+          [
+            19,
+            17,
+            18,
+            16,
+            20,
+            15
+          ],
+          [
+            32,
+            31,
+            32,
+            31,
+            32,
+            31
+          ],
+          [
+            13,
+            11,
+            12,
+            10,
+            14,
+            9
+          ],
+          [
+            22,
+            26,
+            24,
+            25,
+            23,
+            21
+          ]
+        ],
+        [
+          [
+            23,
+            24,
+            25,
+            26,
+            21,
+            22
+          ],
+          [
+            12,
+            10,
+            14,
+            9,
+            13,
+            11
+          ],
+          [
+            14,
+            12,
+            10,
+            11,
+            9,
+            13
+          ],
+          [
+            2,
+            2,
+            2,
+            1,
+            1,
+            1
+          ]
+        ],
+        [
+          [
+            28,
+            28,
+            28,
+            27,
+            27,
+            27
+          ],
+          [
+            24,
+            25,
+            23,
+            21,
+            22,
+            26
+          ],
+          [
+            25,
+            23,
+            24,
+            22,
+            26,
+            21
+          ],
+          [
+            10,
+            14,
+            12,
+            13,
+            11,
+            9
+          ]
+        ],
+        [
+          [
+            13,
+            14,
+            9,
+            10,
+            11,
+            12
+          ],
+          [
+            25,
+            26,
+            21,
+            22,
+            23,
+            24
+          ],
+          [
+            21,
+            25,
+            26,
+            24,
+            22,
+            23
+          ],
+          [
+            31,
+            31,
+            31,
+            32,
+            32,
+            32
+          ]
+        ],
+        [
+          [
+            30,
+            30,
+            30,
+            29,
+            29,
+            29
+          ],
+          [
+            14,
+            9,
+            13,
+            11,
+            12,
+            10
+          ],
+          [
+            9,
+            13,
+            14,
+            12,
+            10,
+            11
+          ],
+          [
+            26,
+            21,
+            25,
+            23,
+            24,
+            22
+          ]
+        ],
+        [
+          [
+            22,
+            23,
+            21,
+            25,
+            26,
+            24
+          ],
+          [
+            10,
+            11,
+            9,
+            13,
+            14,
+            12
+          ],
+          [
+            27,
+            28,
+            27,
+            28,
+            27,
+            28
+          ],
+          [
+            16,
+            17,
+            15,
+            19,
+            20,
+            18
+          ]
+        ],
+        [
+          [
+            6,
+            7,
+            5,
+            3,
+            4,
+            8
+          ],
+          [
+            2,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          [
+            15,
+            19,
+            20,
+            18,
+            16,
+            17
+          ],
+          [
+            4,
+            5,
+            3,
+            7,
+            8,
+            6
+          ]
+        ],
+        [
+          [
+            19,
+            20,
+            15,
+            16,
+            17,
+            18
+          ],
+          [
+            28,
+            27,
+            27,
+            27,
+            28,
+            28
+          ],
+          [
+            5,
+            3,
+            4,
+            8,
+            6,
+            7
+          ],
+          [
+            17,
+            15,
+            16,
+            20,
+            18,
+            19
+          ]
+        ],
+        [
+          [
+            7,
+            5,
+            6,
+            4,
+            8,
+            3
+          ],
+          [
+            23,
+            21,
+            22,
+            26,
+            24,
+            25
+          ],
+          [
+            1,
+            1,
+            2,
+            2,
+            2,
+            1
+          ],
+          [
+            11,
+            9,
+            10,
+            14,
+            12,
+            13
+          ]
+        ],
+        [
+          [
+            32,
+            32,
+            31,
+            31,
+            31,
+            32
+          ],
+          [
+            24,
+            22,
+            26,
+            21,
+            25,
+            23
+          ],
+          [
+            20,
+            18,
+            16,
+            17,
+            15,
+            19
+          ],
+          [
+            8,
+            6,
+            4,
+            5,
+            3,
+            7
+          ]
+        ],
+        [
+          [
+            18,
+            19,
+            17,
+            15,
+            16,
+            20
+          ],
+          [
+            12,
+            13,
+            11,
+            9,
+            10,
+            14
+          ],
+          [
+            3,
+            7,
+            8,
+            6,
+            4,
+            5
+          ],
+          [
+            29,
+            30,
+            29,
+            30,
+            29,
+            30
+          ]
+        ]
+      ]
+    }
+  },
+  "generic": {
+    "2.1": {
+      "n": 3,
+      "ambient_order": 48,
+      "automorphism_order": 6,
+      "player_image_order": 6,
+      "player_kernel_order": 1,
+      "symmetric": true,
+      "n_transitive": true,
+      "standard": true,
+      "fully": true,
+      "matching_lifts": [
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 6,
+          "transitive": true,
+          "full": true
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 2,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 2,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 2,
+          "transitive": false,
+          "full": false
+        }
+      ],
+      "pure_equilibria": [
+        [
+          1,
+          1,
+          1
+        ]
+      ],
+      "player_image": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          0,
+          2,
+          1
+        ],
+        [
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    },
+    "3.10": {
+      "n": 3,
+      "ambient_order": 48,
+      "automorphism_order": 1,
+      "player_image_order": 1,
+      "player_kernel_order": 1,
+      "symmetric": false,
+      "n_transitive": false,
+      "standard": false,
+      "fully": false,
+      "matching_lifts": [
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        }
+      ],
+      "pure_equilibria": [
+        [
+          1,
+          1,
+          1
+        ]
+      ],
+      "player_image": [
+        [
+          0,
+          1,
+          2
+        ]
+      ]
+    },
+    "3.12": {
+      "n": 3,
+      "ambient_order": 48,
+      "automorphism_order": 1,
+      "player_image_order": 1,
+      "player_kernel_order": 1,
+      "symmetric": false,
+      "n_transitive": false,
+      "standard": false,
+      "fully": false,
+      "matching_lifts": [
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        }
+      ],
+      "pure_equilibria": [
+        [
+          1,
+          1,
+          1
+        ]
+      ],
+      "player_image": [
+        [
+          0,
+          1,
+          2
+        ]
+      ]
+    },
+    "3.14": {
+      "n": 3,
+      "ambient_order": 48,
+      "automorphism_order": 6,
+      "player_image_order": 6,
+      "player_kernel_order": 1,
+      "symmetric": true,
+      "n_transitive": true,
+      "standard": true,
+      "fully": true,
+      "matching_lifts": [
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 6,
+          "transitive": true,
+          "full": true
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 2,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 2,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 2,
+          "transitive": false,
+          "full": false
+        }
+      ],
+      "pure_equilibria": [
+        [
+          1,
+          1,
+          1
+        ]
+      ],
+      "player_image": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          0,
+          2,
+          1
+        ],
+        [
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    },
+    "3.16": {
+      "n": 3,
+      "ambient_order": 48,
+      "automorphism_order": 3,
+      "player_image_order": 3,
+      "player_kernel_order": 1,
+      "symmetric": true,
+      "n_transitive": false,
+      "standard": true,
+      "fully": false,
+      "matching_lifts": [
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 3,
+          "transitive": true,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        }
+      ],
+      "pure_equilibria": [],
+      "player_image": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          0,
+          1
+        ]
+      ]
+    },
+    "4.1": {
+      "n": 2,
+      "ambient_order": 8,
+      "automorphism_order": 4,
+      "player_image_order": 2,
+      "player_kernel_order": 2,
+      "symmetric": true,
+      "n_transitive": true,
+      "standard": false,
+      "fully": false,
+      "matching_lifts": [
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        }
+      ],
+      "pure_equilibria": [],
+      "player_image": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ]
+      ]
+    },
+    "4.3a": {
+      "n": 2,
+      "ambient_order": 8,
+      "automorphism_order": 1,
+      "player_image_order": 1,
+      "player_kernel_order": 1,
+      "symmetric": false,
+      "n_transitive": false,
+      "standard": false,
+      "fully": false,
+      "matching_lifts": [
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        }
+      ],
+      "pure_equilibria": [
+        [
+          1,
+          1
+        ]
+      ],
+      "player_image": [
+        [
+          0,
+          1
+        ]
+      ]
+    },
+    "4.3b": {
+      "n": 2,
+      "ambient_order": 8,
+      "automorphism_order": 1,
+      "player_image_order": 1,
+      "player_kernel_order": 1,
+      "symmetric": false,
+      "n_transitive": false,
+      "standard": false,
+      "fully": false,
+      "matching_lifts": [
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        }
+      ],
+      "pure_equilibria": [
+        [
+          0,
+          1
+        ]
+      ],
+      "player_image": [
+        [
+          0,
+          1
+        ]
+      ]
+    },
+    "5.12": {
+      "n": 2,
+      "ambient_order": 8,
+      "automorphism_order": 2,
+      "player_image_order": 2,
+      "player_kernel_order": 1,
+      "symmetric": true,
+      "n_transitive": true,
+      "standard": true,
+      "fully": true,
+      "matching_lifts": [
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 2,
+          "transitive": true,
+          "full": true
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        }
+      ],
+      "pure_equilibria": null,
+      "player_image": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ]
+      ]
+    },
+    "5.13": {
+      "n": 3,
+      "ambient_order": 48,
+      "automorphism_order": 6,
+      "player_image_order": 6,
+      "player_kernel_order": 1,
+      "symmetric": true,
+      "n_transitive": true,
+      "standard": true,
+      "fully": false,
+      "matching_lifts": [
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 3,
+          "transitive": true,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        }
+      ],
+      "pure_equilibria": null,
+      "player_image": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          0,
+          2,
+          1
+        ],
+        [
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ],
+      "automorphisms": [
+        [
+          [
+            0,
+            1,
+            2
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            0,
+            2,
+            1
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            0,
+            2
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            2,
+            0
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            0,
+            1
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            1,
+            0
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ]
+      ]
+    },
+    "5.14a": {
+      "n": 4,
+      "ambient_order": 384,
+      "automorphism_order": 8,
+      "player_image_order": 4,
+      "player_kernel_order": 2,
+      "symmetric": true,
+      "n_transitive": false,
+      "standard": false,
+      "fully": false,
+      "matching_lifts": [
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        }
+      ],
+      "pure_equilibria": null,
+      "player_image": [
+        [
+          0,
+          1,
+          2,
+          3
+        ],
+        [
+          1,
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0,
+          1
+        ],
+        [
+          3,
+          0,
+          1,
+          2
+        ]
+      ],
+      "automorphisms": [
+        [
+          [
+            0,
+            1,
+            2,
+            3
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            0,
+            1,
+            2,
+            3
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            2,
+            3,
+            0
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            2,
+            3,
+            0
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            3,
+            0,
+            1
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            3,
+            0,
+            1
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            3,
+            0,
+            1,
+            2
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            3,
+            0,
+            1,
+            2
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ]
+      ]
+    },
+    "5.14b": {
+      "n": 4,
+      "ambient_order": 384,
+      "automorphism_order": 16,
+      "player_image_order": 4,
+      "player_kernel_order": 4,
+      "symmetric": true,
+      "n_transitive": false,
+      "standard": false,
+      "fully": false,
+      "matching_lifts": [
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 2,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 2,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 2,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 2,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 2,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 2,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 2,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 2,
+          "transitive": false,
+          "full": false
+        }
+      ],
+      "pure_equilibria": null,
+      "player_image": [
+        [
+          0,
+          1,
+          2,
+          3
+        ],
+        [
+          1,
+          0,
+          3,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          1
+        ],
+        [
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "automorphisms": [
+        [
+          [
+            0,
+            1,
+            2,
+            3
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            0,
+            1,
+            2,
+            3
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            0,
+            1,
+            2,
+            3
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            0,
+            1,
+            2,
+            3
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            0,
+            3,
+            2
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            0,
+            3,
+            2
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            0,
+            3,
+            2
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            0,
+            3,
+            2
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            3,
+            0,
+            1
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            3,
+            0,
+            1
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            3,
+            0,
+            1
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            3,
+            0,
+            1
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            3,
+            2,
+            1,
+            0
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            3,
+            2,
+            1,
+            0
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            3,
+            2,
+            1,
+            0
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            3,
+            2,
+            1,
+            0
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ]
+      ]
+    },
+    "5.15": {
+      "n": 4,
+      "ambient_order": 384,
+      "automorphism_order": 48,
+      "player_image_order": 24,
+      "player_kernel_order": 2,
+      "symmetric": true,
+      "n_transitive": true,
+      "standard": false,
+      "fully": false,
+      "matching_lifts": [
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 3,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 3,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 3,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 3,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 3,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 3,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 3,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 3,
+          "transitive": false,
+          "full": false
+        }
+      ],
+      "pure_equilibria": null,
+      "player_image": [
+        [
+          0,
+          1,
+          2,
+          3
+        ],
+        [
+          0,
+          1,
+          3,
+          2
+        ],
+        [
+          0,
+          2,
+          1,
+          3
+        ],
+        [
+          0,
+          2,
+          3,
+          1
+        ],
+        [
+          0,
+          3,
+          1,
+          2
+        ],
+        [
+          0,
+          3,
+          2,
+          1
+        ],
+        [
+          1,
+          0,
+          2,
+          3
+        ],
+        [
+          1,
+          0,
+          3,
+          2
+        ],
+        [
+          1,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          2,
+          3,
+          0
+        ],
+        [
+          1,
+          3,
+          0,
+          2
+        ],
+        [
+          1,
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          0,
+          1,
+          3
+        ],
+        [
+          2,
+          0,
+          3,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0,
+          1
+        ],
+        [
+          2,
+          3,
+          1,
+          0
+        ],
+        [
+          3,
+          0,
+          1,
+          2
+        ],
+        [
+          3,
+          0,
+          2,
+          1
+        ],
+        [
+          3,
+          1,
+          0,
+          2
+        ],
+        [
+          3,
+          1,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0,
+          1
+        ],
+        [
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "automorphisms": [
+        [
+          [
+            0,
+            1,
+            2,
+            3
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            0,
+            1,
+            2,
+            3
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            0,
+            1,
+            3,
+            2
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            0,
+            1,
+            3,
+            2
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            0,
+            2,
+            1,
+            3
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            0,
+            2,
+            1,
+            3
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            0,
+            2,
+            3,
+            1
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            0,
+            2,
+            3,
+            1
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            0,
+            3,
+            1,
+            2
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            0,
+            3,
+            1,
+            2
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            0,
+            3,
+            2,
+            1
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            0,
+            3,
+            2,
+            1
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            0,
+            2,
+            3
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            0,
+            2,
+            3
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            0,
+            3,
+            2
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            0,
+            3,
+            2
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            2,
+            0,
+            3
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            2,
+            0,
+            3
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            2,
+            3,
+            0
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            2,
+            3,
+            0
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            3,
+            0,
+            2
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            3,
+            0,
+            2
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            3,
+            2,
+            0
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            3,
+            2,
+            0
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            0,
+            1,
+            3
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            0,
+            1,
+            3
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            0,
+            3,
+            1
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            0,
+            3,
+            1
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            1,
+            0,
+            3
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            1,
+            0,
+            3
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            1,
+            3,
+            0
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            1,
+            3,
+            0
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            3,
+            0,
+            1
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            3,
+            0,
+            1
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            3,
+            1,
+            0
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            3,
+            1,
+            0
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            3,
+            0,
+            1,
+            2
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            3,
+            0,
+            1,
+            2
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            3,
+            0,
+            2,
+            1
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            3,
+            0,
+            2,
+            1
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            3,
+            1,
+            0,
+            2
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            3,
+            1,
+            0,
+            2
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            3,
+            1,
+            2,
+            0
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            3,
+            1,
+            2,
+            0
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            3,
+            2,
+            0,
+            1
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            3,
+            2,
+            0,
+            1
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            3,
+            2,
+            1,
+            0
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            3,
+            2,
+            1,
+            0
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ]
+      ]
+    },
+    "5.16": {
+      "n": 6,
+      "ambient_order": 46080,
+      "automorphism_order": 12,
+      "player_image_order": 12,
+      "player_kernel_order": 1,
+      "symmetric": true,
+      "n_transitive": false,
+      "standard": false,
+      "fully": false,
+      "matching_lifts": [
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 3,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 3,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 3,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 3,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 3,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 3,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 3,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 3,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        }
+      ],
+      "pure_equilibria": [
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          1,
+          0,
+          1
+        ],
+        [
+          0,
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      ],
+      "player_image": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        [
+          0,
+          4,
+          5,
+          3,
+          1,
+          2
+        ],
+        [
+          1,
+          2,
+          0,
+          4,
+          5,
+          3
+        ],
+        [
+          1,
+          5,
+          3,
+          4,
+          2,
+          0
+        ],
+        [
+          2,
+          0,
+          1,
+          5,
+          3,
+          4
+        ],
+        [
+          2,
+          3,
+          4,
+          5,
+          0,
+          1
+        ],
+        [
+          3,
+          1,
+          5,
+          0,
+          4,
+          2
+        ],
+        [
+          3,
+          4,
+          2,
+          0,
+          1,
+          5
+        ],
+        [
+          4,
+          2,
+          3,
+          1,
+          5,
+          0
+        ],
+        [
+          4,
+          5,
+          0,
+          1,
+          2,
+          3
+        ],
+        [
+          5,
+          0,
+          4,
+          2,
+          3,
+          1
+        ],
+        [
+          5,
+          3,
+          1,
+          2,
+          0,
+          4
+        ]
+      ],
+      "automorphisms": [
+        [
+          [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            0,
+            4,
+            5,
+            3,
+            1,
+            2
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            2,
+            0,
+            4,
+            5,
+            3
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            5,
+            3,
+            4,
+            2,
+            0
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            0,
+            1,
+            5,
+            3,
+            4
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            3,
+            4,
+            5,
+            0,
+            1
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            3,
+            1,
+            5,
+            0,
+            4,
+            2
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            3,
+            4,
+            2,
+            0,
+            1,
+            5
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            4,
+            2,
+            3,
+            1,
+            5,
+            0
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            4,
+            5,
+            0,
+            1,
+            2,
+            3
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            5,
+            0,
+            4,
+            2,
+            3,
+            1
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            5,
+            3,
+            1,
+            2,
+            0,
+            4
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ]
+      ]
+    },
+    "4.4": {
+      "n": 3,
+      "ambient_order": 48,
+      "automorphism_order": 3,
+      "player_image_order": 3,
+      "player_kernel_order": 1,
+      "symmetric": true,
+      "n_transitive": false,
+      "standard": true,
+      "fully": false,
+      "matching_lifts": [
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 3,
+          "transitive": true,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        }
+      ],
+      "pure_equilibria": [],
+      "player_image": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          0,
+          1
+        ]
+      ]
+    },
+    "5.5": {
+      "n": 2,
+      "ambient_order": 8,
+      "automorphism_order": 4,
+      "player_image_order": 2,
+      "player_kernel_order": 2,
+      "symmetric": true,
+      "n_transitive": true,
+      "standard": false,
+      "fully": false,
+      "matching_lifts": [
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        },
+        {
+          "reference_maps": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "image_order": 1,
+          "transitive": false,
+          "full": false
+        }
+      ],
+      "pure_equilibria": [],
+      "player_image": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "specializations": {
+    "5.12": {
+      "scope": "all equality partitions for automorphisms; equilibrium lists apply only to the displayed integer ordering of blocks",
+      "cases": [
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "automorphism_order": 8,
+          "player_image_order": 2,
+          "standard": true,
+          "fully": true,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "automorphism_order": 2,
+          "player_image_order": 2,
+          "standard": true,
+          "fully": true,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "automorphism_order": 2,
+          "player_image_order": 2,
+          "standard": true,
+          "fully": true,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "automorphism_order": 2,
+          "player_image_order": 2,
+          "standard": true,
+          "fully": true,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            0,
+            1,
+            2
+          ],
+          "automorphism_order": 2,
+          "player_image_order": 2,
+          "standard": true,
+          "fully": true,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "automorphism_order": 2,
+          "player_image_order": 2,
+          "standard": true,
+          "fully": true,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            0,
+            1
+          ],
+          "automorphism_order": 4,
+          "player_image_order": 2,
+          "standard": true,
+          "fully": true,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            0,
+            2
+          ],
+          "automorphism_order": 2,
+          "player_image_order": 2,
+          "standard": true,
+          "fully": true,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            1,
+            0
+          ],
+          "automorphism_order": 2,
+          "player_image_order": 2,
+          "standard": true,
+          "fully": true,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            1,
+            1
+          ],
+          "automorphism_order": 2,
+          "player_image_order": 2,
+          "standard": true,
+          "fully": true,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            1,
+            2
+          ],
+          "automorphism_order": 2,
+          "player_image_order": 2,
+          "standard": true,
+          "fully": true,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            2,
+            0
+          ],
+          "automorphism_order": 2,
+          "player_image_order": 2,
+          "standard": true,
+          "fully": true,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            2,
+            1
+          ],
+          "automorphism_order": 2,
+          "player_image_order": 2,
+          "standard": true,
+          "fully": true,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            2,
+            2
+          ],
+          "automorphism_order": 2,
+          "player_image_order": 2,
+          "standard": true,
+          "fully": true,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "automorphism_order": 2,
+          "player_image_order": 2,
+          "standard": true,
+          "fully": true,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        }
+      ]
+    },
+    "5.13": {
+      "scope": "all equality partitions for automorphisms; equilibrium lists apply only to the displayed integer ordering of blocks",
+      "cases": [
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "automorphism_order": 48,
+          "player_image_order": 6,
+          "standard": true,
+          "fully": true,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "automorphism_order": 6,
+          "player_image_order": 6,
+          "standard": true,
+          "fully": false,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "automorphism_order": 12,
+          "player_image_order": 6,
+          "standard": true,
+          "fully": true,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "automorphism_order": 6,
+          "player_image_order": 6,
+          "standard": true,
+          "fully": false,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            0,
+            1,
+            2
+          ],
+          "automorphism_order": 6,
+          "player_image_order": 6,
+          "standard": true,
+          "fully": false,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "automorphism_order": 6,
+          "player_image_order": 6,
+          "standard": true,
+          "fully": false,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            0,
+            1
+          ],
+          "automorphism_order": 12,
+          "player_image_order": 6,
+          "standard": true,
+          "fully": true,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            0,
+            2
+          ],
+          "automorphism_order": 6,
+          "player_image_order": 6,
+          "standard": true,
+          "fully": false,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            1,
+            0
+          ],
+          "automorphism_order": 6,
+          "player_image_order": 6,
+          "standard": true,
+          "fully": false,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            1,
+            1
+          ],
+          "automorphism_order": 12,
+          "player_image_order": 6,
+          "standard": true,
+          "fully": true,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            1,
+            2
+          ],
+          "automorphism_order": 6,
+          "player_image_order": 6,
+          "standard": true,
+          "fully": false,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            2,
+            0
+          ],
+          "automorphism_order": 6,
+          "player_image_order": 6,
+          "standard": true,
+          "fully": false,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            2,
+            1
+          ],
+          "automorphism_order": 12,
+          "player_image_order": 6,
+          "standard": true,
+          "fully": true,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            2,
+            2
+          ],
+          "automorphism_order": 6,
+          "player_image_order": 6,
+          "standard": true,
+          "fully": false,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "automorphism_order": 6,
+          "player_image_order": 6,
+          "standard": true,
+          "fully": false,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        }
+      ]
+    },
+    "5.14a": {
+      "scope": "all-equal witness only; partial coincidences not exhausted",
+      "all_equal": {
+        "automorphism_order": 384,
+        "player_image_order": 24,
+        "standard": true,
+        "fully": true,
+        "n_transitive": true
+      }
+    },
+    "5.14b": {
+      "scope": "all equality partitions for automorphisms; equilibrium lists apply only to the displayed integer ordering of blocks",
+      "cases": [
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "automorphism_order": 384,
+          "player_image_order": 24,
+          "standard": true,
+          "fully": true,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              1,
+              1
+            ],
+            [
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0,
+              1
+            ],
+            [
+              1,
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "automorphism_order": 16,
+          "player_image_order": 4,
+          "standard": false,
+          "fully": false,
+          "n_transitive": false,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "automorphism_order": 16,
+          "player_image_order": 4,
+          "standard": false,
+          "fully": false,
+          "n_transitive": false,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "automorphism_order": 192,
+          "player_image_order": 24,
+          "standard": true,
+          "fully": true,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            0,
+            1,
+            2
+          ],
+          "automorphism_order": 16,
+          "player_image_order": 4,
+          "standard": false,
+          "fully": false,
+          "n_transitive": false,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "automorphism_order": 16,
+          "player_image_order": 4,
+          "standard": false,
+          "fully": false,
+          "n_transitive": false,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1,
+              1
+            ],
+            [
+              0,
+              1,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              0,
+              0,
+              1
+            ],
+            [
+              1,
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            0,
+            1
+          ],
+          "automorphism_order": 32,
+          "player_image_order": 8,
+          "standard": false,
+          "fully": false,
+          "n_transitive": false,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              1,
+              1
+            ],
+            [
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0,
+              1
+            ],
+            [
+              1,
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            0,
+            2
+          ],
+          "automorphism_order": 16,
+          "player_image_order": 4,
+          "standard": false,
+          "fully": false,
+          "n_transitive": false,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            1,
+            0
+          ],
+          "automorphism_order": 32,
+          "player_image_order": 8,
+          "standard": false,
+          "fully": false,
+          "n_transitive": false,
+          "pure_equilibria": []
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            1,
+            1
+          ],
+          "automorphism_order": 16,
+          "player_image_order": 4,
+          "standard": false,
+          "fully": false,
+          "n_transitive": false,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            1,
+            2
+          ],
+          "automorphism_order": 16,
+          "player_image_order": 4,
+          "standard": false,
+          "fully": false,
+          "n_transitive": false,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            2,
+            0
+          ],
+          "automorphism_order": 16,
+          "player_image_order": 4,
+          "standard": false,
+          "fully": false,
+          "n_transitive": false,
+          "pure_equilibria": []
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            2,
+            1
+          ],
+          "automorphism_order": 16,
+          "player_image_order": 4,
+          "standard": false,
+          "fully": false,
+          "n_transitive": false,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            2,
+            2
+          ],
+          "automorphism_order": 16,
+          "player_image_order": 4,
+          "standard": false,
+          "fully": false,
+          "n_transitive": false,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta",
+            "delta",
+            "gamma"
+          ],
+          "equality_pattern": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "automorphism_order": 16,
+          "player_image_order": 4,
+          "standard": false,
+          "fully": false,
+          "n_transitive": false,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1,
+              0
+            ]
+          ]
+        }
+      ]
+    },
+    "5.15": {
+      "scope": "all equality partitions for automorphisms; equilibrium lists apply only to the displayed integer ordering of blocks",
+      "cases": [
+        {
+          "parameter_order": [
+            "alpha",
+            "beta"
+          ],
+          "equality_pattern": [
+            0,
+            0
+          ],
+          "automorphism_order": 384,
+          "player_image_order": 24,
+          "standard": true,
+          "fully": true,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              1,
+              1
+            ],
+            [
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0,
+              1
+            ],
+            [
+              1,
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "parameter_order": [
+            "alpha",
+            "beta"
+          ],
+          "equality_pattern": [
+            0,
+            1
+          ],
+          "automorphism_order": 48,
+          "player_image_order": 24,
+          "standard": false,
+          "fully": false,
+          "n_transitive": true,
+          "pure_equilibria": [
+            [
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              1,
+              1
+            ],
+            [
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0,
+              1
+            ],
+            [
+              1,
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1,
+              1
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "source_generator_checks": {
+    "5.13": {
+      "generators": [
+        [
+          [
+            1,
+            2,
+            0
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            0,
+            2
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ]
+      ],
+      "generated_order": 6,
+      "equals_full_generic_aut": true
+    },
+    "5.14a": {
+      "generators": [
+        [
+          [
+            1,
+            2,
+            3,
+            0
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ]
+      ],
+      "generated_order": 8,
+      "equals_full_generic_aut": true
+    },
+    "5.14b": {
+      "generators": [
+        [
+          [
+            1,
+            0,
+            3,
+            2
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            3,
+            0,
+            1
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            3,
+            2,
+            1,
+            0
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ]
+      ],
+      "generated_order": 16,
+      "equals_full_generic_aut": true
+    },
+    "5.15": {
+      "generators": [
+        [
+          [
+            1,
+            2,
+            3,
+            0
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            0,
+            2,
+            3
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ]
+      ],
+      "generated_order": 48,
+      "equals_full_generic_aut": true
+    },
+    "5.16": {
+      "generators": [
+        [
+          [
+            3,
+            4,
+            2,
+            0,
+            1,
+            5
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            2,
+            3,
+            4,
+            5,
+            0,
+            1
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        ]
+      ],
+      "generated_order": 12,
+      "equals_full_generic_aut": true
+    }
+  },
+  "diagrams": [
+    {
+      "n": 2,
+      "ambient_order": 8,
+      "subgroup_count": 10,
+      "family_count": 4,
+      "classes": [
+        {
+          "partition": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "parameters": 1,
+          "automorphism_order": 8,
+          "player_image_order": 2,
+          "symmetric": true,
+          "n_transitive": true,
+          "standard": true,
+          "fully": true
+        },
+        {
+          "partition": [
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0
+          ],
+          "parameters": 2,
+          "automorphism_order": 4,
+          "player_image_order": 2,
+          "symmetric": true,
+          "n_transitive": true,
+          "standard": true,
+          "fully": true
+        },
+        {
+          "partition": [
+            0,
+            0,
+            1,
+            2,
+            2,
+            1,
+            3,
+            3
+          ],
+          "parameters": 4,
+          "automorphism_order": 2,
+          "player_image_order": 2,
+          "symmetric": true,
+          "n_transitive": true,
+          "standard": true,
+          "fully": true
+        },
+        {
+          "partition": [
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1
+          ],
+          "parameters": 2,
+          "automorphism_order": 4,
+          "player_image_order": 2,
+          "symmetric": true,
+          "n_transitive": true,
+          "standard": false,
+          "fully": false
+        }
+      ],
+      "covers_general_to_special": [
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "source_nodes": {
+        "r3c1": 0,
+        "r2c2": 3,
+        "r2c1": 1,
+        "r1c1": 2
+      },
+      "source_all_nodes_match": true,
+      "source_edges_match": true,
+      "source_edges": [
+        [
+          "r2c1",
+          "r3c1"
+        ],
+        [
+          "r3c1",
+          "r2c2"
+        ],
+        [
+          "r2c1",
+          "r1c1"
+        ]
+      ],
+      "generator_tables_match": {
+        "r1c1": true,
+        "r2c1": true,
+        "r2c2": true,
+        "r3c1": true
+      }
+    },
+    {
+      "n": 3,
+      "ambient_order": 48,
+      "subgroup_count": 98,
+      "family_count": 7,
+      "classes": [
+        {
+          "partition": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "parameters": 1,
+          "automorphism_order": 48,
+          "player_image_order": 6,
+          "symmetric": true,
+          "n_transitive": true,
+          "standard": true,
+          "fully": true
+        },
+        {
+          "partition": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1
+          ],
+          "parameters": 2,
+          "automorphism_order": 24,
+          "player_image_order": 6,
+          "symmetric": true,
+          "n_transitive": true,
+          "standard": true,
+          "fully": true
+        },
+        {
+          "partition": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            0,
+            0,
+            0
+          ],
+          "parameters": 3,
+          "automorphism_order": 12,
+          "player_image_order": 6,
+          "symmetric": true,
+          "n_transitive": true,
+          "standard": true,
+          "fully": true
+        },
+        {
+          "partition": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            3,
+            4,
+            4,
+            2,
+            1,
+            1,
+            4,
+            3,
+            4,
+            4,
+            4,
+            3,
+            5,
+            5,
+            5
+          ],
+          "parameters": 6,
+          "automorphism_order": 6,
+          "player_image_order": 6,
+          "symmetric": true,
+          "n_transitive": true,
+          "standard": true,
+          "fully": true
+        },
+        {
+          "partition": [
+            0,
+            0,
+            0,
+            1,
+            2,
+            3,
+            2,
+            3,
+            1,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            2,
+            3,
+            1,
+            1,
+            2,
+            3,
+            0,
+            0,
+            0
+          ],
+          "parameters": 4,
+          "automorphism_order": 6,
+          "player_image_order": 3,
+          "symmetric": true,
+          "n_transitive": false,
+          "standard": true,
+          "fully": false
+        },
+        {
+          "partition": [
+            0,
+            0,
+            0,
+            1,
+            2,
+            3,
+            2,
+            3,
+            1,
+            3,
+            2,
+            1,
+            3,
+            1,
+            2,
+            1,
+            3,
+            2,
+            2,
+            1,
+            3,
+            0,
+            0,
+            0
+          ],
+          "parameters": 4,
+          "automorphism_order": 6,
+          "player_image_order": 6,
+          "symmetric": true,
+          "n_transitive": true,
+          "standard": true,
+          "fully": false
+        },
+        {
+          "partition": [
+            0,
+            0,
+            0,
+            1,
+            2,
+            3,
+            2,
+            3,
+            1,
+            4,
+            5,
+            6,
+            3,
+            1,
+            2,
+            6,
+            4,
+            5,
+            5,
+            6,
+            4,
+            7,
+            7,
+            7
+          ],
+          "parameters": 8,
+          "automorphism_order": 3,
+          "player_image_order": 3,
+          "symmetric": true,
+          "n_transitive": false,
+          "standard": true,
+          "fully": false
+        }
+      ],
+      "covers_general_to_special": [
+        [
+          3,
+          1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          6,
+          4
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          6,
+          3
+        ]
+      ],
+      "source_nodes": {
+        "r4c1": 0,
+        "r3c1": 1,
+        "r3c2": 2,
+        "r2c1": 3,
+        "r2c2": 5,
+        "r2c3": 4,
+        "r1c1": 6
+      },
+      "source_all_nodes_match": true,
+      "source_edges_match": true,
+      "source_edges": [
+        [
+          "r3c1",
+          "r4c1"
+        ],
+        [
+          "r4c1",
+          "r3c2"
+        ],
+        [
+          "r3c1",
+          "r2c1"
+        ],
+        [
+          "r2c1",
+          "r3c2"
+        ],
+        [
+          "r3c2",
+          "r2c2"
+        ],
+        [
+          "r3c2",
+          "r2c3"
+        ],
+        [
+          "r2c1",
+          "r1c1"
+        ],
+        [
+          "r1c1",
+          "r2c2"
+        ],
+        [
+          "r2c3",
+          "r1c1"
+        ]
+      ],
+      "generator_tables_match": {
+        "r1c1": true,
+        "r2c1": true,
+        "r2c2": true,
+        "r2c3": true,
+        "r3c1": true,
+        "r3c2": true,
+        "r4c1": true,
+        "G32_pair_21_23": true,
+        "G32_pair_22_23": true
+      }
+    }
+  ]
+}

@@ -31,6 +31,10 @@
     {
       "path": "research/original-diagrams.json",
       "sha256": "f9d0030164c1c23384988789c174a4af58f4c8018451b7eb0f814ae2ef82d0ee"
+    },
+    {
+      "path": "research/counterexamples.json",
+      "sha256": "1b35c1608d35c423de833ca476d8da88a988e07ac62bdebd2a60568ff3ab7ce8"
     }
   ],
   "policy": "Tamper-evident original record: do not overwrite pinned files when repairing mathematics. Git commit objects retain the immutable first-pass statements; checks fail on changed pinned bytes. New interpretations belong in correction/audit records. This is a Git integrity record, not an external timestamp or write-once storage guarantee."
