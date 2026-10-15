@@ -116,3 +116,38 @@ a missing reference identity t0=id in the coordinator's assignment converse;
 it was explicitly added. These are recorded research corrections, not hidden.
 The raw alternating payoff construction and all unverified novelty remain
 qualified. No manuscript expansion, author proof sign-off or submission occurred.
+
+## Research Phase 5 — 16 October 2026
+
+Three fresh same-family Codex instances received full repository/chat context:
+p5_ternary_audit, p5_splitting, p5_mechanisms. Initial briefs were separate;
+none was blinded to the prior results. The coordinator supplied an unproved
+opposite-face orientation lead to mechanisms and later the non-3-divisible
+module direct-sum argument to splitting. Source comparisons and cross-review
+were shared after initial work. No distinct models or human review are claimed.
+
+Ternary_audit reconstructed the three-player classification using32lift/11group
+conjugacy classes and a new standard-library verifier. It independently
+reconstructed the four-player251lift certificate, then wrote a separate
+six-player binary-code verifier. Splitting developed the local-sign quotient
+proof, initial four-player finite argument, general large/constant-sign kernel
+lemmas, and the non-3-divisible cocycle-lifting proof after the coordinator's
+lead. It located primary ATLAS degree18 generators and constructed the
+six-player actual-game nonsplit witness, its standard subgroup and perfect-even
+obstruction. Mechanisms proved the arbitrary-m exact group and binary
+coarsening theorem, then independently reconstructed both six-player games
+and checked their full groups and nonsplitting. Both other agents attacked the
+new general splitting proofs. All actual findings are recorded in reviews.
+
+The coordinator independently checked the algebra and exact finite results,
+wrote the clone-multiplicity/restriction/deletion framework and standalone
+proof compilation, proposed the direct-summand generalization, inspected
+primary covering-group, skew-game and Hadamard sources, and consolidated the
+publication outline, dependency/status records and validation. All agents
+cross-reviewed the reduction and realization arguments. A whole-group
+averaging sketch (order divisible by3) was corrected to averaging only its
+normal2-subgroup before being retained as a proof; overstrong inherited-
+restriction irreducibility was also rejected and replaced by a precisely
+scoped minimal-witness statement. Established covering groups and triple
+covers are credited rather than claimed as new. No manuscript rewrite,
+author sign-off or submission occurred.

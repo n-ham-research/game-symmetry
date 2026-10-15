@@ -96,3 +96,27 @@ compared with access scope explicit. Missing final proof bodies are not
 excluded from possible prior coverage. [Exact source requests](../research/phase4-source-requests.md)
 identify remaining DM86, Plan, potential-literature and first-edition passages;
 no external message was sent.
+
+## Phase 5 primary comparisons
+
+- Cao, Li, Tan and Yang, *On group structures of strategic-form games*,
+  Fundamental Research4(3),540–549 (online2022, issue2024),
+  DOI10.1016/j.fmre.2022.06.015. Full text inspected at
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC11197539/ : Definition1, Lemma1,
+  Theorem3 and §5.2. Covering closure and orbit-value realizability are prior.
+- Hao and Cheng, *On Skew-Symmetric Games*, arXiv:1712.02962v1,
+  https://arxiv.org/html/1712.02962v1 : Definition11, Propositions32–33,
+  equations48–49 and Theorem36 inspected. Signed opposite-face arrays and
+  boundary zero-sum property are prior.
+- Gillespie, Ó Catháin and Praeger, *Construction of the outer automorphism
+  of S6 via a complex Hadamard matrix*,2018, DOI10.1007/s11786-018-0382-0.
+  Author-version primary PDF, Proposition2 and18-point realization inspected:
+  https://api.research-repository.uwa.edu.au/ws/portalfiles/portal/36067400/Gillespie_et_al_2018_Construction_of_the_Outer.pdf .
+  Nonsplit3.S6 and its representation are prior, not newly invented groups.
+- ATLAS A6 representation register:
+  https://brauer.maths.qmul.ac.uk/Atlas/alt/A6/ , degree18 representation
+  3S6G1-p18aB0. Exact generator permutations are recorded as mathematical
+  input in the verifier, which independently checks the required game facts.
+
+Detailed hypothesis/conclusion comparisons and remaining source gaps are in
+research/phase5-novelty-comparison.md. No third-party PDF is tracked.

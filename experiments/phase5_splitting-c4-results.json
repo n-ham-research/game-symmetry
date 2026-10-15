@@ -1,0 +1,212 @@
+{
+  "scope": "n4 ternary with normalized bare regular C4",
+  "ambient_order": 31104,
+  "conjugacy_representatives": 251,
+  "distinct_generated_groups": 21,
+  "order_histogram": {
+    "24": 3,
+    "48": 2,
+    "72": 1,
+    "144": 1,
+    "192": 1,
+    "384": 1,
+    "648": 4,
+    "1296": 4,
+    "1944": 1,
+    "3888": 1,
+    "15552": 1,
+    "31104": 1
+  },
+  "nonsplit_generated_groups": 0,
+  "records": [
+    {
+      "generator": 15552,
+      "group_order": 24,
+      "section": [
+        11664,
+        15552
+      ],
+      "section_contains_original_r": true
+    },
+    {
+      "generator": 15553,
+      "group_order": 384,
+      "section": [
+        11664,
+        15552
+      ],
+      "section_contains_original_r": true
+    },
+    {
+      "generator": 15555,
+      "group_order": 1944,
+      "section": [
+        11664,
+        15552
+      ],
+      "section_contains_original_r": true
+    },
+    {
+      "generator": 15559,
+      "group_order": 192,
+      "section": [
+        11664,
+        15552
+      ],
+      "section_contains_original_r": true
+    },
+    {
+      "generator": 15560,
+      "group_order": 15552,
+      "section": [
+        11664,
+        15552
+      ],
+      "section_contains_original_r": true
+    },
+    {
+      "generator": 15561,
+      "group_order": 31104,
+      "section": [
+        11664,
+        15552
+      ],
+      "section_contains_original_r": true
+    },
+    {
+      "generator": 15574,
+      "group_order": 648,
+      "section": [
+        11664,
+        15552
+      ],
+      "section_contains_original_r": true
+    },
+    {
+      "generator": 15594,
+      "group_order": 24,
+      "section": [
+        11664,
+        15594
+      ],
+      "section_contains_original_r": true
+    },
+    {
+      "generator": 15597,
+      "group_order": 648,
+      "section": [
+        11664,
+        16485
+      ],
+      "section_contains_original_r": true
+    },
+    {
+      "generator": 15603,
+      "group_order": 648,
+      "section": [
+        11664,
+        16390
+      ],
+      "section_contains_original_r": true
+    },
+    {
+      "generator": 15604,
+      "group_order": 648,
+      "section": [
+        11664,
+        15594
+      ],
+      "section_contains_original_r": true
+    },
+    {
+      "generator": 15769,
+      "group_order": 48,
+      "section": [
+        11664,
+        15594
+      ],
+      "section_contains_original_r": true
+    },
+    {
+      "generator": 15770,
+      "group_order": 3888,
+      "section": [
+        11664,
+        16390
+      ],
+      "section_contains_original_r": true
+    },
+    {
+      "generator": 15791,
+      "group_order": 1296,
+      "section": [
+        11664,
+        15594
+      ],
+      "section_contains_original_r": true
+    },
+    {
+      "generator": 15811,
+      "group_order": 48,
+      "section": [
+        11664,
+        15552
+      ],
+      "section_contains_original_r": true
+    },
+    {
+      "generator": 15812,
+      "group_order": 1296,
+      "section": [
+        11664,
+        15552
+      ],
+      "section_contains_original_r": true
+    },
+    {
+      "generator": 15818,
+      "group_order": 1296,
+      "section": [
+        11664,
+        15552
+      ],
+      "section_contains_original_r": true
+    },
+    {
+      "generator": 15821,
+      "group_order": 1296,
+      "section": [
+        11664,
+        15552
+      ],
+      "section_contains_original_r": true
+    },
+    {
+      "generator": 15902,
+      "group_order": 144,
+      "section": [
+        11664,
+        16497
+      ],
+      "section_contains_original_r": true
+    },
+    {
+      "generator": 16252,
+      "group_order": 24,
+      "section": [
+        11664,
+        16252
+      ],
+      "section_contains_original_r": true
+    },
+    {
+      "generator": 16329,
+      "group_order": 72,
+      "section": [
+        11664,
+        15552
+      ],
+      "section_contains_original_r": true
+    }
+  ]
+}

@@ -227,3 +227,40 @@ The coordinator's novelty table distinguishes inspected bodies from previews
 and missing final texts; no search failure certifies novelty. Original41-result
 counts and pinned artifacts remain unchanged, and the main manuscript has no
 Phase4 additions. Internal agreement is not external mathematical review.
+
+## Research Phase 5 adversarial verification
+
+User authorized independent algebraic investigation and logical commits.
+Three fresh same-family instances worked initially on separate problems,
+with full historical context: p5_ternary_audit (completeness), p5_splitting
+(player-count extensions), p5_mechanisms (realizations/reductions). They later
+shared findings for explicit cross-review. This is neither blinded review,
+three distinct model families, external peer review nor author sign-off.
+
+- [R-P5-TERNARY](R-P5-TERNARY.md): independent32/11-case ternary exhaustion;
+  independent four-player251-case reconstruction; general kernel/cocycle proof
+  attack; literal eighteen-profile six-player binary-game reconstruction.
+- [R-P5-SPLITTING](R-P5-SPLITTING.md): local-sign reductions, four-player
+  certificate, arbitrary-player proof development and actual six-player
+  nonsplit realization; cross-review of orientation and clone quotient proofs.
+- [R-P5-MECHANISMS](R-P5-MECHANISMS.md): signed/binary opposite-face theorem;
+  separate six-player group/kernel/standardness/perfectness verifier;
+  cross-review of general splitting, reductions and standalone proofs.
+
+The coordinator supplied the direct-summand3∤n idea after the large-sign and
+constant-sign lemmas; the splitting agent developed its full proof and other
+agents reconstructed it. At n6 the ATLAS group name suggested the search but
+was not accepted as a game proof. All three implementations establish a
+complete actual group through its full player image and exhaustive pointwise
+kernel. Explicit standard subgroup and perfect even-preimage certificates
+establish the two other crucial hypotheses and nonsplitting. Binary common-
+interest coarsening was separately checked; no reliance on a generic table
+remains in the final example.
+
+A whole-group averaging sketch was corrected (192 is divisible by3); only
+normal2-subgroup averaging is used in the retained proof. A stronger inherited-
+restriction irreducibility inference was rejected; minimality is now proved
+for the specified target properties using binary rigidity. Source comparisons
+identify covering-group closure and the triple-cover/Hadamard representation
+as established prior work. New game/minimal-boundary claims remain candidates.
+The main LaTeX manuscript and original audit registry are unchanged.

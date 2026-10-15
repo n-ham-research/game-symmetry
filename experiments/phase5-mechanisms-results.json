@@ -1,0 +1,106 @@
+{
+  "scope": "Full ambient typed-bijection exhaustion for m=2,3 only; arbitrary m proved in research note",
+  "results": [
+    {
+      "players": 3,
+      "strategies": 2,
+      "ambient_order": 48,
+      "aut_order": 6,
+      "binary_aut_order": 6,
+      "binary_same_group": true,
+      "full_matching": false,
+      "zero_sum": true,
+      "binary_payoff_histogram": [
+        {
+          "payoff": [
+            0,
+            0,
+            0
+          ],
+          "profiles": 2
+        },
+        {
+          "payoff": [
+            0,
+            0,
+            1
+          ],
+          "profiles": 2
+        },
+        {
+          "payoff": [
+            0,
+            1,
+            0
+          ],
+          "profiles": 2
+        },
+        {
+          "payoff": [
+            1,
+            0,
+            0
+          ],
+          "profiles": 2
+        }
+      ]
+    },
+    {
+      "players": 4,
+      "strategies": 3,
+      "ambient_order": 31104,
+      "aut_order": 72,
+      "binary_aut_order": 72,
+      "binary_same_group": true,
+      "full_matching": false,
+      "zero_sum": true,
+      "binary_payoff_histogram": [
+        {
+          "payoff": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "profiles": 45
+        },
+        {
+          "payoff": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "profiles": 9
+        },
+        {
+          "payoff": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "profiles": 9
+        },
+        {
+          "payoff": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "profiles": 9
+        },
+        {
+          "payoff": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "profiles": 9
+        }
+      ]
+    }
+  ]
+}
