@@ -1,0 +1,153 @@
+{
+  "method": "All subgroups of full typed bijection group; equality partitions characterize all real payoff assignments exactly. Binary n=2,m=2 additionally exhaustive.",
+  "domains": [
+    {
+      "sizes": [
+        1,
+        1
+      ],
+      "ambient": 2,
+      "subgroups": 2,
+      "matchings": 1,
+      "strategy_trivial_transitive": 1,
+      "theorem423": true,
+      "cor424_repaired": true,
+      "cor51": true,
+      "cor52": true,
+      "cor53": true
+    },
+    {
+      "sizes": [
+        2,
+        2
+      ],
+      "ambient": 8,
+      "subgroups": 10,
+      "matchings": 2,
+      "strategy_trivial_transitive": 2,
+      "theorem423": true,
+      "cor424_repaired": true,
+      "cor51": true,
+      "cor52": true,
+      "cor53": true,
+      "binary_games": 256,
+      "original424_failures": 228
+    },
+    {
+      "sizes": [
+        3,
+        3
+      ],
+      "ambient": 72,
+      "subgroups": 112,
+      "matchings": 6,
+      "strategy_trivial_transitive": 6,
+      "theorem423": true,
+      "cor424_repaired": true,
+      "cor51": true,
+      "cor52": true,
+      "cor53": true
+    },
+    {
+      "sizes": [
+        1,
+        1,
+        1
+      ],
+      "ambient": 6,
+      "subgroups": 6,
+      "matchings": 1,
+      "strategy_trivial_transitive": 2,
+      "theorem423": true,
+      "cor424_repaired": true,
+      "cor51": true,
+      "cor52": true,
+      "cor53": true
+    },
+    {
+      "sizes": [
+        2,
+        2,
+        2
+      ],
+      "ambient": 48,
+      "subgroups": 98,
+      "matchings": 4,
+      "strategy_trivial_transitive": 8,
+      "theorem423": true,
+      "cor424_repaired": true,
+      "cor51": true,
+      "cor52": true,
+      "cor53": true
+    },
+    {
+      "sizes": [
+        1,
+        2
+      ],
+      "ambient": 2,
+      "subgroups": 2,
+      "matchings": 0,
+      "strategy_trivial_transitive": 0,
+      "theorem423": true,
+      "cor424_repaired": true,
+      "cor51": true,
+      "cor52": true,
+      "cor53": true
+    },
+    {
+      "sizes": [
+        1,
+        1,
+        2
+      ],
+      "ambient": 4,
+      "subgroups": 5,
+      "matchings": 0,
+      "strategy_trivial_transitive": 0,
+      "theorem423": true,
+      "cor424_repaired": true,
+      "cor51": true,
+      "cor52": true,
+      "cor53": true
+    }
+  ],
+  "original_counterexample": {
+    "sizes": [
+      2,
+      2
+    ],
+    "payoff_at_every_profile": [
+      0,
+      1
+    ]
+  },
+  "minimal_counterexample": {
+    "sizes": [
+      1,
+      1
+    ],
+    "payoff_at_every_profile": [
+      0,
+      1
+    ]
+  },
+  "nonconstant_counterexample": {
+    "sizes": [
+      2,
+      2,
+      2
+    ],
+    "formula": "u_i(s)=10*i+s_i for zero-based i; disjoint player payoff ranges"
+  },
+  "failed_strengthening": {
+    "name": "matching pennies",
+    "sizes": [
+      2,
+      2
+    ],
+    "formula": "u_0(s)=1 if s_0=s_1 else -1; u_1=-u_0",
+    "automorphism_order": 4,
+    "transitive_strategy_trivial_subgroups": 0
+  }
+}

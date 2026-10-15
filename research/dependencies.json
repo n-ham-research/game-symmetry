@@ -1,0 +1,1150 @@
+{
+  "version": 1,
+  "direction": "source prerequisite -> dependent; closure marks review impact, not falsity",
+  "nodes": [
+    {
+      "id": "2.1",
+      "kind": "Example",
+      "description": "Example 2.1"
+    },
+    {
+      "id": "2.2",
+      "kind": "Proposition",
+      "description": "Proposition 2.2"
+    },
+    {
+      "id": "2.3",
+      "kind": "Proposition",
+      "description": "Proposition 2.3"
+    },
+    {
+      "id": "2.4",
+      "kind": "Proposition",
+      "description": "Proposition 2.4"
+    },
+    {
+      "id": "2.5",
+      "kind": "Proposition",
+      "description": "Proposition 2.5"
+    },
+    {
+      "id": "3.1",
+      "kind": "Lemma",
+      "description": "Lemma 3.1"
+    },
+    {
+      "id": "3.2",
+      "kind": "Lemma",
+      "description": "Lemma 3.2"
+    },
+    {
+      "id": "3.3",
+      "kind": "Corollary",
+      "description": "Corollary 3.3"
+    },
+    {
+      "id": "3.4",
+      "kind": "Proposition",
+      "description": "Proposition 3.4"
+    },
+    {
+      "id": "3.5",
+      "kind": "Proposition",
+      "description": "Proposition 3.5"
+    },
+    {
+      "id": "3.6",
+      "kind": "Proposition",
+      "description": "Proposition 3.6"
+    },
+    {
+      "id": "3.7",
+      "kind": "Definition",
+      "description": "Definition 3.7"
+    },
+    {
+      "id": "3.8",
+      "kind": "Lemma",
+      "description": "Lemma 3.8"
+    },
+    {
+      "id": "3.9",
+      "kind": "Definition",
+      "description": "Definition 3.9"
+    },
+    {
+      "id": "3.10",
+      "kind": "Example",
+      "description": "Example 3.10"
+    },
+    {
+      "id": "3.11",
+      "kind": "Definition",
+      "description": "Definition 3.11"
+    },
+    {
+      "id": "3.12",
+      "kind": "Example",
+      "description": "Example 3.12"
+    },
+    {
+      "id": "3.13",
+      "kind": "Definition",
+      "description": "Definition 3.13"
+    },
+    {
+      "id": "3.14",
+      "kind": "Example",
+      "description": "Example 3.14"
+    },
+    {
+      "id": "3.15",
+      "kind": "Definition",
+      "description": "Definition 3.15"
+    },
+    {
+      "id": "3.16",
+      "kind": "Example",
+      "description": "Example 3.16"
+    },
+    {
+      "id": "3.17",
+      "kind": "Definition",
+      "description": "Definition 3.17"
+    },
+    {
+      "id": "3.18",
+      "kind": "Theorem",
+      "description": "Theorem 3.18"
+    },
+    {
+      "id": "3.19",
+      "kind": "Lemma",
+      "description": "Lemma 3.19"
+    },
+    {
+      "id": "3.20",
+      "kind": "Lemma",
+      "description": "Lemma 3.20"
+    },
+    {
+      "id": "3.21",
+      "kind": "Theorem",
+      "description": "Theorem 3.21"
+    },
+    {
+      "id": "3.22",
+      "kind": "Definition",
+      "description": "Definition 3.22"
+    },
+    {
+      "id": "3.23",
+      "kind": "Proposition",
+      "description": "Proposition 3.23"
+    },
+    {
+      "id": "3.24",
+      "kind": "Definition",
+      "description": "Definition 3.24"
+    },
+    {
+      "id": "3.25",
+      "kind": "Proposition",
+      "description": "Proposition 3.25"
+    },
+    {
+      "id": "4.1",
+      "kind": "Example",
+      "description": "Example 4.1"
+    },
+    {
+      "id": "4.2",
+      "kind": "Definition",
+      "description": "Definition 4.2"
+    },
+    {
+      "id": "4.3",
+      "kind": "Example",
+      "description": "Example 4.3"
+    },
+    {
+      "id": "4.4",
+      "kind": "Example",
+      "description": "Example 4.4"
+    },
+    {
+      "id": "4.5",
+      "kind": "Lemma",
+      "description": "Lemma 4.5"
+    },
+    {
+      "id": "4.6",
+      "kind": "Corollary",
+      "description": "Corollary 4.6"
+    },
+    {
+      "id": "4.7",
+      "kind": "Theorem",
+      "description": "Theorem 4.7"
+    },
+    {
+      "id": "4.8",
+      "kind": "Definition",
+      "description": "Definition 4.8"
+    },
+    {
+      "id": "4.9",
+      "kind": "Theorem",
+      "description": "Theorem 4.9"
+    },
+    {
+      "id": "4.10",
+      "kind": "Corollary",
+      "description": "Corollary 4.10"
+    },
+    {
+      "id": "4.11",
+      "kind": "Lemma",
+      "description": "Lemma 4.11"
+    },
+    {
+      "id": "4.12",
+      "kind": "Corollary",
+      "description": "Corollary 4.12"
+    },
+    {
+      "id": "4.13",
+      "kind": "Definition",
+      "description": "Definition 4.13"
+    },
+    {
+      "id": "4.14",
+      "kind": "Lemma",
+      "description": "Lemma 4.14"
+    },
+    {
+      "id": "4.15",
+      "kind": "Corollary",
+      "description": "Corollary 4.15"
+    },
+    {
+      "id": "4.16",
+      "kind": "Corollary",
+      "description": "Corollary 4.16"
+    },
+    {
+      "id": "4.17",
+      "kind": "Definition",
+      "description": "Definition 4.17"
+    },
+    {
+      "id": "4.18",
+      "kind": "Example",
+      "description": "Example 4.18"
+    },
+    {
+      "id": "4.19",
+      "kind": "Lemma",
+      "description": "Lemma 4.19"
+    },
+    {
+      "id": "4.20",
+      "kind": "Lemma",
+      "description": "Lemma 4.20"
+    },
+    {
+      "id": "4.21",
+      "kind": "Corollary",
+      "description": "Corollary 4.21"
+    },
+    {
+      "id": "4.22",
+      "kind": "Lemma",
+      "description": "Lemma 4.22"
+    },
+    {
+      "id": "4.23",
+      "kind": "Theorem",
+      "description": "Theorem 4.23"
+    },
+    {
+      "id": "4.24",
+      "kind": "Corollary",
+      "description": "Corollary 4.24"
+    },
+    {
+      "id": "4.25",
+      "kind": "Example",
+      "description": "Example 4.25"
+    },
+    {
+      "id": "4.26",
+      "kind": "Lemma",
+      "description": "Lemma 4.26"
+    },
+    {
+      "id": "4.27",
+      "kind": "Lemma",
+      "description": "Lemma 4.27"
+    },
+    {
+      "id": "4.28",
+      "kind": "Theorem",
+      "description": "Theorem 4.28"
+    },
+    {
+      "id": "5.1",
+      "kind": "Corollary",
+      "description": "Corollary 5.1"
+    },
+    {
+      "id": "5.2",
+      "kind": "Corollary",
+      "description": "Corollary 5.2"
+    },
+    {
+      "id": "5.3",
+      "kind": "Corollary",
+      "description": "Corollary 5.3"
+    },
+    {
+      "id": "5.4",
+      "kind": "Definition",
+      "description": "Definition 5.4"
+    },
+    {
+      "id": "5.5",
+      "kind": "Example",
+      "description": "Example 5.5"
+    },
+    {
+      "id": "5.6",
+      "kind": "Proposition",
+      "description": "Proposition 5.6"
+    },
+    {
+      "id": "5.7",
+      "kind": "Definition",
+      "description": "Definition 5.7"
+    },
+    {
+      "id": "5.8",
+      "kind": "Definition",
+      "description": "Definition 5.8"
+    },
+    {
+      "id": "5.9",
+      "kind": "Definition",
+      "description": "Definition 5.9"
+    },
+    {
+      "id": "5.10",
+      "kind": "Definition",
+      "description": "Definition 5.10"
+    },
+    {
+      "id": "5.11",
+      "kind": "Theorem",
+      "description": "Theorem 5.11"
+    },
+    {
+      "id": "5.12",
+      "kind": "Example",
+      "description": "Example 5.12"
+    },
+    {
+      "id": "5.13",
+      "kind": "Example",
+      "description": "Example 5.13"
+    },
+    {
+      "id": "5.14",
+      "kind": "Example",
+      "description": "Example 5.14"
+    },
+    {
+      "id": "5.15",
+      "kind": "Example",
+      "description": "Example 5.15"
+    },
+    {
+      "id": "5.16",
+      "kind": "Example",
+      "description": "Example 5.16"
+    },
+    {
+      "id": "D-common-labels",
+      "kind": "Unnumbered",
+      "description": "Common strategy-coordinate identifications"
+    },
+    {
+      "id": "D-player-projection",
+      "kind": "Unnumbered",
+      "description": "Specified homomorphism q to actual player permutations"
+    },
+    {
+      "id": "2.2:product-law",
+      "kind": "Unnumbered",
+      "description": "Product law well-definedness/injectivity, not strict non-surjectivity"
+    },
+    {
+      "id": "2.2:strict-nonsurjectivity",
+      "kind": "Unnumbered",
+      "description": "Original unconditional strict non-surjectivity: false"
+    },
+    {
+      "id": "U-increasing",
+      "kind": "Unnumbered",
+      "description": "Increasing maps vs increasing bijections"
+    },
+    {
+      "id": "U-wreath",
+      "kind": "Unnumbered",
+      "description": "Full typed bijection semidirect product"
+    },
+    {
+      "id": "U-abstract-transitivity",
+      "kind": "Unnumbered",
+      "description": "False abstract-group-only player transitivity criterion"
+    },
+    {
+      "id": "U-real-utility",
+      "kind": "Unnumbered",
+      "description": "Overbroad arbitrary-domain real utility representation"
+    },
+    {
+      "id": "U-parameter-aut",
+      "kind": "Unnumbered",
+      "description": "False parameter-uniform full automorphism group assertion"
+    },
+    {
+      "id": "U-parameter-poset",
+      "kind": "Unnumbered",
+      "description": "Parameterized presentations vs quotient poset"
+    },
+    {
+      "id": "U-ordinal-count",
+      "kind": "Unnumbered",
+      "description": "Conventions needed for ordinal 2x2 counts"
+    },
+    {
+      "id": "U-anonymity-extensions",
+      "kind": "Unnumbered",
+      "description": "Unproved prose analogues after Cor4.24"
+    },
+    {
+      "id": "U-Euler",
+      "kind": "Unnumbered",
+      "description": "Label-independent implication/separation diagram"
+    },
+    {
+      "id": "U-Hasse2",
+      "kind": "Unnumbered",
+      "description": "Two-player binary orbit-family Hasse diagram"
+    },
+    {
+      "id": "U-Hasse3",
+      "kind": "Unnumbered",
+      "description": "Three-player binary orbit-family Hasse diagram"
+    },
+    {
+      "id": "U-classification",
+      "kind": "Unnumbered",
+      "description": "Source classification procedure"
+    },
+    {
+      "id": "U-fairness",
+      "kind": "Unnumbered",
+      "description": "Exploratory fairness interpretations, withheld from manuscript theorems"
+    }
+  ],
+  "edges": [
+    {
+      "source": "2.2:product-law",
+      "target": "2.3",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "2.2:product-law",
+      "target": "2.4",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "2.2:product-law",
+      "target": "2.5",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "D-common-labels",
+      "target": "3.1",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.1",
+      "target": "3.2",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.1",
+      "target": "3.3",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.1",
+      "target": "3.4",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "2.2:product-law",
+      "target": "3.4",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.4",
+      "target": "3.5",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.4",
+      "target": "3.6",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.3",
+      "target": "3.8",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.8",
+      "target": "3.18",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.9",
+      "target": "3.18",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.15",
+      "target": "3.18",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.17",
+      "target": "3.18",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.13",
+      "target": "3.19",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.17",
+      "target": "3.19",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.1",
+      "target": "3.20",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.8",
+      "target": "3.21",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.20",
+      "target": "3.21",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.18",
+      "target": "3.21",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "2.4",
+      "target": "3.23",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "2.5",
+      "target": "3.23",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.17",
+      "target": "3.23",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.22",
+      "target": "3.23",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.4",
+      "target": "3.25",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.5",
+      "target": "3.25",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.6",
+      "target": "3.25",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.15",
+      "target": "3.25",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "2.2:product-law",
+      "target": "3.25",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.2",
+      "target": "4.5",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.5",
+      "target": "4.6",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.2",
+      "target": "4.7",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.5",
+      "target": "4.7",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.7",
+      "target": "4.9",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.8",
+      "target": "4.9",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.9",
+      "target": "4.10",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.7",
+      "target": "4.11",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "D-player-projection",
+      "target": "4.11",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.11",
+      "target": "4.12",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.13",
+      "target": "4.14",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.7",
+      "target": "4.14",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.13",
+      "target": "4.15",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.14",
+      "target": "4.16",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.17",
+      "target": "4.19",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.17",
+      "target": "4.20",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.19",
+      "target": "4.20",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.2",
+      "target": "4.20",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.20",
+      "target": "4.21",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.17",
+      "target": "4.22",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.20",
+      "target": "4.22",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.16",
+      "target": "4.23",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.17",
+      "target": "4.23",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.20",
+      "target": "4.23",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.23",
+      "target": "4.24",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.20",
+      "target": "4.24",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.9",
+      "target": "4.24",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.9",
+      "target": "4.24",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.17",
+      "target": "4.26",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.17",
+      "target": "4.27",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.26",
+      "target": "4.28",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.27",
+      "target": "4.28",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.23",
+      "target": "5.1",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.9",
+      "target": "5.1",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.15",
+      "target": "5.1",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.23",
+      "target": "5.2",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.9",
+      "target": "5.2",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "3.17",
+      "target": "5.2",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "5.1",
+      "target": "5.3",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.22",
+      "target": "5.3",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.12",
+      "target": "5.6",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.15",
+      "target": "5.6",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "5.1",
+      "target": "5.6",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "2.4",
+      "target": "5.11",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "2.5",
+      "target": "5.11",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "4.8",
+      "target": "5.11",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "5.4",
+      "target": "5.11",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "2.2:product-law",
+      "target": "5.11",
+      "kind": "reviewed-proof",
+      "note": "Dependency of the independently checked argument or typed construction, not source proximity"
+    },
+    {
+      "source": "2.2",
+      "target": "2.2:product-law",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "2.2",
+      "target": "2.2:strict-nonsurjectivity",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "4.24",
+      "target": "U-anonymity-extensions",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "4.7",
+      "target": "U-wreath",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "4.12",
+      "target": "U-abstract-transitivity",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "4.8",
+      "target": "U-ordinal-count",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "4.20",
+      "target": "U-parameter-aut",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "4.9",
+      "target": "U-parameter-poset",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "5.1",
+      "target": "U-Euler",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "5.2",
+      "target": "U-Euler",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "5.13",
+      "target": "U-Euler",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "5.14",
+      "target": "U-Euler",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "5.15",
+      "target": "U-Euler",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "4.20",
+      "target": "U-Hasse2",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "4.20",
+      "target": "U-Hasse3",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "U-parameter-poset",
+      "target": "U-Hasse2",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "U-parameter-poset",
+      "target": "U-Hasse3",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "5.1",
+      "target": "U-classification",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "5.2",
+      "target": "U-classification",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "5.3",
+      "target": "U-classification",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "U-abstract-transitivity",
+      "target": "U-fairness",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "U-Euler",
+      "target": "U-fairness",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "U-classification",
+      "target": "U-fairness",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    },
+    {
+      "source": "U-real-utility",
+      "target": "U-fairness",
+      "kind": "interpretation-review",
+      "note": "Change requires reconsideration; this is not an assertion that every correction invalidates the dependent claim"
+    }
+  ],
+  "original_explicit_reference_edges": [
+    {
+      "source": "3.12",
+      "target": "3.14",
+      "kind": "original-explicit-reference",
+      "label": "anoneg"
+    },
+    {
+      "source": "3.3",
+      "target": "3.18",
+      "kind": "original-explicit-reference",
+      "label": "utilityactionprop"
+    },
+    {
+      "source": "3.20",
+      "target": "3.21",
+      "kind": "original-explicit-reference",
+      "label": "DMlemma"
+    },
+    {
+      "source": "3.16",
+      "target": "4.4",
+      "kind": "original-explicit-reference",
+      "label": "stdsymeg"
+    },
+    {
+      "source": "3.3",
+      "target": "4.6",
+      "kind": "original-explicit-reference",
+      "label": "utilityactionprop"
+    },
+    {
+      "source": "4.7",
+      "target": "4.9",
+      "kind": "original-explicit-reference",
+      "label": "bijgroupoidthm"
+    },
+    {
+      "source": "4.20",
+      "target": "4.23",
+      "kind": "original-explicit-reference",
+      "label": "matchinghomoprop"
+    },
+    {
+      "source": "4.16",
+      "target": "4.23",
+      "kind": "original-explicit-reference",
+      "label": "NoahCor"
+    },
+    {
+      "source": "4.26",
+      "target": "4.28",
+      "kind": "original-explicit-reference",
+      "label": "matchinglemma1"
+    },
+    {
+      "source": "4.27",
+      "target": "4.28",
+      "kind": "original-explicit-reference",
+      "label": "matchinglemma2"
+    },
+    {
+      "source": "4.22",
+      "target": "5.3",
+      "kind": "original-explicit-reference",
+      "label": "matchingfixedpointlemma"
+    },
+    {
+      "source": "4.1",
+      "target": "5.5",
+      "kind": "original-explicit-reference",
+      "label": "MPeg"
+    }
+  ],
+  "limits": "Reviewed formal proofs and listed unnumbered claims covered. Historical/source claims and every philosophical sentence are not a complete mathematical dependency graph. New edges must be added as future results appear."
+}
