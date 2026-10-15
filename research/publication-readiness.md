@@ -1,6 +1,6 @@
 # Publication readiness after consolidation
 
-The11page structural draft is suitable for serious mathematical criticism,
+The12page structural draft is suitable for serious mathematical criticism,
 not submission without author review. Main statements have explicit proofs,
 finite lemma domains and source qualifications. Original2011/2021 mathematics,
 covering groups, alternating arrays, triple covers and multiplier theory are
@@ -28,3 +28,12 @@ Native document-control discovery found no connected document session and
 no exposed open_in_codex/compile_latex_document tool. Sources were preserved
 and compiled with the existing local LaTeX infrastructure; no editor or TeX
 plugin was installed. Both PDFs were rendered for inspection.
+
+
+Phase 7 adds the full reduction reconstruction in
+phase7-final-structural-audit.md. The abstract states the unique possible
+player count directly, the original Figure 4/Example 5.13 starting point is
+explicit, and a hierarchy table plus literal utility-normalization formulas
+reduce ambiguity. The twelve-page PDF builds with all references resolved;
+all pages were rendered and inspected after these edits. External scrutiny
+and specialist priority assessment remain necessary; no submission occurred.

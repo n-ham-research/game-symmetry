@@ -74,8 +74,20 @@ its common odd strategy map is nonidentity there.
 \end{proof}
 The normalization proof applies separately to exact, cardinal and ordinal
 symmetry. Cardinal means positive affine utility transport; ordinal means
-complete pure-profile order transport, including ties. Playerwise min--max
-normalization and distinct-level ranks identify those groups literally with
-exact automorphism groups on the same domains; constants are normalized to
-zero. These facts are proved in the companion utility-invariance record.
+complete pure-profile order transport, including ties. For a nonconstant utility let
+$c_i=(u_i-\min u_i)/(\max u_i-\min u_i)$, and let $r_i(s)$ be the
+zero-based index of $u_i(s)$ in its increasingly ordered distinct values.
+Set both representatives to zero for constant utilities. Then, as literal
+typed subgroups on unchanged strategy domains,
+\[
+ \Aut_{\rm card}(u)=\Aut(c),\qquad
+ \Aut_{\rm ord}(u)=\Aut(r).
+\]
+For the first identity, a positive affine transport preserves precisely these
+normalized values, and conversely equality of the normalized values supplies
+the positive affine coefficients. For the second, a bijective pure-order
+transport identifies exactly the ordered levels and their ties. Thus full
+player image, standardness, sections and strategy-trivial sections transfer
+without alteration. These are the companion utility-invariance results
+U1--U5 (\texttt{game-fairness}, commit \texttt{a5e7f06}).
 No mixed-equilibrium invariance under arbitrary ordinal maps is assumed.

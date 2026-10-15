@@ -172,3 +172,16 @@ A third agent launch was unavailable due to a runtime thread limit; no third
 independent Phase6 instance is claimed. The agents had historical context and
 were not blinded. Each read the other's completed mathematics for final review.
 No external peer review, human proof approval or novelty clearance is implied.
+
+
+## Phase 7 focused structural review
+
+A delegated Codex instance, p7_symmetry, worked only in game-symmetry while
+the coordinator prioritized game-fairness. It reconstructed every branch of
+the sharp ternary splitting reduction, attacked the actualness hypothesis,
+rechecked cardinal/ordinal transfer, refreshed two primary-source comparisons,
+and made targeted manuscript clarifications. It had the user's review, prior
+chat context and repository records; this was same-family internal review,
+not blinded review or external mathematical approval. No new classification
+search, author change, submission or external contact occurred. Details and
+remaining readiness limits are in phase7-final-structural-audit.md.

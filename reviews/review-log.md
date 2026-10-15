@@ -276,3 +276,17 @@ review, not three independently blinded models or external peer review.
 The new universal player-count consequence imports established multiplier
 theory; the code-to-indicator-game encoding and underlying3.S6are prior
 structures. Tests verify finite ingredients, not the general theorem.
+
+
+## Phase 7 final targeted structural audit
+
+The delegated p7_symmetry instance reconstructed the complete sign-kernel,
+translation-module and central-extension reduction, rather than checking
+only the final multiplier lemma. No defect in the retained hypotheses was
+found. The arbitrary-subgroup D_n counterexample remains decisive evidence
+that complete actual groups cannot be replaced by chosen preserving groups.
+The agent supplied explicit normalization transfer and manuscript hierarchy
+clarifications, refreshed primary multiplier/potential sources, and recorded
+limits in research/phase7-final-structural-audit.md. It shared prior context
+and a model family; no new independent human review or novelty clearance is
+claimed. The coordinating agent was asked to cross-review before push.
