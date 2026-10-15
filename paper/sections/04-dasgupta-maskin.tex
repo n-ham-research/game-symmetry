@@ -1,0 +1,66 @@
+\section{The inverse-permutation condition}
+Consider the following condition, as reproduced by Vester and Ham from
+Dasgupta and Maskin's definition \citep{vester2012,ham2021,dm1986}:
+\begin{equation}\label{eq:wrong}
+ u_i(s)=u_{\pi(i)}(P_{\pi^{-1}}s)
+       =u_{\pi(i)}(s_{\pi(1)},\ldots,s_{\pi(n)})
+ \quad(i\in I,\ s\in A^n,\ \pi\in\Sn).
+\end{equation}
+Here player $\pi(i)$ receives the action $s_{\pi^2(i)}$, rather than
+necessarily receiving $s_i$. The issue is a mismatch of the player index and
+profile action; choosing a right-action convention consistently would cause
+no error. The original printed definition and its theorem dependencies remain
+on our primary-source inspection list.
+
+\begin{theorem}[Vester--Ham characterization]\label{thm:dm}
+Let $n\ge3$. A game with a common nonempty action set satisfies
+\eqref{eq:wrong} if and only if it is totally symmetric and has identical
+payoff functions.
+\end{theorem}
+\begin{proof}
+Suppose \eqref{eq:wrong} holds. For transpositions it agrees with
+\eqref{eq:correct}. Transpositions generate $\Sn$, so
+Lemma~\ref{lem:group} gives total symmetry.
+Comparing \eqref{eq:wrong} for $\pi$ with \eqref{eq:correct} for $\pi^{-1}$
+yields
+\[
+ u_{\pi(i)}(P_{\pi^{-1}}s)
+ =u_{\pi^{-1}(i)}(P_{\pi^{-1}}s).
+\]
+Since $P_{\pi^{-1}}$ is onto, $u_{\pi(i)}=u_{\pi^{-1}(i)}$.
+For any distinct $a,b$, choose $k\notin\{a,b\}$ and
+$\pi=(k\,a\,b)$. Taking $i=k$ gives $u_a=u_b$.
+Conversely, total symmetry applied to $\pi^{-1}$ gives
+$u_i(s)=u_{\pi^{-1}(i)}(P_{\pi^{-1}}s)$, which is
+\eqref{eq:wrong} when all payoff functions coincide.
+\end{proof}
+The common-payoff consequence is Vester's Theorem~32; the displayed equivalence
+is Ham's Theorem~3.21 \citep{vester2012,ham2021}. The proof above replaces
+Ham's auxiliary Lemma~3.20. It does not establish a new priority claim.
+
+\begin{example}[Payoffs need not be constant across profiles]
+For three players with $A=\{0,1\}$, put
+\[
+ u_i(s)=5+7\,\mathbf 1\{s_1+s_2+s_3\ge2\}\quad(i=1,2,3).
+\]
+The common payoff depends only on the number of ones, so the game is totally
+symmetric and satisfies \eqref{eq:wrong}. All payoffs at $(0,0,0)$ are $5$;
+all payoffs at $(1,1,0)$ are $12$.
+\end{example}
+
+\begin{example}[Sharp distinctions]
+For $A=\{0,1\}$, $u_i(s)=s_i$ is totally symmetric. If $n=2$ it also
+satisfies \eqref{eq:wrong}, although payoffs differ at $(0,1)$.
+For $n\ge3$, choose $\pi=(123)$, $i=1$ and $s=(1,0,0,\ldots,0)$;
+then $u_1(s)=1$ while $u_2(P_{\pi^{-1}}s)=0$.
+Conversely, $u_i(s)=s_1$ for every $i$ has identical payoff functions but
+fails total symmetry. Thus neither part of the characterization may be omitted.
+\end{example}
+
+\begin{remark}
+For two players every permutation is its inverse, so the two definitions
+coincide. For unequal strategy sets raw coordinate permutation may be
+undefined. Fixed bijections $b_i:A_i\to A$ permit transport to common
+coordinates; arbitrary unrelated pairwise bijections do not specify an action.
+The research notes treat this distinction separately.
+\end{remark}

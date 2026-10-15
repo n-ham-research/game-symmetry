@@ -1,0 +1,28 @@
+\section{Game bijections and isomorphisms}
+For games $G=(I,(A_i),(u_i))$ and $H=(J,(B_j),(v_j))$, a game bijection
+$g=(\pi,(g_i)_{i\in I})$ consists of a bijection $\pi:I\to J$ and
+bijections $g_i:A_i\to B_{\pi(i)}$. Its profile map is
+\[
+ (gs)_{\pi(i)}=g_i(s_i).
+\]
+It is an \emph{exact game isomorphism} when
+$u_i(s)=v_{\pi(i)}(gs)$ for all $i,s$.
+This is Ham's Definition~4.8 \citep{ham2021}; transformations preserving
+only preferences are not included in this definition.
+
+If $h=(\rho,(h_j)):H\to K$, define
+\[
+ hg=(\rho\pi,(h_{\pi(i)}\circ g_i)_{i\in I}),\qquad
+ g^{-1}=(\pi^{-1},(g_{\pi^{-1}(j)}^{-1})_{j\in J}).
+\]
+These maps have the required domains and satisfy $(hg)s=h(gs)$.
+Composition is associative because the underlying player and strategy maps
+compose associatively. The identity uses identity maps in every component.
+For isomorphisms, substituting payoff equalities shows that composition and
+inversion preserve the isomorphism condition. This verifies the groupoid
+constructions of Ham's Theorems~4.7 and~4.9 \citep{ham2021}.
+
+An automorphism is an isomorphism from a game to itself. Its player component
+defines a homomorphism $q:\Aut(G)\to\Sym(I)$. An automorphism fixing each
+player may still relabel their strategies. Consequently the player image
+$q(\Aut(G))$ and the full automorphism group must be distinguished.

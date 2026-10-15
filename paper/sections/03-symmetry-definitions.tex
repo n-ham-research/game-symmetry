@@ -1,0 +1,39 @@
+\section{Label-dependent symmetry and anonymity}
+Throughout this section the action set $A$ is common to all players.
+\begin{definition}
+A permutation $\pi\in\Sn$ is a \emph{symmetry} if
+\begin{equation}\label{eq:correct}
+ u_i(s)=u_{\pi(i)}(P_\pi s)\quad\text{for every }i\in I,\ s\in A^n.
+\end{equation}
+The game is \emph{totally symmetric} if every permutation is a symmetry.
+It is \emph{player-transitive under label-preserving symmetries} if for every
+$i,j$ there is a symmetry $\pi$ with $\pi(i)=j$.
+\end{definition}
+These are Ham's label-dependent \emph{fully symmetric} and \emph{standard
+symmetric} conditions, respectively \citep[Definitions~3.15, 3.17]{ham2021}.
+The latter is the weak-symmetry condition in Plan's inspected draft
+\citep[Section~2]{plan2017}. It allows fewer permutations than total symmetry.
+
+\begin{definition}
+The game is \emph{opponent-anonymous} if
+$u_i(P_\pi s)=u_i(s)$ whenever $\pi(i)=i$.
+It has \emph{identical payoff functions} if $u_i(s)=u_j(s)$ for all $i,j,s$.
+\end{definition}
+Opponent anonymity is Ham's \emph{weak anonymity}
+\citep[Definition~3.9]{ham2021}. Identical payoff functions are a numerical
+condition on utilities, not merely agreement of preferences.
+
+\begin{lemma}\label{lem:group}
+The symmetries form a subgroup of $\Sn$.
+\end{lemma}
+\begin{proof}
+The identity satisfies \eqref{eq:correct}. If $\pi,\tau$ do, then
+\[
+u_i(s)=u_{\pi(i)}(P_\pi s)
+       =u_{\tau\pi(i)}(P_\tau P_\pi s)
+       =u_{\tau\pi(i)}(P_{\tau\pi}s).
+\]
+Replacing $i$ by $\pi^{-1}(i)$ and $s$ by $P_{\pi^{-1}}s$ in
+\eqref{eq:correct} proves the inverse condition.
+\end{proof}
+This is Ham's Lemma~3.8 \citep{ham2021}.

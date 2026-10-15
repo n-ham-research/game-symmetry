@@ -1,0 +1,13 @@
+# Literature review — initial register
+
+- **Ham v5:** principal source inspected in PDF/text and TeX. Complete numbered environment inventory generated; most proofs and separating examples remain unverified. v1 comparison confirms the inverse-condition equivalence already appeared in 2013, and reveals an invalid line in the older proof of the transitivity-plus-anonymity equivalence repaired by v5.
+- **Vester LSV-12-23:** institutional report inspected, especially Appendix B. Definition 31 gives D; Theorem 32 gives identical-payoff consequence (and zero-sum payoffs zero); Definition 33 corrects the convention. It does not make a claim about profiles having constant payoff values across profiles. The later Bouyer–Markey–Vester graph-game work is relevant but has not been audited for this normal-form project.
+- **Plan 2017 draft:** source inspected for definitions and footnote 7. Keep it distinct from the final 2023 article; the draft explicitly connects weak symmetry to a transitive label-preserving player group. Its account credits Ham and Vester. Full final-article result comparison is pending.
+- **Dasgupta–Maskin 1986:** author-hosted original scan located. Direct network download returned 403; web screenshots did not expose readable text in the available tool output. Definition and existence-proof audit are therefore pending; use Ham/Vester for the formula until direct inspection succeeds. Publisher metadata gives pp.1–26, correcting the pp.18–25 entry in Ham v5's bibliography.
+- **von Neumann–Morgenstern 1944/1953:** third-edition complete scan inspected at printed pp.256–259, including the index-placement warning and coalition-size fairness definition. Archive metadata misleadingly dates this later edition 1944; first-edition comparison pending.
+- **Stein (2011), Exchangeable Equilibria:** source cited by Ham for strategy triviality and label-independent symmetry; obtain primary thesis before claiming a newly discovered characterization.
+- **Brandt–Fischer–Holzer (2009):** inspect original for anonymity terminology and the precise attribution of Ham Lemma 3.19.
+- **Tohmé–Viglizzo (2019; arXiv 2017):** Ham reports a later proof of the common-payoff consequence (Lemma 2.14). Primary comparison pending.
+- **Nash (1951), Shapley (1960), Peleg et al. (1999), Sudhölter et al. (2000), Cao–Yang (2018/2019):** next-tier references for exact versus preference-preserving automorphisms and classification provenance.
+
+Ham's honours thesis is now located at arXiv:1905.00636v1, posted 2019 with title page 2011; §5.8 inspected. No comprehensive novelty search has yet been completed.

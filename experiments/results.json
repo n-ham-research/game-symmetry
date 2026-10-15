@@ -1,0 +1,95 @@
+{
+  "scope": "Exact equality partitions on specified finite domains; no general proof by enumeration",
+  "cases": [
+    {
+      "n": 2,
+      "actions": 1,
+      "payoff_entries": 2,
+      "C_classes": 1,
+      "D_classes": 1,
+      "CE_classes": 1,
+      "D_equals_C": true,
+      "D_equals_CE": true
+    },
+    {
+      "n": 2,
+      "actions": 2,
+      "payoff_entries": 8,
+      "C_classes": 4,
+      "D_classes": 4,
+      "CE_classes": 3,
+      "D_equals_C": true,
+      "D_equals_CE": false
+    },
+    {
+      "n": 2,
+      "actions": 3,
+      "payoff_entries": 18,
+      "C_classes": 9,
+      "D_classes": 9,
+      "CE_classes": 6,
+      "D_equals_C": true,
+      "D_equals_CE": false
+    },
+    {
+      "n": 3,
+      "actions": 1,
+      "payoff_entries": 3,
+      "C_classes": 1,
+      "D_classes": 1,
+      "CE_classes": 1,
+      "D_equals_C": true,
+      "D_equals_CE": true
+    },
+    {
+      "n": 3,
+      "actions": 2,
+      "payoff_entries": 24,
+      "C_classes": 6,
+      "D_classes": 4,
+      "CE_classes": 4,
+      "D_equals_C": false,
+      "D_equals_CE": true
+    },
+    {
+      "n": 3,
+      "actions": 3,
+      "payoff_entries": 81,
+      "C_classes": 18,
+      "D_classes": 10,
+      "CE_classes": 10,
+      "D_equals_C": false,
+      "D_equals_CE": true
+    },
+    {
+      "n": 4,
+      "actions": 2,
+      "payoff_entries": 64,
+      "C_classes": 8,
+      "D_classes": 5,
+      "CE_classes": 5,
+      "D_equals_C": false,
+      "D_equals_CE": true
+    },
+    {
+      "n": 4,
+      "actions": 3,
+      "payoff_entries": 324,
+      "C_classes": 30,
+      "D_classes": 15,
+      "CE_classes": 15,
+      "D_equals_C": false,
+      "D_equals_CE": true
+    },
+    {
+      "n": 5,
+      "actions": 2,
+      "payoff_entries": 160,
+      "C_classes": 10,
+      "D_classes": 6,
+      "CE_classes": 6,
+      "D_equals_C": false,
+      "D_equals_CE": true
+    }
+  ]
+}
