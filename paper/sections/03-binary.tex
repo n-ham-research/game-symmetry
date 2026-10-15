@@ -1,0 +1,50 @@
+\section{The binary benchmark}
+Figure 4 of\citet{ham2021} is a classification of parameterized binary
+three-player symmetry families up to isomorphism. It is prior work. The
+following individual-game formulation includes every parameter coincidence.
+
+\begin{proposition}\label{prop:binary}
+Every three-player binary game with full player image and no full matching is
+isomorphic to a specialization of Ham's Example 5.13 with$\beta\ne\gamma$.
+Its complete group is the signed$S_3$, and it is standard.
+\end{proposition}
+\begin{proof}
+Write binary flips as$V=\mathbb F_2^3$, put$z=(1,1,1)$, and let$E$ be the
+even-weight space. The player kernel$K$ is invariant under coordinate
+permutations. If it contains a nonconstant vector, subtracting a transposed
+copy gives a coordinate pair, whose conjugates span$E$. Hence
+$K=0,\langle z\rangle,E$, or$V$.
+
+For$K=V$, all utilities are constant, and transitivity equates their values.
+For$K=E$, each utility depends only on profile parity. If a transposition lift
+changes parity, its fixed player's utility is constant, hence so are all
+players' utilities by transitivity. Otherwise every transposition lift
+preserves parity and equates the swapped players' parity functions. Bare
+permutations then preserve the game.
+
+For$K=\langle z\rangle$, each transposition lift squares to identity: its
+square is supported only on the two moved coordinates and lies in the
+constant line. For adjacent lifts$t,u$, the defect$(tu)^3$ is$1$ or$z$;
+multiplying$t$ by the central$z$ toggles it. Thus the$S_3$ presentation gives
+a section. For$K=0$, the projection is already an isomorphism.
+
+A complement's player stabilizer$C_2$ acts on its two strategies either
+trivially or by interchange, uniformly across players. In the former case
+Lemma\ref{lem:matching} applies. In the latter, twist each odd lift by the
+common flip$z$ in the ambient group; its stabilizer actions become trivial.
+The matching lemma identifies the original action with
+$s\mapsto P_p s+\varepsilon(p)z$. If$K=\langle z\rangle$, the flip is itself
+an automorphism, so bare lifts exist as well. Thus a non-full game has
+trivial kernel and precisely the signed action.
+
+Its cells have four orbits: homogeneous profiles, minority players, and the
+two cyclic orientations of majority-player cells. Assign their payoffs
+$\alpha,\delta,\beta,\gamma$. These are exactly Example 5.13. If$\beta=\gamma$,
+bare permutations preserve it. Otherwise no nonhomogeneous profile has equal
+utilities for all players. Every matching profile must have equal utilities,
+since its lifts fix the profile and permute players transitively. A binary
+matching must therefore be$\{000,111\}$, and its opponent transposition
+exchanges$\beta,\gamma$, which is impossible.
+\end{proof}
+The proposition refines the quantifiers and proof of the published
+classification; it does not claim discovery of another binary family.

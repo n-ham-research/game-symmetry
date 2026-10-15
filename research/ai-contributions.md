@@ -151,3 +151,24 @@ restriction irreducibility was also rejected and replaced by a precisely
 scoped minimal-witness statement. Established covering groups and triple
 covers are credited rather than claimed as new. No manuscript rewrite,
 author sign-off or submission occurred.
+
+## Repository separation and Phase 6
+
+The user authorized two public repositories, migration, manuscript preparation
+and independent review. Root preserved the baseline976e227history, renamed the
+GitHub repository by its rename API (same repository ID1421072631), renamed
+the local clone and verified existing SSH identity. Fairness material was
+copied with exact baseline path/hash records; structural history and pinned
+originals remain. The original manuscript was archived before replacement.
+
+Two fresh same-family agents actually worked: p6_audit independently attacked
+the sharp theorem, found the determinant-even arbitrary-subgroup counterexample
+and supplied the literature-based only-six corollary and its manuscript section;
+p6_fairness audited migration dependencies, prepared the initial fairness draft,
+and independently reviewed the new multiplier consequence. Root wrote the
+remaining structural manuscript, verification exporter, provenance/boundary
+infrastructure and handovers, cross-checked arguments and ran clean validation.
+A third agent launch was unavailable due to a runtime thread limit; no third
+independent Phase6 instance is claimed. The agents had historical context and
+were not blinded. Each read the other's completed mathematics for final review.
+No external peer review, human proof approval or novelty clearance is implied.

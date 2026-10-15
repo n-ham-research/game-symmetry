@@ -1,0 +1,679 @@
+{
+  "baseline": "976e22798b8d679ec91339695a049f88d8ffbee5",
+  "tracked_tree_clean": true,
+  "untracked_preserved": [
+    "symmetric-games.zip"
+  ],
+  "files": [
+    {
+      "path": ".gitattributes",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": ".gitignore",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "AGENTS.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "LICENSE",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "README.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/README.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/classification-results.json",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/classification_audit.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/constraint_audit.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/finite_games.py",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "experiments/matching-results.json",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/matching_audit.py",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "experiments/ordinal-results.json",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/ordinal_audit.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/parameter-results.json",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/parameter_audit.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/phase3-equilibria-results.json",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/phase3-splitting-binary-results.json",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/phase3-splitting-results.json",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/phase3_equilibria.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/phase3_split_search.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/phase3_splitting.py",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "experiments/phase4-binary-results.json",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/phase4-ternary-results.json",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/phase4_binary_verification.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/phase4_reductions.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/phase4_ternary.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/phase4_ternary_crosscheck.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/phase4_ternary_independent.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/phase5-mechanisms-results.json",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/phase5-ternary-audit-results.json",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/phase5_mechanisms.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/phase5_six_independent.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/phase5_splitting-c4-results.json",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/phase5_splitting-six-results.json",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/phase5_splitting.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/phase5_splitting_six.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/phase5_ternary_audit.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/phase5_ternary_four_crosscheck.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/phase5_ternary_six_crosscheck.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/results.json",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/test_assignment_rules.py",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "experiments/test_audit_records.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/test_classification_audit.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/test_matching_audit.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/test_mathematics.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/test_phase3_equilibria.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/test_phase3_fairness.py",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "experiments/test_phase3_splitting.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/test_phase4_assignment.py",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "experiments/test_phase4_binary_verification.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/test_phase4_reductions.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/test_phase4_ternary.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/test_phase5_mechanisms.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/test_phase5_reductions.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/test_phase5_six_independent.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/test_phase5_splitting.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/test_phase5_ternary_audit.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/test_second_audit.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "experiments/test_utility_invariance.py",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "experiments/utility_invariance.py",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "paper/figures/README.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "paper/main.tex",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "paper/preamble.tex",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "paper/references.bib",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "paper/sections/01-introduction.tex",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "paper/sections/02-preliminaries.tex",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "paper/sections/03-symmetry-definitions.tex",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "paper/sections/04-dasgupta-maskin.tex",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "paper/sections/05-game-isomorphisms.tex",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "paper/sections/06-classification.tex",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "paper/sections/07-fairness.tex",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "paper/sections/08-new-results.tex",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "paper/sections/09-conclusion.tex",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "references/README.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "references/checksums.sha256",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "references/sources.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "research/action-and-torsor-audit.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/ai-contributions.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/assignment-and-solution-rules.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "research/audit-evidence.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/audit.json",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "research/classification-audit.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "research/conjectures.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/corrections.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "research/counterexamples.json",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "research/dasgupta-maskin.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "research/definition-audit.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "research/dependencies.json",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/dependencies.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/fairness-literature-solutions.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "research/fairness-literature-vnm-strategic.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "research/fairness-preparation.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "research/fairness-programme-handover.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "research/fairness.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "research/foundation-corrections.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/handover-pass-2.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/handover-phase-3.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/handover-phase-4.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/handover-phase-5.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/handover.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/historical-research.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "research/inventory.json",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "research/literature-review.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/open-questions.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/ordinal-and-domain-audit.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/original-defects.json",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/original-diagrams.json",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/original-record.json",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "research/original-result-inventory.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/phase3-equilibria.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/phase3-fairness.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "research/phase3-literature-and-sources.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/phase3-publication-outline.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/phase3-results.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/phase3-specifications.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/phase3-splitting-proof.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/phase3-splitting-search.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/phase4-assignment-model.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "research/phase4-binary-verification.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/phase4-interchangeability.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "research/phase4-mechanisms.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/phase4-novelty-comparison.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "research/phase4-source-requests.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "research/phase4-ternary-boundary.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/phase5-mechanisms.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/phase5-novelty-comparison.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/phase5-publication-outline.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/phase5-publication-proofs.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/phase5-reductions.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/phase5-results.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/phase5-six-player-obstruction.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/phase5-splitting.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/phase5-ternary-audit.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/primary-source-followup.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/roadmap.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/theorem-audit.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "research/unnumbered-claims.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "research/utility-invariance.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "reviews/R-AUDIT-002-A.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "reviews/R-DM-001-A.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "reviews/R-DM-001-B.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "reviews/R-DM-001-C.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "reviews/R-FOUND-003-C.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "reviews/R-MATCH-003-A.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "reviews/R-MATCH-003-B.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "reviews/R-P3-ASSIGN-B.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "reviews/R-P3-EQ-C.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "reviews/R-P3-FAIR-LIT-B.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "reviews/R-P3-FAIR-SPEC-B.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "reviews/R-P3-SPLIT-A.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "reviews/R-P3-SPLIT-B.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "reviews/R-P3-UTILITY-B.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "reviews/R-P4-MECHANISMS-C.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "reviews/R-P4-TERNARY-B.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "reviews/R-P5-MECHANISMS.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "reviews/R-P5-SPLITTING.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "reviews/R-P5-TERNARY.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "reviews/R-PH4-BINARY-A.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "reviews/R-UTILITY-A.md",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "reviews/review-log.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "reviews/review-protocol.md",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "scripts/audit.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "scripts/build.sh",
+      "destination": "game-fairness transferred with exact commit/hash provenance; frozen source retained where utility/fairness; structural helpers remain pinned imports"
+    },
+    {
+      "path": "scripts/fetch_sources.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    },
+    {
+      "path": "scripts/inventory_ham.py",
+      "destination": "game-symmetry retained; cite from fairness if needed"
+    }
+  ],
+  "remote_rename": {
+    "repository_id": 1421072631,
+    "from": "n-ham-research/symmetric-games",
+    "to": "n-ham-research/game-symmetry",
+    "preserves_history": true
+  }
+}

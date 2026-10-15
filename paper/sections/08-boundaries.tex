@@ -1,0 +1,61 @@
+\section{Sharpness, reductions and further questions}
+\begin{corollary}
+Among standard games with three strategies per player and full actual player
+image, six is the minimum player count for nonsplitting, and the only player
+count at which nonsplitting can occur. The six-player witness can be binary
+and common interest. The corresponding exact, cardinal and ordinal statements
+hold separately.
+\end{corollary}
+\begin{proof}
+For$n=1$ the quotient is trivial; for$n=2$ the standard subgroup already is
+a full-image strategy-trivial section. The three-player result was proved
+in Theorem\ref{thm:ternary}. The player-count results of the preceding section
+exclude all other$n\ne6$. Theorem\ref{thm:six} attains 6. For utility-level
+transfers apply the literal normalized-group identities stated after
+Theorem\ref{thm:ternary}. The binary witness is unchanged by normalization.
+\end{proof}
+
+This is a boundary for \emph{nonsplitting}, not for absence of a full matching:
+Example 5.13 already supplies the latter at three players with two strategies.
+At three players four strategies are necessary and sufficient for standard
+full-image nonsplitting. The lower bound is Theorem\ref{thm:ternary}, also
+covering smaller domains by embedding their local groups as fixed-label
+subgroups. An explicit binary witness uses strategies$\mathbb Z/4$, players
+$\mathbb Z/3$, and$F(d,e)=1$ iff$d<e$and$d\le1$, using representatives 0 to 3.
+Set$u_i(s)=F(s_{i+1}-s_i,s_{i+2}-s_i)$when$s_i$ is even, and reverse$F$'s
+arguments otherwise. Its complete group consists of common translations$T_k$
+paired with$p\in S_3$such that$k\bmod2=\varepsilon(p)$. Every transposition
+lift has order 4. The supplementary analytic proof establishes that exact
+complete group; the witness is not needed for the six-player lower bound.
+
+A mechanism records the actual represented player projection, rather than
+just the abstract group. Structural inequivalence need not imply
+irreducibility: the four-strategy witness restricted to common$\{0,1\}$is
+Example 5.13 with$\alpha=\gamma=\delta=0$, $\beta=1$. Its new signed
+symmetries need not be inherited from the original game.
+
+By contrast common interest survives exact isomorphisms, rectangular strategy
+restrictions, full-payoff clone quotients, and deletion of a player at a fixed
+action. No sequence of these operations can turn either common-interest
+orientation witness into a non-full Example 5.13, whose majority utilities
+$\beta,\gamma$ differ. The six-player code game is clone free: every label
+occurs in every coordinate, and changing one coordinate of a winning profile
+cannot remain winning because the minimum code distance is 4. These are
+precisely scoped reduction statements, not a universal canonical-core theorem.
+
+The most useful next structural question is classification of the represented
+six-player obstruction and its payoff-realizable actions, rather than another
+increase in enumeration limits. Is every nonsplit ternary action equivalent
+under player and local strategy relabelings to the displayed representation?
+A group-isomorphism classification alone would not answer this question.
+Related problems concern minimal exact realizations, strategy counts beyond
+three and reductions admitting utility transformations. A symbolic proof of
+the three-player finite lemma would also improve the present account.
+
+The companion fairness project studies utility invariance, assignment models
+and ordered versus unordered opponents on independent decision primitives.
+No subjective assignment-indifference or outcome-fairness claim is deduced
+from the structural theorems here. The separate binary exact-potential
+investigation remains part of this repository's research programme; ordinary
+binary potentialness is prior literature and its broader novelty comparison
+is unfinished.

@@ -20,3 +20,16 @@ Author: Nicholas Ham. This is a mathematical research project, not a rewrite.
 - All 41 formal results have second-pass records; status is for the reviewed formulation, and original statement/proof verdicts remain separate. Cor4.10 is ambiguous as written.
 - Run python3 scripts/audit.py check and render when changing the registry. Tests must run from a fresh clone without ignored downloads; pinned source excerpts provide the needed data.
 - Keep philosophical fairness proposals in research/fairness-preparation.md until their independent decision primitives, source comparison and proofs are ready.
+
+## Project split and maintenance boundary
+
+This repository is now game-symmetry, formerly symmetric-games. Structural
+symmetry, represented groups, splitting, realizability and binary equilibrium
+research remain canonical here. Do not modify ../game-fairness without explicit
+user authorization. Utility/fairness notes listed in the migration inventory
+remain frozen historical copies; future maintenance is in game-fairness.
+Use research/cross-project-dependencies.md and companion-notices.md to pin
+cross-project results and report suspected errors. Do not silently edit the
+companion's mathematics. The pre-split manuscript is preserved under
+research/archive/pre-split-paper. The new manuscript is a research draft of
+proved candidates, with priority and external review still pending.

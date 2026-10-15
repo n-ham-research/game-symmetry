@@ -1,0 +1,208 @@
+\section{Restrictions on the number of players}
+\label{sec:player-counts}
+
+The distinction between an arbitrary typed subgroup and the complete
+symmetry group of a payoff table is decisive here. We first give the
+algebraic reductions, explicitly identifying the step that uses payoffs.
+All games in this section have three strategies per player.
+
+\begin{theorem}\label{thm:ternary-player-counts}
+Let $G$ be the complete exact automorphism group of an $n$-player game,
+with player projection $q(G)=S_n$.
+\begin{enumerate}
+\item If $n\geq3$, $3\nmid n$, and the game is standard symmetric, then
+$q:G\to S_n$ splits.
+\item If $n\geq5$ and $n\neq6$, then $q$ splits, without any standardness
+assumption.
+\end{enumerate}
+Consequently, in conjunction with the three-player splitting result and the
+six-player construction, six is the only possible player count for a
+standard symmetric ternary game with full player image and nonsplitting
+projection.
+\end{theorem}
+
+The conclusion about the unique possible player count uses the classical
+Schur multiplier theorem for alternating groups. That group-theoretic
+input is established literature, rather than a new assertion about games.
+
+Identify each strategy set with $\mathbb F_3$. Every local permutation is
+uniquely affine, $x\mapsto ax+b$ with $a\in\{1,-1\}$. Thus the ambient
+typed group is
+\[
+ W=R\rtimes V,\qquad R=\mathbb F_3^n,\qquad
+ V=\mathbb F_2^n\rtimes S_n.
+\]
+Let $\rho:W\to V$ forget translations, and put
+$B=\rho(G)$, $K=B\cap\mathbb F_2^n$, and $N=G\cap R$.
+Write $T_\ell$ and $E_\ell$ for the constant line and the coordinate-sum-zero
+subspace of $\mathbb F_\ell^n$, respectively.
+
+\begin{lemma}\label{lem:ternary-sign-kernels}
+Suppose $n\geq3$ and $q(G)=S_n$.
+\begin{enumerate}
+\item $K$ is one of $0,T_2,E_2,\mathbb F_2^n$.
+\item If $K\supseteq E_2$ and $G$ is a complete game automorphism group,
+the game is fully symmetric under a matching.
+\item If $K=T_2$, a local translation conjugates $G$ to $N\rtimes B$.
+Its player projection splits for $n\geq5$, and also for $n=3,4$ when
+$G$ contains a transitive strategy-trivial subgroup.
+\end{enumerate}
+\end{lemma}
+\begin{proof}
+Conjugation makes $K$ a permutation-invariant subspace. If it contains a
+nonconstant vector, subtracting its image under a transposition of unequal
+entries gives a coordinate-pair vector. Its conjugates span $E_2$.
+Otherwise $K\subseteq T_2$. This proves the first assertion.
+
+Suppose $K\supseteq E_2$. The coordinate characters of the even-sign
+group $E_2$ are distinct and nontrivial for $n\geq3$. Character averaging,
+valid because $|E_2|$ is invertible in $\mathbb F_3$, projects any vector
+of the invariant subspace $N$ onto each coordinate line. Player
+transitivity therefore gives $N=0$ or $N=R$. If $N=R$, translation
+invariance makes every payoff constant; full player image equates these
+constants, giving the full ambient group.
+
+If $N=0$, $G$ is the graph of a cocycle $c:B\to R$. More generally,
+for any such cocycle and a normal subgroup $L$ of order prime to three,
+put $w=|L|^{-1}\sum_{l\in L}c(l)$. The cocycle identity gives
+$c(l)=w-lw$ on $L$. Translation conjugation makes $c$ vanish on $L$;
+normality then implies $c(b)$ is fixed by $L$ for every $b\in B$.
+Apply this to $L=E_2$. Its fixed space is zero, so the conjugated group
+is exactly $B$, acting by signed coordinate permutations.
+
+If $K=\mathbb F_2^n$, cancellation of signs gives every bare player
+permutation. If $K=E_2$, the quotient group is the graph of a homomorphism
+$S_n\to\mathbb F_2$, either zero or parity. The zero case again contains
+all bare permutations. In the parity case, on a profile containing zero,
+any sign change has the same effect as an even sign change: correct its
+parity at a zero coordinate. On all-nonzero profiles, $E_2$ has two orbits,
+determined by the product of the coordinates. For a focal player $i$,
+a transposition fixing $i$ has an odd-sign lift, which interchanges these
+two orbits and equates their values of $u_i$. Such a transposition exists
+because $n\geq3$. Thus all independent sign changes preserve every payoff.
+Cancelling signs in the given lifts now supplies all bare permutations.
+Undoing conjugation proves full symmetry under a matching. This is the
+step requiring actual payoffs; it is false for arbitrary subgroups.
+
+For $K=T_2$, the image of $G$ in $(R/N)\rtimes B$ is a cocycle graph.
+The central order-two subgroup $T_2$ acts as $-1$ on $R/N$. The same
+averaging argument kills this cocycle, since the fixed space of $-1$ is
+zero in characteristic three. Lifting the conjugating translation and
+cancelling elements of $N$ gives $G=N\rtimes B$.
+
+It remains to split $B\to S_n$. A lift of a transposition squares to a
+vector supported on its two moved coordinates and belonging to $T_2$;
+for $n\geq3$ this vector is zero. Choose involutory lifts of the adjacent
+transpositions. For $n\geq5$, commutators of disjoint lifts are supported
+on at most four coordinates and constant, so vanish. The cubes of adjacent
+products lie in $T_2$; multiplying successive lifts by the central constant
+flip kills these braid defects in order along the adjacent chain. These
+are the Coxeter relations of $S_n$, giving a section. For $n=3$ there
+are no distant relations, so the same argument applies.
+
+For $n=4$, the distant commutator is either zero for every disjoint pair,
+or the constant flip for every such pair. The alternative is independent
+of lift choices and preserved by conjugation. In the former case the
+Coxeter argument applies. In the latter, every lift of a double
+transposition has order four. A transitive subgroup of $S_4$ contains a
+double transposition: a Sylow two-subgroup has order at least four and
+the subgroups of that size in $S_4$ have such an element. A transitive
+strategy-trivial subgroup of $G$ maps to a strategy-trivial subgroup of
+$B$ with the same player image; its projection is injective. It would
+therefore supply an involutory lift of that double transposition, a
+contradiction. Standardness excludes the latter alternative.
+\end{proof}
+
+\begin{lemma}\label{lem:ternary-residual-extension}
+For $n\geq5$, if $G$ is a complete game group with $q(G)=S_n$ and
+nonsplitting projection, then, after local relabeling,
+\[
+ K=0,\qquad N=T_3,\qquad |G|=3n!.
+\]
+Even player permutations centralize $N$, and odd ones invert it.
+Furthermore $3\mid n$.
+\end{lemma}
+\begin{proof}
+The preceding lemma excludes nonzero $K$. Thus $B\cong S_n$. A
+point-stabilizer acts on its local sign fibre by a character
+$S_{n-1}\to C_2$, either trivial or parity. Coherent local sign
+relabeling therefore makes the action of $B$ on $R$ either the ordinary
+permutation action or its common-parity twist. To see this explicitly,
+choose player transports $\tau_i$ from a reference player to $i$.
+Relabeling by their local components expresses the component of $p$
+through the stabilizer element $\tau_{p(i)}^{-1}p\tau_i$. For the parity
+character, a further relabeling by the signs of $\tau_i$ leaves the common
+factor $(-1)^{\epsilon(p)}$.
+
+The invariant subspaces of $R$ are $0,T_3,E_3,R$: a nonconstant vector,
+subtracted from its transposed image, supplies a nonzero multiple of
+$e_i-e_j$, whose conjugates span $E_3$. A parity twist changes no invariant
+subspaces. If $3\nmid n$, the equivariant projection
+\[
+ v\longmapsto n^{-1}\Bigl(\sum_i v_i\Bigr)(1,\ldots,1)
+\]
+gives $R=T_3\oplus E_3$. Each possible $N$ then has an invariant
+complement. The graph cocycle $B\to R/N$ lifts through that complement
+to a cocycle $B\to R$, whose graph lies in $G$ and supplies a section.
+This proves the divisibility assertion and also the first conclusion of
+Theorem~\ref{thm:ternary-player-counts}, using the preceding lemma at $n=4$.
+
+For the remaining cases, $N=0$ immediately splits the projection, while
+$N=R$ makes the actual group the full ambient group. If $N=E_3$, the
+quotient $R/N$ is one-dimensional with trivial or sign action. Its cocycle
+vanishes on perfect $A_n$, and descends to $C_2$. For trivial action the
+involution relation makes this cocycle zero; for sign action every value
+is a coboundary, since two is invertible in $\mathbb F_3$. Thus translation
+conjugation gives $E_3\rtimes B$, again split.
+
+Suppose $N=T_3$ and the action is ordinary. Any transposition lift
+$(v,p)$ has square $cz$, where $z=(1,\ldots,1)$. At every fixed
+coordinate, $2v_i=c$. Subtracting $(c/2)z$ from its translation makes it
+an involution with zero translation at all fixed coordinates. Choose such
+lifts for adjacent transpositions. Distant commutators have translation
+supported on at most four players; adjacent-product cubes have translation
+supported on at most three. Both belong to $T_3$, so vanish for $n\geq5$.
+The Coxeter relations give a section. Only the parity-twisted action with
+$N=T_3$ remains, proving all assertions.
+\end{proof}
+
+\begin{lemma}\label{lem:alternating-multiplier-splitting}
+For $n\geq8$, an extension of $S_n$ by $C_3$ in which even permutations
+centralize the kernel and odd permutations invert it has a section.
+\end{lemma}
+\begin{proof}
+The classical Schur multiplier theorem gives $|M(A_n)|=2$ for $n\geq8$;
+see Lassueur and Mazza~\cite[Section~3]{LassueurMazza2015}, which recalls the theorem and its
+standard references. Set $H=q^{-1}(A_n)$. The universal central extension
+of the perfect group $A_n$ maps to this central $C_3$ extension. Its
+central kernel, of order two, has trivial image in $C_3$. Its image
+therefore supplies a perfect complement $D\cong A_n$, so
+$H=C_3\times D$ and $D=H'$. Thus $D$ is normal in $G$.
+
+If $t$ lifts a transposition, then $t^2\in C_3$. Conjugation by $t$
+both fixes its own square and inverts $C_3$, so $t^2=(t^2)^{-1}$,
+forcing $t^2=1$. The subgroup $\langle D,t\rangle$ now has order $n!$,
+intersects the kernel trivially, and projects onto $S_n$. It is the
+required section.
+\end{proof}
+
+Combining Lemmas~\ref{lem:ternary-residual-extension} and
+\ref{lem:alternating-multiplier-splitting} excludes every $n\geq8$;
+$n=5,7$ are excluded by $3\nmid n$. This proves the second assertion of
+Theorem~\ref{thm:ternary-player-counts}. For standard games the one-player
+case is trivial, the two-player standard subgroup itself supplies a
+section, the three-player result was proved earlier, and the first
+assertion covers four players. The explicit six-player game attains the
+remaining possibility.
+
+Actualness cannot be omitted. For even $n\geq4$ the ternary typed subgroup
+\[
+ D_n=\{(b,p)\in\mathbb F_2^n\rtimes S_n:
+              \textstyle\sum_i b_i=\epsilon(p)\},
+ \qquad x_i\mapsto(-1)^{b_i}x_i,
+\]
+contains bare $A_n$ and is therefore standard and full-image. Every lift
+of an $n$-cycle has $n$th power the nontrivial constant flip, hence order
+$2n$. Its projection cannot split. Lemma~\ref{lem:ternary-sign-kernels}
+explains why this group cannot be the complete automorphism group of an
+invariant payoff table.

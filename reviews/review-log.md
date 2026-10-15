@@ -264,3 +264,15 @@ for the specified target properties using binary rigidity. Source comparisons
 identify covering-group closure and the triple-cover/Hadamard representation
 as established prior work. New game/minimal-boundary claims remain candidates.
 The main LaTeX manuscript and original audit registry are unchanged.
+
+## Phase 6 consolidation and independent audit
+
+R-PH6-SHARP-A records the fresh proof/counterexample audit, exact hypotheses,
+actual-group necessity, regenerated finite table and source-based only-six
+corollary. A second fresh agent independently reviewed that corollary in the
+companion game-fairness review R-P6-CROSS. Root also checked the extension
+argument and both manuscripts. This is two same-family agents plus coordinating
+review, not three independently blinded models or external peer review.
+The new universal player-count consequence imports established multiplier
+theory; the code-to-indicator-game encoding and underlying3.S6are prior
+structures. Tests verify finite ingredients, not the general theorem.

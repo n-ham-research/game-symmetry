@@ -1,41 +1,40 @@
 \section{Introduction}
-Symmetry expresses invariance of a game's structure under changes of player
-positions. Equality of realized payoffs is a different condition. For example,
-a symmetric bimatrix game can assign payoffs $(0,5)$ at a profile and $(5,0)$
-after exchanging its players and their strategies. The invariance concerns the
-relationship between these profiles.
+Player labels can be interchangeable in several mathematically distinct
+senses. Each permutation may admit suitable strategy relabelings; these
+relabelings may be selectable coherently as a group action; and that action
+may act trivially on a fixed player's strategies. The last condition identifies
+strategies across roles through a matching. Confusing these requirements
+obscures both examples and classification statements.
 
-Ham's survey \citep{ham2021} distinguishes label-dependent symmetry from
-symmetry that allows strategy relabeling. This project revisits that
-classification and its proposed interpretations of fairness. Our initial task
-is to check the definitions and proofs before extending the framework.
-The words \emph{fair} and \emph{symmetric} will not be used interchangeably
-without a specified mathematical condition.
+Ham's binary three-player classification, particularly Figure 4 and
+Example 5.13 of \citet{ham2021}, already separates full player image and standard
+symmetry from full matching symmetry. Its signed action has a coherent
+section with a nontrivial fixed-player strategy action. The present question
+is different: can the player projection fail to have \emph{any} section?
+We prove small-strategy restrictions on that failure and give an explicit
+minimal ternary example.
 
-A historical warning motivates the choice of action convention. The condition
-attributed to Definition~7 of Dasgupta and Maskin \citep{dm1986} combines a player
-permutation with the inverse of the appropriate profile action. Vester's
-Appendix~B \citep{vester2012} and Ham's Theorem~3.21 \citep{ham2021} establish its
-common-payoff consequence. Ham's first arXiv version already contains this
-result as Theorem~3.18 \citep{ham2013}. We present the equivalence with a shorter
-proof, without claiming novelty. The effects on the original discontinuous-game
-existence arguments require a separate audit and are not asserted here.
+The distinction between coordinate permutations and their inverse profile
+indices has a longer history. Von Neumann and Morgenstern's third edition,
+\S 28, explicitly discusses the composition convention \citep{vnm1953}; the
+1944 first-edition body has not been verified here. Ham's 2011-dated honours
+thesis identifies the permutation mismatch associated with the
+Dasgupta--Maskin definition \citep{dm1986,hamthesis}. Public Wikipedia revisions
+record an inverse-index correction on 4 May 2011 and its reversion on 8 May
+\citep{wiki2011a,wiki2011b}; attributing the anonymous correction to Ham rests
+on his subsequent account, rather than the revision identity alone.
+Vester's 2012 report independently supplies the common-payoff characterization
+\citep{vester2012}; Plan's inspected 2017 draft discusses this history
+\citep{plan2017}. We distinguish that draft from the 2023 published article
+\citep{plan2023}. These historical matters motivate precise definitions; they
+are not premises of the lifting theorems.
 
-
-Ham's honours thesis, dated 2011, explicitly identifies the mismatch in
-Subsection~5.8 \citep{hamthesis}; that thesis was posted to arXiv in 2019.
-The Wikipedia record confirms an edit introducing inverse indices on 4 May
-2011 and its reversal on 8 May \citep{wiki2011a,wiki2011b}. Ham attributes
-the earlier edit to himself \citep{ham2021}; the revision record alone does
-not establish the anonymous editor's identity. These records distinguish an
-earlier identification from the dates of publicly available proofs.
-
-Von Neumann and Morgenstern's Section~28 studies invariance groups in the
-zero-sum n-person setting. Footnote~4 on p.256, continuing onto p.257,
-explains why the placement of permutation indices is needed for composition
-\citep{vnm1953}. Their fairness condition in Subsection~28.2.2 concerns a
-coalition characteristic function depending only on coalition size, rather
-than equality of realized payoffs. The first-edition comparison remains
-pending. Plan's inspected 2017 draft \citep{plan2017} cites the warning;
-it must be distinguished from the final journal article \citep{plan2023},
-whose full version comparison remains part of the source audit.
+Typed automorphisms and player-image quotients are established constructions.
+The covering-group method characterizing which orbit constraints can be full
+symmetry groups is also prior work \citep{cao2024}. Likewise the nonsplit
+triple cover and its degree 18 representation are known
+\citep{gillespie2018,atlas}. Our candidate contributions concern their exact
+realization by payoff data, standardness, classification and sharp boundaries.
+Fairness and utility-representation questions are developed in a companion
+project; the binary equilibrium programme remains within the structural
+research programme but is not required for the central lifting argument.

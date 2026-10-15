@@ -1,37 +1,45 @@
-\documentclass[11pt]{article}
+\documentclass[11 pt]{article}
 \input{preamble}
-\title{Symmetry, Anonymity and Player Interchangeability\\in Finite Strategic-Form Games}
+\title{Symmetry, Automorphism Groups and Player Permutations\\in Finite Games}
 \author{Nicholas Ham}
 \date{Research draft, 16 October 2026}
 \begin{document}
 \maketitle
 \begin{abstract}
-We revisit definitions of symmetry in finite strategic-form games, separating
-invariance under player permutations from invariance under strategy relabeling
-and from equality of realized payoffs. We state consistent permutation and
-isomorphism conventions and review a known characterization of the permutation
-condition associated with Dasgupta and Maskin: for at least three players it is
-equivalent to total symmetry together with identical payoff functions.
-A short proof and boundary examples make explicit that payoffs may vary across
-profiles. This initial draft records established foundations; the full
-classification, historical verification and proposed fairness extensions remain
-a research programme. No new theorem is claimed.
+A finite game's automorphisms may realize every player permutation without
+admitting a coherent choice of such realizations. We distinguish surjectivity
+of the actual player projection, existence of a section, and existence of a
+strategy-trivial section. For three-player games with three strategies, we
+classify the non-full standard full-image actions: their complete groups have
+orders six or eighteen, and both projections split. A local-affine reduction
+proves splitting for standard ternary games whenever the player count is not
+divisible by three. An explicit six-player common-interest game with binary
+payoffs has exactly eighteen winning profiles, complete automorphism group of
+order 2160, and a nonsplit player projection with kernel of order three. Thus
+six is the minimum player count for ternary nonsplitting under the stated
+hypotheses. A further consequence of the classical alternating-group
+multiplier theorem excludes every other player count. Group constructions
+and covering-group principles used here are established prior mathematics;
+novelty of the game classifications and boundary applications remains under
+investigation. Essential small finite certificates are specified separately
+from the general proofs.
 \end{abstract}
 \input{sections/01-introduction}
 \input{sections/02-preliminaries}
-\input{sections/03-symmetry-definitions}
-\input{sections/04-dasgupta-maskin}
-\input{sections/05-game-isomorphisms}
-\input{sections/06-classification}
-\input{sections/07-fairness}
-\input{sections/08-new-results}
-\input{sections/09-conclusion}
-\section*{Acknowledgements and research status}
-OpenAI Codex assisted with source inspection, mathematical exploration, exact
-computations, proof checking by three additional agent instances, and manuscript
-preparation. These instances share a model family and project context; their
-reports are internal checks, not independent external peer review. The author
-has not yet signed off this draft. AI systems are not listed as authors.
+\input{sections/03-binary}
+\input{sections/04-ternary}
+\input{sections/06-player-counts}
+\input{sections/07-six-player}
+\input{sections/08-boundaries}
+\section*{Research status and assistance}
+This manuscript presents internally verified research candidates, not an
+assertion of historical priority or completed external peer review. OpenAI
+Codex assisted with proof exploration, source comparison, exact computations,
+manuscript preparation and internal adversarial review. Separate instances
+shared historical context and a model family. Their agreement is not evidence
+in place of the proofs and finite certificates. The repository contribution
+and review records describe their actual scopes. No submission is authorized.
+\clearpage
 \bibliographystyle{plainnat}
 \bibliography{references}
 \end{document}

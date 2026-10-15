@@ -1,19 +1,58 @@
-\section{Preliminaries}
-A finite strategic-form game is $G=(I,(A_i)_{i\in I},(u_i)_{i\in I})$, where
-$I=\{1,\ldots,n\}$, $n\ge2$, each $A_i$ is finite and nonempty, and
-$u_i:\prod_{j\in I}A_j\to\R$. Write $S=\prod_i A_i$.
-A mixed profile $x\in\prod_i\Delta(A_i)$ induces the product probability
-$\mu_x(s)=\prod_i x_i(s_i)$. A distribution on $S$ need not have this form:
-independent mixing and correlated randomization are different domains.
-
-When $A_i=A$ for all $i$, define
+\section{Typed automorphisms and lifting}
+A game has players $N=\{0,\ldots,n-1\}$, nonempty finite strategy sets $A_i$,
+and utilities $u_i:\prod_j A_j\to\R$. A typed bijection $g=(p;(f_i))$ consists
+of $p\in S_n$ and bijections $f_i:A_i\to A_{p(i)}$, acting by
+$(gs)_{p(i)}=f_i(s_i)$. We compose right to left. In particular
+$(P_p s)_j=s_{p^{-1}(j)}$. The exact automorphism condition is
 \[
- (P_\pi s)_j=s_{\pi^{-1}(j)}\qquad(\pi\in\Sn).
+ u_{p(i)}(gs)=u_i(s)\qquad(i\in N,\ s\in\prod_j A_j).
 \]
-Thus the action chosen at position $i$ moves to position $\pi(i)$.
-Composition is right to left: $(\tau\pi)(i)=\tau(\pi(i))$.
-Direct substitution gives $P_\tau P_\pi=P_{\tau\pi}$ and
-$P_{\pi^{-1}}=P_\pi^{-1}$. In particular,
-$P_{(123)}(s_1,s_2,s_3)=(s_3,s_1,s_2)$, whereas
-$P_{(123)^{-1}}s=(s_2,s_3,s_1)$.
-These conventions agree with Ham's left action \citep[Section~3.1]{ham2021}.
+These maps form $G=\Aut(u)$, with player homomorphism $q:G\to S_n$.
+For equal strategy counts $m$ the ambient group is $S_m^n\rtimes S_n$.
+Its multiplication is
+$(p;f)(r;h)=(pr;(f_{r(i)}h_i)_i)$.
+
+\begin{definition}
+The game has \emph{full player image} if $q(G)=S_n$. A subgroup is
+\emph{strategy trivial} if every element fixing a player acts identically
+on that player's strategies. The game is \emph{standard symmetric} if it
+contains a player-transitive strategy-trivial subgroup. A \emph{section}
+is a homomorphism $\sigma:S_n\to G$ with $q\sigma=\id$.
+\end{definition}
+A matching is a family $t_i:B\to A_i$ of bijections. Its lift of $p$ has
+components $t_{p(i)}t_i^{-1}$. Full symmetry under a matching means all these
+lifts belong to $G$. It is invariant under exact game isomorphism.
+
+\begin{lemma}[Matching characterization, Ham]\label{lem:matching}
+A player-transitive strategy-trivial subgroup becomes a group of bare player
+permutations after local relabeling. A strategy-trivial section exists if and
+only if the game is fully symmetric under a matching.
+\end{lemma}
+\begin{proof}
+Choose player 0 and an element carrying it to each$i$. Its component at 0 is
+a map$t_i$. Any two choices agree because their quotient fixes 0 and acts
+identically there. Composition gives$f_i t_i=t_{p(i)}$, hence
+$f_i=t_{p(i)}t_i^{-1}$. Conversely matching lifts compose coherently and have
+identity components at fixed players. A strategy-trivial group has trivial
+player kernel, so full player image makes it a section.
+\end{proof}
+Consequently matching symmetry implies a section, and a section implies full
+player image. A section also implies standardness: a lifted$n$-cycle generates
+a regular, thus strategy-trivial, cyclic subgroup. For$n=1$ this is immediate.
+The converse implications discussed below fail.
+
+\begin{lemma}[Prior covering principle]\label{lem:closure}
+Let$B$ be an ambient typed subgroup, acting on the cells$(s,i)$ by
+$(s,i)\mapsto(gs,p(i))$. Let$\operatorname{cl}(B)$ consist of all typed maps
+preserving each individual$B$-orbit. If$B\le\Aut(u)$, then
+$\operatorname{cl}(B)\le\Aut(u)$. Distinct utility values on the cell orbits
+realize$\operatorname{cl}(B)$ as the complete group.
+\end{lemma}
+\begin{proof}
+Invariance means the utility at a cell is constant on each orbit. Orbit
+preservers retain those constants. Distinct orbit values make the converse
+necessary. Coincident values can only add automorphisms.
+\end{proof}
+This is the covering-group construction of the existing literature
+\citep{cao2024}, not a new general realization method. Its necessity prevents
+mistaking an arbitrary preserving subgroup for a possible complete group.
