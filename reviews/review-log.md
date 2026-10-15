@@ -171,3 +171,29 @@ R-P3-EQ-C.md and R-P3-FAIR-SPEC-B.md. The result/dependency ledger is
 research/phase3-results.md. The original41-formal-result registry and pinned
 artifacts retain their prior meaning. New contributions remain research
 candidates pending targeted literature comparison and human/external scrutiny.
+
+## Utility invariance, historical fairness and assignment models
+
+After two further user briefs, the same A/B/C agents continued rather than
+being counted as independent new model instances. A wrote utility-invariance.md
+and exact examples; B/C independently reviewed normalization, signature/kernel
+lemmas, strictness, equilibrium preservation and potential corollaries. A and
+the coordinator independently derived the hybrid-marginal necessity proof;
+B/C checked the written argument, its relative-interior polynomial step,
+connectedness and endpoint cases. This confirms the old finite-game affinity
+statement without assuming product joint laws form a convex set.
+
+The coordinator's assignment-and-solution-rules.md received A/B/C checks.
+B identified overbroad wording suggesting ordinal data supplies expected
+orbit averages; it was corrected to require a selected expected-utility
+representation, while retaining the ordinal factorization/tie conclusion.
+Underidentification, timing, uniform assignment and equilibrium-lottery
+propositions otherwise passed all checks. Details: R-UTILITY-A.md,
+R-P3-UTILITY-B.md, R-P3-ASSIGN-B.md and the appended R-P3-EQ-C.md.
+
+B's primary-literature report R-P3-FAIR-LIT-B.md records complete VNM§28 OCR
+and visual inspection in the1953 third edition, and actual published modern
+bodies inspected. C's annotated source note records original/reprint/draft
+boundaries. The coordinator recorded a bounded1944 search after the Library
+Genesis suggestion; no first-edition body was obtained. Neither literature
+survey nor AI agreement is described as priority clearance or external review.

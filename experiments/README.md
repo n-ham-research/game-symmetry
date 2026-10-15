@@ -77,3 +77,12 @@ containing matching lifts are distinct from symmetry forced in its invariant
 game family. General-n claims use the proof in research/phase3-equilibria.md.
 The ordinary test-discovery command includes the new regressions and exact
 fairness counterexamples. No ignored source download is required.
+
+The later utility/assignment tests add exact/cardinal/ordinal direct group
+checks against rational normalizations, strict player-transitivity examples,
+a rational ordinal/non-mixed-equilibrium witness, potential-strength face
+obstructions, role-offset underidentification, uniform assignment and an
+invariant equilibrium lottery distinct from its independent marginals.
+These are included in ordinary unittest discovery. General normalization,
+independent-mixed affinity and group-averaging claims use written proofs,
+not a claim that finite samples establish them.

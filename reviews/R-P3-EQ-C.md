@@ -105,3 +105,45 @@ two-player matching pennies. The final2018 body still requires comparison
 before any exact-potential novelty claim. The
 unbounded-player result is supported by the complete proof, not by extending
 the finite enumeration's scope. No manuscript edits or submissions were made.
+
+## Follow-up: utility invariance and assignment models
+
+After the user's two utility/fairness steering attachments, this reviewer
+read `utility-invariance.md` U1--U6 and `assignment-and-solution-rules.md`
+A1--A7. The finite-range ordinal/affine descriptions, subgroup laws,
+min-max/rank normalizations, common player kernel, range-signature criteria,
+and both strict player-transitivity examples check. The rational mixed-NE
+counterexample has equilibrium probabilities (2/3,1/2), whose swap fails;
+its two pure equilibria are correctly preserved. The weighted and ordinal
+potential corollaries of P3-E2 follow by normalization, and the square-face
+witnesses show that their potential strengths cannot generally be increased.
+
+A and the coordinator supplied a further proof of necessity of positive
+affinity from equality of **all independent mixed-profile weak comparisons**.
+I checked the argument independently: continuity on the connected marginal
+product domain gives the full interval of utility values. For an interior
+value t, the open set U(x)<t<U(y) is nonempty. Each hybrid-profile polynomial
+U(hybrid(x,y))-t has a zero set with empty relative interior: on x=y it
+reduces to the nonconstant U(x)-t. A pair avoiding their finite union gives
+a one-coordinate hybrid edge strictly crossing t. On that edge both U,V
+are affine, so their increasing comparison map is locally affine near t.
+Overlapping neighborhoods and connectedness force one affine formula;
+continuity extends it to the extreme values. Constants are a separate easy
+case. This uses neither convexity of the set of joint product laws nor an
+unjustified extension from products to correlated lotteries. I requested
+explicit relative-coordinate, image-interval and endpoint explanations.
+
+The assignment propositions correctly separate a single participant's global
+cross-role preferences from conditional player utilities. Group averaging
+has the right inverse/pushforward order and only promises equivariance;
+the warning about nonconvex properties is essential. A mixture of pure
+numerical Nash equilibria is a correlated equilibrium by linear obedience
+inequalities, without being identified with independent marginals. No
+substantive defect was found in A1--A7.
+
+`fairness-literature-solutions.md` records this reviewer's primary-source
+inspection for Nash1950, Kalai--Smorodinsky1975, an identified original
+Shapley1953 paper reprint, Varian1973, Bogomolnaia--Moulin2001, and a
+Perry--Powers2008 research preview. Version/access limitations are explicit.
+The original Nash fixed-input symmetry axiom differs from KS's globally
+quantified equivariance axiom. No original1944 VNM inspection is invented.

@@ -24,6 +24,9 @@
    and payoff counts? The explicit constructions show why an embedded abstract
    group alone is insufficient: unintended automorphisms can remove obstructions.
 4. Choose an independently defensible assignment/information/utility model.
+   Utility group normalizations, shared kernels and the independent-mixed
+   affinity theorem are now proved; assignment values remain underidentified
+   without cross-role data, as shown in assignment-and-solution-rules.md.
    Which empirically or philosophically justified tests distinguish local focal
    opportunities, simultaneous transport, and coherent exchange? The current
    experiments give exact comparisons but no comprehensive normative hierarchy.

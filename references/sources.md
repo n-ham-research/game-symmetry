@@ -66,3 +66,21 @@ full definitions/proofs remain to be compared before a novelty claim.
 New DM86 web/screenshot/browser attempts produced no readable original pages.
 The final Plan PDF endpoint again failed to return a readable body. These
 failures do not change the source-specific proof limitations recorded earlier.
+
+## Utility invariance and fairness literature
+
+The [annotated solutions review](../research/fairness-literature-solutions.md)
+and [VNM/strategic-value review](../research/fairness-literature-vnm-strategic.md)
+give actual primary definitions, printed pages, versions and reading limits.
+They include original bargaining texts, an identified Shapley reprint, a
+Varian working paper, published random-assignment content, Kohlberg–Neyman2021
+and Dimitrov–Sun2025. VNM Section28 was read and visually checked in the
+third-edition scan, not retroactively identified as1944 text. The bounded
+first-edition search after the Library Genesis suggestion is recorded in
+[fairness-programme-handover.md](../research/fairness-programme-handover.md).
+Public catalogue dates do not establish the scanned edition.
+
+Ham's author-hosted2011 thesis, Definitions4.2.3–4.2.4 and Propositions4.3.1–4.3.6,
+was directly inspected for prior ordinal/cardinal isomorphism and equilibrium
+results. The current independent-mixed affinity reconstruction is in
+utility-invariance.md. No priority claim is made for foundational utility facts.

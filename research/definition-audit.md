@@ -16,7 +16,7 @@ Original statements remain pinned in original-record.json. Status here concerns 
 | Example 3.16 | Verified | Extracted numeric table has cyclic image of order 3; some matching lifts transitive, none full. |
 | Definition 3.17 | Verified | Full specified permutation-equivariance; requires common labels. |
 | Definition 3.22 | Verified | Finite two-player zero-sum value exists by minimax; zero-value definition is mathematically well-formed. |
-| Definition 3.24 | Resolved replacement | Phase 3 supplies explicit moved-player pure-profile and independent-mixed-profile pair quantifiers, subgroup proofs, implications and separating examples. Original unspecified intent is not retrospectively certified; see phase3-specifications.md S2. |
+| Definition 3.24 | Resolved replacement | Phase 3 supplies explicit moved-player pure-profile and independent-mixed-profile pair quantifiers, subgroup proofs, implications and separating examples. Original unspecified intent is not retrospectively certified; see phase3-specifications.md S2 and utility-invariance.md U1 for the complete independent-mixed/affine identification. |
 | Example 4.1 | Verified | Matching pennies: identity-only bare player symmetry, full typed Aut order 4 with transitive image and no transitive strategy-trivial subgroup; mixed zero value. |
 | Definition 4.2 | Verified | All player/strategy source and target maps typed; bijection condition does not impose utilities. |
 | Example 4.3 | Verified | Both full payoff tables extracted; the displayed swap/strategy-flip isomorphism checked on all 4 profiles. |

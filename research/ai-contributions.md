@@ -65,3 +65,26 @@ notes. Review reports distinguish derivation from subsequent supplied-proof
 checking. No external peer review, author proof sign-off, or novelty conclusion
 is attributed to these activities. The manuscript remains by Nicholas Ham;
 these records document actual AI assistance rather than honorary coauthorship.
+
+### Additional utility-invariance and fairness briefs
+
+During the active Phase3 turn the user supplied two further research briefs,
+then suggested Library Genesis as an edition-search lead. The same A/B/C
+agents continued with new assignments; they were not new independent models.
+A reconstructed exact/cardinal/ordinal groups, normalization/signature/kernel
+lemmas, strict examples and binary potential corollaries, and proved full
+independent-mixed preference equivalence implies affinity by a hybrid-segment
+argument. The coordinator independently reached the same argument while A
+was developing it; B/C subsequently checked its full written proof. Prior
+Ham2011 statements and inspected source identifiers are credited explicitly.
+
+B reconstructed VNM§28 from the existing third-edition cache and visually
+checked all six section pages; B inspected published Kohlberg–Neyman2021 and
+Dimitrov–Sun2025 bodies. C prepared primary-source annotations for bargaining,
+Shapley, envy, random assignment, anonymity/neutrality and utility theory,
+recording reprint/working-paper/access limits. The coordinator wrote global
+assignment/solution-rule propositions and exact tests, checked the annotated
+claims, and recorded the edition search. A/B/C reviewed the assignment
+arguments and utility results. B's caution about ordinal versus numerical
+averaging was incorporated. No1944 body, blocked original DM proof, final
+Plan body, exhaustive novelty search or human review is invented.

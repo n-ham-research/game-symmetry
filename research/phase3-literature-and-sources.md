@@ -58,3 +58,9 @@ The historical introduction must continue to state this limitation. The
 independent finite-game research does not depend on resolving either source
 access gap. A readable lawful copy would enable the requested direct proof
 trace and final/draft comparison in a later pass.
+
+Additional ordinal comparison: the same 2015 draft, §6 (printed pp.29–30),
+Definition 8 and Theorem 4, treats multiplicity-based (weak) ordinal symmetry
+and binary ordinal potentialness. Its hypotheses require a precise comparison
+with actual ordinal-automorphism full image; the underlying utility hierarchy
+and ordinary ordinal special cases are not new claims.

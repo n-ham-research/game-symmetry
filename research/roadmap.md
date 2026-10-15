@@ -20,6 +20,12 @@ outstanding. See [Phase3 handover](handover-phase-3.md).
 - Operational fairness tests and exact separating examples distinguish values,
   information, focal opportunities, simultaneous transports and coherence.
 
+The additional briefs now have a [utility/fairness handover](fairness-programme-handover.md),
+complete invariant-group and assignment propositions, and annotated primary
+literature. Cardinal and ordinal versions of the binary theorem are proved
+via canonical normalizations; conditional preferences are kept separate from
+a participant's cross-role assignment preferences.
+
 ## Next work, in order
 
 1. Human adversarial review and targeted full-text literature comparison of the

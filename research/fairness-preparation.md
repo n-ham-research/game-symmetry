@@ -1,5 +1,10 @@
 # Fairness preparation after the structural audit
 
+Historical preparation note. The subsequent systematic work is indexed in
+[fairness-programme-handover.md](fairness-programme-handover.md); its utility
+normalizations, assignment propositions and annotated sources supersede this
+note's suggestions as a description of completed research.
+
 Exploratory notes, 16 October 2026. No new fairness theorem is promoted to the manuscript. The purpose is to specify independently meaningful decision questions before asking whether symmetry characterizes their answers. Calling an automorphism condition “fair” is a definition choice, not a discovery of an equivalence.
 
 ## Decision primitives to specify first

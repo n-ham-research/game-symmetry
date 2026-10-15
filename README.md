@@ -35,6 +35,8 @@ compile the bundle in a clean directory before upload. No upload is authorized.
 
 ## Reading order
 
+- [Utility invariance and fairness handover](research/fairness-programme-handover.md), [automorphism hierarchy](research/utility-invariance.md), and [assignment models](research/assignment-and-solution-rules.md).
+
 - [Phase 3 results and dependencies](research/phase3-results.md), [splitting proof](research/phase3-splitting-proof.md), and [binary equilibrium theorem](research/phase3-equilibria.md).
 - [Assignment/fairness experiments](research/phase3-fairness.md) and [publication outline](research/phase3-publication-outline.md).
 

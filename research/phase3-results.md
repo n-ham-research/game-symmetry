@@ -43,3 +43,21 @@ replacement interpretation of 4.10 and supplies the preference and geometry
 quantifiers. It does not retroactively claim an original unspecified group
 structure. New results have their own IDs here rather than changing the
 meaning or denominator of the original audit counts.
+
+## Utility-invariance and assignment extension
+
+The two later user briefs add foundational U1–U5 and candidate corollaries
+U6-C/U6-O in [utility-invariance.md](utility-invariance.md). Dependencies:
+finite ordered utility ranges, typed transport, independent-marginal hybrid
+segments, and P3-E1/E2/E3 for the potential corollaries. A derived these;
+B/C and the coordinator checked them. The independent-mixed affinity statement
+is attributed to prior Ham2011, with a complete new proof reconstruction.
+
+[Assignment propositions A1–A7](assignment-and-solution-rules.md) depend on
+explicit global participant expected utility, conditional procedures, and
+finite group actions. They include underidentification and selection
+counterexamples; no normative universal equivalence is asserted. A/B/C
+reviewed them; B's ordinal-averaging qualification was incorporated.
+The [fairness programme handover](fairness-programme-handover.md) links all
+new annotated sources, review records and limitations. Original formal-result
+counts remain unchanged.

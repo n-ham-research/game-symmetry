@@ -71,7 +71,7 @@ u_1(s)=s_1 and u_2(s)=2s_2+1 the swap preserves mixed preferences but not
 numerical utilities. Common cardinal scales cannot be inferred from ordinal
 or expected-utility preference equivalence.
 
-For clarity, a *different*, stronger variant permits every lottery over pure
+For clarity, a variant with a larger lottery domain permits every lottery over pure
 profiles, including correlated lotteries. For nonconstant utilities its
 preference-preserving transports are exactly positive affine utility changes.
 Proof: let a,b be minimum/maximum-utility profiles. Every pure profile z is
@@ -79,9 +79,13 @@ indifferent to the lottery giving b probability
 `(u(z)-u(a))/(u(b)-u(a))` and a otherwise. Transported indifference gives
 `v(z)=v(a)+(v(b)-v(a))(u(z)-u(a))/(u(b)-u(a))`; preserved strict endpoint
 order makes the slope positive. Linearity proves the converse. Constant
-utilities correspond exactly to constant utilities. This argument uses
-correlated profile lotteries and is not silently applied to the independent
-mixed quantifiers above.
+utilities correspond exactly to constant utilities. This short argument uses
+correlated profile lotteries. The later complete hybrid-segment proof in
+[utility-invariance.md](utility-invariance.md), U1, also proves necessity from
+the all-pairs independent-mixed quantifiers without assuming that joint
+product laws form a convex set. Thus the two tests define the same cardinal
+class in finite games, despite their different domains. This settles that
+remaining identification for the stated full quantifiers.
 
 ## S3. Geometry: specify and omit from the central argument
 
