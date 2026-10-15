@@ -88,3 +88,31 @@ claims, and recorded the edition search. A/B/C reviewed the assignment
 arguments and utility results. B's caution about ordinal versus numerical
 averaging was incorporated. No1944 body, blocked original DM proof, final
 Plan body, exhaustive novelty search or human review is invented.
+
+## Research Phase 4 — 16 October 2026
+
+Three fresh same-family agents received full conversation/repository context:
+p4_binary_attack (A, independent adversarial reconstruction and alternate
+binary solver), p4_ternary (B, three-strategy group boundary), p4_mechanisms
+(C, prior Figure4, reductions and obstruction comparison). Their initial tasks
+were separate; subsequent shared proof review is recorded as such. No distinct
+model build or external reviewer is invented.
+
+A reconstructed all binary proof cases and independently covered n3–6 with
+formal potential coefficients. B derived the648-lift/19-group ternary
+certificate and actual group6/18 classification. C supplied the common-interest
+orientation witness, reduction obstruction, binary individual-game proof and
+S1b restriction census. A and C independently rebuilt the ternary certificate
+using utility-cell permutations, A without importing prior group code. The
+coordinator read and checked the complete algebraic arguments, compared primary
+potential literature, wrote the calibrated assignment/interchangeability notes,
+and maintained integration/provenance. Agents cross-checked the new witness,
+ternary classification and assignment model.
+
+The orientation example corrected B's temporary overclaim that only minimal
+order6 generated groups could be actual full groups. Four generated groups
+also refute requiring a complement through a fixed standard cycle. A/C found
+a missing reference identity t0=id in the coordinator's assignment converse;
+it was explicitly added. These are recorded research corrections, not hidden.
+The raw alternating payoff construction and all unverified novelty remain
+qualified. No manuscript expansion, author proof sign-off or submission occurred.

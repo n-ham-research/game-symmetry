@@ -197,3 +197,33 @@ bodies inspected. C's annotated source note records original/reprint/draft
 boundaries. The coordinator recorded a bounded1944 search after the Library
 Genesis suggestion; no first-edition body was obtained. Neither literature
 survey nor AI agreement is described as priority clearance or external review.
+
+## Phase 4: skeptical verification and mechanism classification
+
+A/B/C began with full shared historical context and different fresh assignments;
+no blinded/different-model independence is claimed. A reconstructed the binary
+kernel, stabilizer and Coxeter proofs, separately tested n≥5 rigidity and n=4
+passivity, and supplied an alternate exact GF(2) search through n6. B analyzed
+all648 odd lifts after standard-cycle normalization; C investigated reductions
+and found the ternary common-interest orientation game.
+
+The order18 orientation group invalidated a temporary only-order6 inference
+about actual automorphism overgroups. B replaced it by the correct order6/18
+classification. The proof now explicitly uses payoff-orbit closure, not merely
+embedded subgroup properties. Another proposed strengthening (section must
+contain the given standard cycle) failed in four certificate groups and was
+not retained. A/C independently reconstructed the complete finite certificate
+with utility-cell permutation actions; A imports no existing group/matching
+implementation. The coordinator independently read the full theorem proofs.
+
+All three checked the Phase3 nonsplit witness analytically. C's census shows
+S1b restricts to5.13 if emergent symmetries are allowed; the new common-interest
+witness provides a stronger reduction obstruction. The assignment note was
+reviewed by A/B/C; A/C found the missing reference normalization t0=id, now
+fixed. C also checked the finite-range collapse/interchangeability note.
+
+Details: R-PH4-BINARY-A.md, R-P4-TERNARY-B.md, R-P4-MECHANISMS-C.md.
+The coordinator's novelty table distinguishes inspected bodies from previews
+and missing final texts; no search failure certifies novelty. Original41-result
+counts and pinned artifacts remain unchanged, and the main manuscript has no
+Phase4 additions. Internal agreement is not external mathematical review.

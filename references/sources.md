@@ -84,3 +84,15 @@ Ham's author-hosted2011 thesis, Definitions4.2.3–4.2.4 and Propositions4.3.1�
 was directly inspected for prior ordinal/cardinal isomorphism and equilibrium
 results. The current independent-mixed affinity reconstruction is in
 utility-invariance.md. No priority claim is made for foundational utility facts.
+
+## Phase 4 targeted potential comparison
+
+The [comparison table](../research/phase4-novelty-comparison.md) records primary
+Hofbauer–Sorger2002 §4.2.2, equation(4.15), now directly inspected. Its ordinary
+binary exact potential is credited before the later selection assumptions.
+Cheng et al., Cao–Yang2015/final2018 preview, common-label permutation-group
+results, modern typed-symmetry results and skew-symmetric game work are
+compared with access scope explicit. Missing final proof bodies are not
+excluded from possible prior coverage. [Exact source requests](../research/phase4-source-requests.md)
+identify remaining DM86, Plan, potential-literature and first-edition passages;
+no external message was sent.

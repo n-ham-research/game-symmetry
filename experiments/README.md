@@ -86,3 +86,23 @@ invariant equilibrium lottery distinct from its independent marginals.
 These are included in ordinary unittest discovery. General normalization,
 independent-mixed affinity and group-averaging claims use written proofs,
 not a claim that finite samples establish them.
+
+## Phase 4 adversarial and mechanism checks
+
+```sh
+python3 experiments/phase4_binary_verification.py
+python3 experiments/phase4_ternary.py --verify
+python3 experiments/phase4_ternary_crosscheck.py
+python3 experiments/phase4_ternary_independent.py
+```
+
+The binary solver independently covers every full-image subgroup for n=3–6
+and all real invariant utilities using formal square coefficients. The ternary
+certificate checks648 lifts,19 generated groups and their payoff-orbit closures.
+Two cell-permutation implementations independently reproduce it. Reduction
+tests cover all216 binary rectangles of S1b, all27 binary rectangles of the
+ternary orientation witness, all1296 maps and36 matchings of that witness,
+and16 binary assignments of its four common-payoff profile orbits.
+These are exact finite certificates with stated domains, not game sampling.
+The ordinary test command currently runs74 tests, including negative controls
+and the typed-history/utility-history distinction.

@@ -1,50 +1,50 @@
-# Open questions after Research Phase 3
+# Open questions after Research Phase 4
 
-## Mathematical questions now answered internally
+## Newly settled in a precise finite scope
 
-- **Ham 5.6 converse: false.** A three-player, four-action, two-payoff standard
-  full-player-image game has no section of its actual player projection.
-- **Binary n-transitively standard pure equilibrium: affirmative.** The game
-  has an exact potential. For n≥3 full player image alone suffices. The proof
-  also gives full-symmetry rigidity at n≥5 and the exceptional n=4 structure.
-- These are complete internal candidate proofs, **not** established novelty or
-  external mathematical validation. See phase3-results.md and the proof notes.
+For three players, three strategies do not permit a standard full-image
+nonsplit projection. Four strategies are minimal. The non-full ternary actual
+automorphism groups have exactly two mechanisms, order6 and18. These are
+internally verified candidate results, not novelty certificates.
 
-## Next mathematical investigations
+Example5.13 remains the prior binary three-player classification. It is not
+universal under exact strategy reductions: the common-interest orientation
+game cannot reduce to it. S1b's nonsplitting is a different represented
+extension, but S1b nevertheless restricts to5.13 under emergent symmetry.
 
-1. Can the nonsplit standard counterexample use **three actions per player**?
-   Two actions cannot suffice by the Phase3 binary analysis, and four suffice.
-   Three players and a two-value payoff alphabet are already minimal.
-2. Which nonbinary strategy-action conditions ensure a section of the specified
-   player map? The exact factor-set equation and Coxeter-lift criterion are
-   available; identify useful representation hypotheses beyond restating a
-   complement's existence. Distinguish these from strategy-trivial splitting.
-3. Is there a clean general realization theorem for full game automorphism
-   groups that preserves a prescribed player projection and controls strategy
-   and payoff counts? The explicit constructions show why an embedded abstract
-   group alone is insufficient: unintended automorphisms can remove obstructions.
-4. Choose an independently defensible assignment/information/utility model.
-   Utility group normalizations, shared kernels and the independent-mixed
-   affinity theorem are now proved; assignment values remain underidentified
-   without cross-role data, as shown in assignment-and-solution-rules.md.
-   Which empirically or philosophically justified tests distinguish local focal
-   opportunities, simultaneous transport, and coherent exchange? The current
-   experiments give exact comparisons but no comprehensive normative hierarchy.
-5. What general-sum coalition guarantee is justified for a fairness comparison?
-   Utilitarian scalar minimax, payoff-vector sets and bargaining solutions need
-   different assumptions. Do not import zero-sum transferable-utility conclusions.
+## Mathematical questions worth investigating
 
-## Source and interpretation work
+1. For three strategies and **four or more players**, does standardness plus
+   full player image force splitting? What kernels/stabilizer actions are
+   possible, and which survive payoff-orbit closure as actual game groups?
+2. For larger strategy sets, can the represented-extension mechanisms be
+   classified without unrestricted payoff enumeration? Distinguish split
+   stabilizer obstructions from nonsplit extensions and from nonrealizable
+   embedded groups.
+3. Is there a useful canonical reduction/core after selecting a precise exact
+   reduction system? How does allowing emergent automorphisms, utility
+   transformations or player deletion change the answer? No general uniqueness
+   claim survives merely from the witnesses' shared location in the diagram.
+4. Can a justified assignment model make typed path independence economically
+   consequential without assuming its desired welfare conclusion? In the
+   present common-money model, kernel discrepancies are payoff-invisible.
+5. Which further conclusions of the binary theorem are algorithmically useful?
+   Ordinary potentialness is prior literature; identify the extra value of the
+   typed-action rigidity and low-degree exceptions before expanding claims.
 
-6. Compare full Cao–Yang definitions and Theorem 3, related potential-game work,
-   and representation/extension literature before asserting novelty.
-7. Obtain readable DM86 original Definition 7/Lemmas 6–7/Theorems 6/6* and Plan's
-   final 2023 article. The bounded retries still do not provide readable bodies;
-   no conclusion about the existence proofs follows from that limitation.
-8. Corollary 4.10's natural set/bitorsor replacement is settled. Its original
-   unspecified group structure remains unresolved as written. Definition 3.24
-   and the geometric predicates have precise replacement specifications; no
-   retroactive reconstruction of author intent is claimed.
-9. Obtain human mathematical scrutiny, particularly of the exact-Aut witness
-   and the four-player exceptional proof. Internal same-family agent agreement
-   is not external peer review.
+## Literature and primary-source questions
+
+6. Complete the exact hypothesis/proof comparison with final Cao–Yang2018,
+   Cheng–Liu2018, and relevant recent symmetric potential equations. The
+   potential theorem is a potentially new strengthening, not cleared novelty.
+7. Obtain the DM86 proof passages, Plan final body and VNM1944 Section28;
+   phase4-source-requests.md specifies what is needed. No repeated retrieval
+   failure supplies a mathematical proof verdict.
+8. Obtain human adversarial verification of the new binary proof and ternary
+   finite certificate. All current independent implementations/reviews are
+   same-family AI work with shared historical context.
+
+The original4.10 unspecified hom-set structure remains historically unresolved;
+its chosen set/bitorsor replacement is proved. Preference-transport and
+geometric replacements are explicit. No new ambiguity is hidden by changing
+the original41-result audit denominator.

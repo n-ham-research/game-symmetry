@@ -1,53 +1,47 @@
-# Roadmap — Research Phase 3, 16 October 2026
+# Roadmap — after Research Phase 4, 16 October 2026
 
-The second audit is approved. Phase3 has produced complete internal answers to
-the two prioritized mathematical questions. The conservative main manuscript
-remains unchanged while source comparison and adversarial human scrutiny remain
-outstanding. See [Phase3 handover](handover-phase-3.md).
+The main manuscript remains conservative. The current result/provenance index
+is [handover-phase-4.md](handover-phase-4.md); previous handovers remain history.
 
-## Current mathematical foundation
+## Established internally, with novelty still provisional
 
-- Original 41-result audit:33 verified,7 corrected/clarified,1 original wording
-  unresolved. Pinned statements and old correction history are preserved.
-- Natural 4.10 set/bitorsor replacement, 3.24 transported-preference quantifiers,
-  and measurable geometry assumptions are specified. Recommend omitting formal
-  geometric analogies from the central new-result paper.
-- The converse of 5.6 is false: three players, four strategies, two payoff values
-  suffice for a standard full-player-image game with nonsplit player projection.
-- Binary n-transitively standard games have exact potentials and pure equilibria.
-  For n≥3 full player image alone suffices; n≥5 forces full symmetry up to
-  relabeling. The exceptional low-degree actions are explicitly handled.
-- Operational fairness tests and exact separating examples distinguish values,
-  information, focal opportunities, simultaneous transports and coherence.
+- The binary exact-potential theorem survived a fresh adversarial reconstruction.
+  A separate solver covers all full-image subgroups at3–6 players, while the
+  arbitrary-player result rests on the algebraic proof.
+- Figure4 is prior Ham2021 work: seven binary three-player symmetry families.
+  Its full finite exhaustion/cover check and a new algebraic individual-game
+  specialization proof confirm the intended Example5.13 uniqueness scope.
+- Three-player ternary standard/full-image games split. Their non-full actual
+  groups have two possible mechanisms, of orders6 and18. A complete finite
+  group certificate and two independent reconstructions cover all real payoffs.
+- The four-strategy nonsplit example is strategy-count minimal at three players.
+  No arbitrary-player ternary splitting theorem is claimed.
+- A common-interest orientation game cannot reduce to non-full5.13 by exact
+  rectangular restrictions/clone quotients/isomorphisms. S1b can restrict to5.13
+  when emergent automorphisms are allowed. Reduction notions matter.
+- One calibrated assignment model shows individual realization already gives
+  one-shot indifference; typed path independence requires coherence but utility
+  history independence alone does not.
 
-The additional briefs now have a [utility/fairness handover](fairness-programme-handover.md),
-complete invariant-group and assignment propositions, and annotated primary
-literature. Cardinal and ordinal versions of the binary theorem are proved
-via canonical normalizations; conditional preferences are kept separate from
-a participant's cross-role assignment preferences.
+## Next work
 
-## Next work, in order
+1. Obtain the missing final potential-game texts and human adversarial scrutiny.
+   The novelty comparison credits ordinary/renaming potentials explicitly;
+   no search failure establishes originality.
+2. Study three-strategy games with four or more players using actual player
+   projections, stabilizer actions and payoff-orbit closure. Separate possible
+   abstract extensions from full groups realizable by payoff data.
+3. Seek a general classification/realization theory under explicitly chosen
+   action equivalence and reduction operations. Do not posit one canonical
+   core or one exceptional family without specifying those operations.
+4. Investigate genuinely additional consequences in the calibrated assignment
+   model before calling it a separate fairness paper. Extra physical reset or
+   commitment costs change the modeled game and its automorphisms.
+5. Keep source gaps explicit using phase4-source-requests.md, rather than
+   repeatedly retrying inaccessible URLs. No manuscript expansion/submission
+   before author scrutiny and an appropriately supported contribution choice.
 
-1. Human adversarial review and targeted full-text literature comparison of the
-   new proofs. Candidate results are not novelty claims. Compare Cao–Yang and
-   the exact group-representation literature, not only titles and abstracts.
-2. Study whether three strategies suffice for the nonsplit standard witness;
-   investigate useful nonbinary splitting hypotheses and controlled realization
-   of specified player actions.
-3. Develop one justified fairness assignment model with explicit participants,
-   information, strategy correspondences and utility scale. Keep speculative
-   interpretation separate from theorem statements.
-4. Continue lawful primary-source retrieval for DM86 and final Plan without
-   replacing missing original arguments with secondary assessments.
-5. Draft a coherent paper only after choosing its verified contribution. The
-   preliminary narrative connects lifting obstructions and binary potentialness;
-   the wider fairness programme may belong in a separate paper.
-
-## Safeguards
-
-Preserve original-record.json and keep old/source and repaired verdicts
-separate. New candidate IDs and dependencies live in phase3-results.md rather
-than changing the original audit denominator. Finite exhaustive results state
-their exact domains; arbitrary-n conclusions require the written proofs.
-Record actual AI work and review context. No journal or arXiv submission is
-authorized. Internal reviews are not human sign-off or external peer review.
+The original41-result audit and5 pinned artifacts remain intact (33 verified,
+7 corrected/clarified,1 original ambiguity). New candidate results and their
+finite scopes are recorded separately. Internal AI reviews are not external
+peer review or human sign-off.
