@@ -1,47 +1,47 @@
-# Roadmap — after Research Phase 4, 16 October 2026
+# Roadmap after Research Phase 5
 
-The main manuscript remains conservative. The current result/provenance index
-is [handover-phase-4.md](handover-phase-4.md); previous handovers remain history.
+16 October2026. Main manuscript unchanged. Start with
+[handover-phase-5.md](handover-phase-5.md), the
+[standalone proofs](phase5-publication-proofs.md), and the
+[proposed publication structure](phase5-publication-outline.md).
+All new results remain candidate contributions with novelty provisional.
 
-## Established internally, with novelty still provisional
+## Main mathematical findings
 
-- The binary exact-potential theorem survived a fresh adversarial reconstruction.
-  A separate solver covers all full-image subgroups at3–6 players, while the
-  arbitrary-player result rests on the algebraic proof.
-- Figure4 is prior Ham2021 work: seven binary three-player symmetry families.
-  Its full finite exhaustion/cover check and a new algebraic individual-game
-  specialization proof confirm the intended Example5.13 uniqueness scope.
-- Three-player ternary standard/full-image games split. Their non-full actual
-  groups have two possible mechanisms, of orders6 and18. A complete finite
-  group certificate and two independent reconstructions cover all real payoffs.
-- The four-strategy nonsplit example is strategy-count minimal at three players.
-  No arbitrary-player ternary splitting theorem is claimed.
-- A common-interest orientation game cannot reduce to non-full5.13 by exact
-  rectangular restrictions/clone quotients/isomorphisms. S1b can restrict to5.13
-  when emergent automorphisms are allowed. Reduction notions matter.
-- One calibrated assignment model shows individual realization already gives
-  one-shot indifference; typed path independence requires coherence but utility
-  history independence alone does not.
+- Three-player ternary classification survived independent adversarial review.
+  Normalizer conjugacy reduces648 lifts to32 representatives and11 group
+  classes. The only actual non-full mechanisms remain orders6 and18.
+- Standard ternary full-image games split for every player count not divisible
+  by3. The proof is algebraic, using the local-sign quotient and the splitting
+  of the F3 permutation module into constant and sum-zero subspaces.
+- Six players are necessary and sufficient for ternary nonsplitting under
+  standardness/full image. A binary common-interest eighteen-profile game
+  realizes the known nonsplit triple cover3.S6 as its complete typed group.
+  Independent implementations check full-group exclusion, standardness and
+  the nonsplitting certificate. Three strategies are globally minimal for a
+  standard full-image nonsplit example; three-player examples require four.
+- A four-player ternary binary game realizes S4×_{C2}S3, order72, split but
+  non-full. A general opposite-face construction realizes
+  S_(m+1)×_{C2}S_m with binary payoffs. Signed arrays are prior skew literature.
+- Exact clone quotients become transparent when multiplicities are retained.
+  Common interest distinguishes the six-player nonsplit game from Example5.13
+  even when fixed-action player deletion is allowed alongside exact reductions.
 
-## Next work
+## Next research
 
-1. Obtain the missing final potential-game texts and human adversarial scrutiny.
-   The novelty comparison credits ordinary/renaming potentials explicitly;
-   no search failure establishes originality.
-2. Study three-strategy games with four or more players using actual player
-   projections, stabilizer actions and payoff-orbit closure. Separate possible
-   abstract extensions from full groups realizable by payoff data.
-3. Seek a general classification/realization theory under explicitly chosen
-   action equivalence and reduction operations. Do not posit one canonical
-   core or one exceptional family without specifying those operations.
-4. Investigate genuinely additional consequences in the calibrated assignment
-   model before calling it a separate fairness paper. Extra physical reset or
-   commitment costs change the modeled game and its automorphisms.
-5. Keep source gaps explicit using phase4-source-requests.md, rather than
-   repeatedly retrying inaccessible URLs. No manuscript expansion/submission
-   before author scrutiny and an appropriately supported contribution choice.
+1. Classify which parity-twisted cyclic three-extensions at3-divisible player
+   counts can occur as complete game groups. Their order must be3n! and the
+   kernel commonC3. Six supplies existence, not exhaustion.
+2. Complete the four-player ternary non-full mechanism classification; splitting
+   is settled but the order72 witness is not an exhaustive list.
+3. Replace the remaining three-player finite lemma by a short symbolic proof
+   if possible; keep exact certificates as independently reproducible evidence.
+4. Develop minimal-witness results for precisely specified reductions, including
+   player deletion and utility equivalence. Do not assume a unique core.
+5. Seek human mathematical scrutiny and complete targeted source comparisons.
+   Covering-group closure and triple-cover/Hadamard constructions are prior;
+   game applications and sharp boundaries remain candidates for novelty.
 
-The original41-result audit and5 pinned artifacts remain intact (33 verified,
-7 corrected/clarified,1 original ambiguity). New candidate results and their
-finite scopes are recorded separately. Internal AI reviews are not external
-peer review or human sign-off.
+The original41-result registry and5 pinned artifacts remain intact:
+33verified,7corrected/clarified,1 original ambiguity. The potential and fairness
+programmes are preserved separately. No publication submission is authorized.

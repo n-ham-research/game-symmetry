@@ -35,6 +35,8 @@ compile the bundle in a clean directory before upload. No upload is authorized.
 
 ## Reading order
 
+- [Phase 5 handover](research/handover-phase-5.md): ternary splitting through five players, a six-player nonsplit common-interest game, general splitting reductions and publication proofs.
+
 - [Phase 4 handover](research/handover-phase-4.md): adversarial binary verification, the ternary splitting boundary, two ternary mechanisms, and precise reduction comparisons.
 
 - [Utility invariance and fairness handover](research/fairness-programme-handover.md), [automorphism hierarchy](research/utility-invariance.md), and [assignment models](research/assignment-and-solution-rules.md).

@@ -1,50 +1,54 @@
-# Open questions after Research Phase 4
+# Open questions after Research Phase 5
 
-## Newly settled in a precise finite scope
+## Settled boundaries and their scope
 
-For three players, three strategies do not permit a standard full-image
-nonsplit projection. Four strategies are minimal. The non-full ternary actual
-automorphism groups have exactly two mechanisms, order6 and18. These are
-internally verified candidate results, not novelty certificates.
+For standard games with full player image, ternary projections split at every
+player count not divisible by3 and also at three players. A six-player binary
+common-interest ternary game has a nonsplit projection. Thus six is the minimum
+player count for ternary nonsplitting, and three the minimum equal strategy
+count permitting nonsplitting over arbitrary player counts. At three players
+the minimum is four strategies. These are internally verified candidates,
+with novelty and external mathematical scrutiny still pending.
 
-Example5.13 remains the prior binary three-player classification. It is not
-universal under exact strategy reductions: the common-interest orientation
-game cannot reduce to it. S1b's nonsplitting is a different represented
-extension, but S1b nevertheless restricts to5.13 under emergent symmetry.
+Three-player ternary non-full full groups are exactly the order6 and18
+mechanisms. Four-player ternary splitting is settled, but its non-full group
+mechanisms have not been completely classified. The known order72 split
+example must not be presented as an exhaustive list.
 
-## Mathematical questions worth investigating
+## Strongest remaining mathematical questions
 
-1. For three strategies and **four or more players**, does standardness plus
-   full player image force splitting? What kernels/stabilizer actions are
-   possible, and which survive payoff-orbit closure as actual game groups?
-2. For larger strategy sets, can the represented-extension mechanisms be
-   classified without unrestricted payoff enumeration? Distinguish split
-   stabilizer obstructions from nonsplit extensions and from nonrealizable
-   embedded groups.
-3. Is there a useful canonical reduction/core after selecting a precise exact
-   reduction system? How does allowing emergent automorphisms, utility
-   transformations or player deletion change the answer? No general uniqueness
-   claim survives merely from the witnesses' shared location in the diagram.
-4. Can a justified assignment model make typed path independence economically
-   consequential without assuming its desired welfare conclusion? In the
-   present common-money model, kernel discrepancies are payoff-invisible.
-5. Which further conclusions of the binary theorem are algorithmically useful?
-   Ordinary potentialness is prior literature; identify the extra value of the
-   typed-action rigidity and low-degree exceptions before expanding claims.
+1. Which nonsplit actual ternary groups occur at n=6,9,12,…? The local-sign
+   kernel must vanish; the remaining kernel is commonC3, inverted by odd
+   player permutations, and the whole group has order3n!.
+   What further restrictions come from payoff-orbit closure and standardness?
+2. Is the six-player triple-cover obstruction the only primitive ternary
+   nonsplit mechanism under a natural represented-action equivalence? Do
+   larger3-divisible counts introduce different mechanisms? No uniqueness
+   theorem is established.
+3. Can the four-player ternary non-full mechanisms be completely classified
+   algebraically or by a sharply reduced group computation?
+4. Can the three-player32/11-case lemma be replaced with a conceptual proof
+   of the same actual-group exhaustion, retaining every parameter specialization?
+5. Is there a useful canonical minimal witness under exact restrictions,
+   clone quotients and specified player deletion? Common interest separates
+   the six-player game from non-full Example5.13 under all these operations,
+   but utility changes may erase that invariant. Structural inequivalence and
+   irreducibility are different questions.
 
-## Literature and primary-source questions
+## Sources and review
 
-6. Complete the exact hypothesis/proof comparison with final Cao–Yang2018,
-   Cheng–Liu2018, and relevant recent symmetric potential equations. The
-   potential theorem is a potentially new strengthening, not cleared novelty.
-7. Obtain the DM86 proof passages, Plan final body and VNM1944 Section28;
-   phase4-source-requests.md specifies what is needed. No repeated retrieval
-   failure supplies a mathematical proof verdict.
-8. Obtain human adversarial verification of the new binary proof and ternary
-   finite certificate. All current independent implementations/reviews are
-   same-family AI work with shared historical context.
+6. Compare final Cao–Yang2018, Cheng–Liu2018 and relevant recent potential
+   equations before claiming novelty of the separate binary strengthening.
+7. Obtain legible original Peleg–Rosenmüller–Sudhölter covering-group passages
+   alongside the readable2024 full text. The closure principle is prior work.
+   Compare the six-player game application with Hadamard/code literature;
+   the triple cover and its represented nonsplitting are already established.
+8. Retain the precise DM86, final Plan and VNM1944 requests in
+   phase4-source-requests.md. Repeated retrieval failure is not proof evidence.
+9. Obtain human adversarial review of all new algebra and essential finite
+   lemmas. Current checks are shared-family AI work, not external peer review.
 
-The original4.10 unspecified hom-set structure remains historically unresolved;
-its chosen set/bitorsor replacement is proved. Preference-transport and
-geometric replacements are explicit. No new ambiguity is hidden by changing
-the original41-result audit denominator.
+Fairness/assignment and the binary-potential programme remain preserved but
+are not the main lifting-paper scope. The original4.10 hom-set ambiguity stays
+historically unresolved; its explicit set/bitorsor replacement is proved.
+The original41-result denominator is unchanged.
