@@ -101,3 +101,12 @@ invariance. No larger exhaustive campaign was initiated.
 One automatic review initially objected to public visibility; the explicit
 user passage 'Both repositories should be public' was supplied and creation
 then approved. No unresolved migration approval issue remains.
+
+## Immutable delivery snapshots
+
+Structural migration/manuscript commit:
+889e88f2faa76a35ec68fcd62406ac912fdd1b0b.
+Fairness foundation/migration commit:
+a5e7f06 (full hash in that repository's Git log).
+Both include source/provenance or validated mathematical artifacts; later
+handover-only commits do not rewrite either snapshot.
