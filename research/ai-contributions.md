@@ -185,3 +185,13 @@ chat context and repository records; this was same-family internal review,
 not blinded review or external mathematical approval. No new classification
 search, author change, submission or external contact occurred. Details and
 remaining readiness limits are in phase7-final-structural-audit.md.
+
+## Phase 8 external-review preparation
+
+The delegated p8_symmetry Codex instance worked only in game-symmetry,
+prepared the standalone briefing and readiness/novelty update, independently
+reconstructed actualness and final central-extension interfaces, and refreshed
+the primary multiplier citation. It read existing proofs and shared prior
+context; this was neither blinded nor human external review. The coordinator
+was asked to cross-review the packet before pushing. No manuscript theorem,
+author, external contact or submission changed.

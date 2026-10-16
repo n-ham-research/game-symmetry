@@ -18,11 +18,10 @@ Required before submission:
    Anonymous2011revision identity and uninspected1944/finalPlan/DMpassages
    remain qualified. Check journal disclosure rules at submission time.
 
-The fairness draft is an earlier5page research foundation, independently
-compiling and preserving15transferred exact tests. Its next objective is a
-non-tautological assignment/opponent-law characterization, not synchronized
-publication with the structural paper. No universal fairness theorem is
-claimed. The binary-potential programme remains canonical in game-symmetry.
+The fairness manuscript is maintained independently in game-fairness.
+Its current results and validation must be read from that repository;
+this report does not maintain a stale companion page/test count. The
+binary-potential programme remains canonical in game-symmetry.
 
 Native document-control discovery found no connected document session and
 no exposed open_in_codex/compile_latex_document tool. Sources were preserved
@@ -37,3 +36,8 @@ explicit, and a hierarchy table plus literal utility-normalization formulas
 reduce ambiguity. The twelve-page PDF builds with all references resolved;
 all pages were rendered and inspected after these edits. External scrutiny
 and specialist priority assessment remain necessary; no submission occurred.
+
+Phase 8 provides [a standalone external-review briefing](external-review-briefing.md)
+and [targeted readiness/novelty assessment](phase8-review-readiness.md).
+The manuscript is unchanged. External contact and submission remain
+unauthorized; the briefing is prepared for author-controlled use.

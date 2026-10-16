@@ -1,6 +1,6 @@
 # Game Symmetry publication roadmap
 
-After Phase6,16October2026. The structural manuscript is a self-contained
+After Phase 8, 16 October 2026. The structural manuscript is a self-contained
 research draft; utility/fairness maintenance is canonical in game-fairness.
 Read handover-phase-6.md and publication-readiness.md.
 
@@ -25,3 +25,8 @@ six-player counterexample. At n≥5,n≠6 full actual player image alone suffice
 The larger3-divisible player-count question formerly open in Phase5 is now
 closed by the source-based multiplier corollary, not new enumeration.
 Novelty and external review remain outstanding. No submission is authorized.
+
+Phase 8 review packet: external-review-briefing.md and
+phase8-review-readiness.md. Prioritize independent criticism of the complete
+reduction over further large classification. Preserve the binary-potential
+proof and source queue as a separate active contribution.

@@ -290,3 +290,14 @@ clarifications, refreshed primary multiplier/potential sources, and recorded
 limits in research/phase7-final-structural-audit.md. It shared prior context
 and a model family; no new independent human review or novelty clearance is
 claimed. The coordinating agent was asked to cross-review before push.
+
+## Phase 8 publication-preparation review
+
+The p8_symmetry instance checked fixed-recipient payoff closure and the
+universal-central-extension interface conceptually, explicitly avoiding an
+assumption that the even preimage is perfect in the general theorem. It
+prepared precise specialist review questions and a shorter explanation of
+the attained example's nonsplitting. No new classification is claimed.
+Source refresh and limitations are in research/phase8-review-readiness.md.
+This was shared-context same-family internal work; coordinating cross-review
+was requested, not external mathematical approval.
