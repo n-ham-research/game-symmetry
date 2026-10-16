@@ -195,3 +195,14 @@ the primary multiplier citation. It read existing proofs and shared prior
 context; this was neither blinded nor human external review. The coordinator
 was asked to cross-review the packet before pushing. No manuscript theorem,
 author, external contact or submission changed.
+
+## Phase 9 focused maintenance
+
+The delegated p9_symmetry Codex instance reread the structural reduction,
+reconstructed the exceptional four-player and signed three-player binary
+potential arguments, inspected Cheng–Liu2017 Definition68/Theorem71 and
+AppendixC, and refreshed the Tewolde et al. author-hosted introduction.
+It prepared phase9-handover.md and a specialist interface checklist. It had
+inherited context and existing proofs, so this was shared-family internal
+review, not blind or external review. No manuscript theorem, authorship,
+external contact, submission or classification campaign changed.

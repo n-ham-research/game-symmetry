@@ -200,3 +200,9 @@ Selected primary references (versions/access limits are in the novelty record):
 - [ATLAS A6 representations](https://brauer.maths.qmul.ac.uk/Atlas/alt/A6/), degree-18 representation 3S6G1-p18aB0.
 - Lassueur–Mazza, [author manuscript, 18 May 2015](https://eprints.lancs.ac.uk/id/eprint/82264/1/endoSchurAnSn_Revised.pdf), §3.
 - Hofbauer–Sorger, [A Differential Game Approach to Evolutionary Equilibrium Selection](https://homepage.univie.ac.at/josef.hofbauer/02igtr_sorger.pdf), 2002, §4.2.2.
+
+Phase9 handover: [targeted specialist checklist, binary proof reconstruction
+and newly inspected primary passages](phase9-handover.md). No hypothesis or
+manuscript theorem changed. In particular, Cheng–Liu's inspected 2017
+negation-symmetry theorem is distinguished from its uninspected final2018
+version and from a signed player-action lift.

@@ -41,3 +41,10 @@ Phase 8 provides [a standalone external-review briefing](external-review-briefin
 and [targeted readiness/novelty assessment](phase8-review-readiness.md).
 The manuscript is unchanged. External contact and submission remain
 unauthorized; the briefing is prepared for author-controlled use.
+
+Phase9 preserves all theorem assumptions and updates the independent-review
+checklist in [phase9-handover.md](phase9-handover.md). Binary potential work
+remains active, including a newly inspected Cheng–Liu2017 primary comparison
+and explicit final2018 limitations. The manuscript is unchanged. All88 tests,
+the pinned-source audit and the local manuscript build passed; no new layout
+inspection is claimed. Specialist review and priority clearance remain open.

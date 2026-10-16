@@ -301,3 +301,18 @@ the attained example's nonsplitting. No new classification is claimed.
 Source refresh and limitations are in research/phase8-review-readiness.md.
 This was shared-context same-family internal work; coordinating cross-review
 was requested, not external mathematical approval.
+
+## Phase 9 targeted readiness and binary reconstruction
+
+The delegated p9_symmetry instance reread the ternary residual-module proof
+and reconstructed the delicate binary four-player local-normalization and
+three-player potential branches. No defect was found in the retained
+hypotheses. The source comparison now includes actual Cheng–Liu2017
+Definition68/Theorem71 and AppendixC; the final2018 body remains a gap.
+The precise source/version scope and specialist questions are in
+research/phase9-handover.md. This is inherited-context, same-family internal
+review, not specialist scrutiny or novelty clearance. Root cross-review was
+requested before committing. All88 experiment tests, five-file pinned-source
+audit and unchanged manuscript build passed. No rendered-page review is
+claimed because no manuscript source or layout changed. No external contact
+occurred; games-symmetry.zip remains untracked and untouched.

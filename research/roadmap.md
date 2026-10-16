@@ -30,3 +30,9 @@ Phase 8 review packet: external-review-briefing.md and
 phase8-review-readiness.md. Prioritize independent criticism of the complete
 reduction over further large classification. Preserve the binary-potential
 proof and source queue as a separate active contribution.
+
+Phase9 maintains the review-first boundary. The detailed interface checklist
+and binary-potential reconstruction/source update are in
+phase9-handover.md. No new classification campaign or publication project
+is opened. Obtain actual specialist criticism of the represented-action
+reduction before treating repeated internal agreement as progress.
