@@ -11,12 +11,14 @@ and fairness research. Both programmes have independent aims and roadmaps.
 Historical copies here are frozen; see [dependencies](research/cross-project-dependencies.md)
 and the [migration inventory](research/migration-inventory.json).
 
-The main manuscript is now *Symmetry, Automorphism Groups and Player
-Permutations in Finite Games*, an internally audited research draft with
-provisional novelty. It includes the three-player ternary classification,
-general splitting arguments and an explicit six-player binary common-interest
-nonsplit game. A classical multiplier corollary establishes six as the only
-possible ternary nonsplitting player count under the stated hypotheses.
+The first-priority human-review manuscript is now *Symmetry and Player
+Interchangeability in Finite Games*. It leads with a self-contained, explicitly
+attributed account of the established Vester/Ham indexing correction, followed
+by the ternary classification, splitting boundary and explicit six-player
+ternary game with binary common payoffs. Closely related assignment and
+invariant-recommendation consequences are included; broader fairness remains
+separate. See [publication readiness](publication/READINESS.md) for precise
+hypotheses, novelty limits, review records and remaining human decisions.
 The pre-split manuscript is preserved in research/archive/pre-split-paper.
 
 ## Build and verify

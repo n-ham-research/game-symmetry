@@ -1,0 +1,72 @@
+\section{The player--profile indexing condition}\label{sec:indexing}
+Let $N=\{0,\ldots,n-1\}$, let $A$ be a common nonempty finite action set,
+and let $u_i:A^n\to\R$. For $p\in S_n$, define
+\begin{equation}\label{eq:profile-action}
+ (P_p s)_j=s_{p^{-1}(j)}.
+\end{equation}
+Thus the action originally chosen by $i$ is used by $p(i)$ after relabeling,
+and $P_qP_p=P_{qp}$. Under this convention the usual equivariance condition is
+\begin{equation}\label{eq:correct-symmetry}
+ u_i(s)=u_{p(i)}(P_p s)\qquad(i\in N,\ s\in A^n,\ p\in S_n).
+\end{equation}
+By contrast, pairing $p(i)$ with the non-inverse list of profile indices gives
+\begin{equation}\label{eq:mismatched-symmetry}
+ u_i(s)=u_{p(i)}(s_{p(0)},\ldots,s_{p(n-1)})
+       =u_{p(i)}(P_{p^{-1}}s).
+\end{equation}
+These formulas coincide on transpositions. Their difference therefore cannot
+be detected in two-player examples, or by checking only player transpositions.
+A consistent right-action convention is equally valid; the issue is the
+mismatched pairing, not a preference for left-action notation.
+
+\begin{theorem}[Vester; Ham]\label{thm:indexing}
+Suppose $n\ge3$. Condition~\eqref{eq:mismatched-symmetry} holds if and only if
+\eqref{eq:correct-symmetry} holds and all payoff functions are identical:
+$u_i(s)=u_j(s)$ for every $i,j,s$.
+\end{theorem}
+\begin{proof}
+On each transposition, the mismatched condition is the correct condition.
+The correctly preserving player permutations form a subgroup: successive
+substitutions use $P_qP_p=P_{qp}$, and inversion follows by changing profiles.
+Since transpositions generate $S_n$, the correct condition holds for all $p$.
+Compare the mismatched condition at $p$ with the correct condition at $p^{-1}$.
+They give
+\[
+ u_{p(i)}(P_{p^{-1}}s)=u_{p^{-1}(i)}(P_{p^{-1}}s).
+\]
+The profile map is bijective. Given distinct $a,b$, choose a third player $k$
+and take the cycle $p=(k\ a\ b)$ and $i=k$; then $p(i)=a$ and $p^{-1}(i)=b$.
+Hence $u_a=u_b$. Conversely apply the correct condition at $p^{-1}$ and
+use equality of the recipient payoff functions.
+\end{proof}
+The algebraic proof uses no finiteness of $A$, although our game and equilibrium
+statements remain finite. The common-payoff consequence was publicly proved
+by \citet[Appendix B, Theorem 32]{vester2012}; the full equivalence appears in
+\citet[Theorem 3.18]{ham2013} and \citet[Theorem 3.21]{ham2021}. See also
+\citet[Lemma 2.14 and Proposition 2.15]{tohme2019}, using its identified author
+preprint for the result numbering. We do not claim a new discovery of this
+indexing theorem.
+
+\begin{example}\label{ex:indexing}
+For $n\ge3$ and $A=\{0,1\}$, the game $u_i(s)=s_i$ satisfies
+\eqref{eq:correct-symmetry} but not~\eqref{eq:mismatched-symmetry}. For example,
+with $p=(0\ 1\ 2)$, $i=0$ and $s=(1,0,0,\ldots,0)$, the latter compares
+$1$ with $0$. For $n=2$ both formulas hold in this same game despite the
+payoff functions being distinct. Conversely identical payoff functions alone
+do not imply either condition: $u_i(s)=s_0$ for every $i$ is not equivariant.
+The mismatched condition does not force constant payoffs across profiles:
+common payoff $\sum_j s_j$ satisfies it. If the game is zero sum and $n\ge3$,
+Theorem~\ref{thm:indexing} instead forces every payoff to be zero at every
+profile, since all $n$ payoffs are equal and sum to zero.
+\end{example}
+
+\paragraph{Source and scope of the correction.}
+The mismatched formula is attributed to Definition 7 of
+\citet{dm1986} in the inspected proofs of \citet{vester2012,ham2021} and the
+author draft of \citet{plan2017}. Our mathematical assertion concerns the
+explicit formula~\eqref{eq:mismatched-symmetry}. It neither asserts an error
+in all permutation conventions nor claims to invalidate the discontinuous-
+game equilibrium theorems of \citet{dm1986}. A source-level assessment of those
+arguments is a separate question. Ham's 2011-dated thesis identifies the
+indexing problem \citep[Subsection~5.8]{hamthesis}; its public arXiv posting is 2019. The 2012 and 2013 public
+proofs, rather than that thesis date, determine the attribution of the theorem.

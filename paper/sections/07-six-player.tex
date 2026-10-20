@@ -1,5 +1,5 @@
-\section{An explicit six-player binary common-interest game}\label{sec:six}
-All six strategy sets are$\mathbb F_3$. Let$C$ consist of the 18 words obtained
+\section{A six-player ternary game with binary payoffs}\label{sec:six}
+All six strategy sets are $\mathbb F_3$. Let $C$ consist of the 18 words obtained
 by adding a common constant to each of the following rows:
 \[
 \begin{array}{rrrrrr}
@@ -7,35 +7,38 @@ by adding a common constant to each of the following rows:
 0&1&2&0&1&0\\0&2&0&2&1&2\\0&2&1&0&0&1
 \end{array}.
 \]
-Give every player utility$u_i(s)=1_C(s)$. This definition specifies all 729
+Give every player utility $u_i(s)=1_C(s)$. This definition specifies all 729
 profiles without generic utility parameters.
 
 \begin{theorem}\label{thm:six}
-The complete exact automorphism group$G$ has order 2160, full player image
+The complete exact automorphism group $G$ has order 2160, full player image
 $S_6$, and kernel the three common translations. The game is standard, but
 $q:G\to S_6$ has no section. It consequently has no full matching.
 \end{theorem}
 \begin{proof}
-Every local ternary permutation is affine$x\mapsto a_i x+b_i$ with
+Every local ternary permutation is affine $x\mapsto a_i x+b_i$ with
 $a_i\in\{1,-1\}$. Typed maps preserve Hamming distance. Comparing the six
 rows and their translates shows all distances between distinct codewords
 are 4 or 6, and the distance-six triples are precisely
 $\{r,r+1,r+2\}$. There are 135 pairs of distance 4 and 18 of distance 6.
 
-An automorphism fixing players permutes these triples. Images of$r,r+1,r+2$
-have common increments, so all slopes$a_i$ coincide, say$a$. Modulo common
-translation, the first row$r_0=000100$ maps to one of the six displayed rows$r$,
-forcing$b=r-ar_0$. There are twelve candidates. The following rejection
-witnesses are codewords whose images lie outside$C$:
-\begin{center}
-\begin{tabular}{c|cc}
-$r$&$a=1$&$a=-1$\\\hline
+An automorphism fixing players permutes these triples. Images of $r,r+1,r+2$
+have common increments, so all slopes $a_i$ coincide, say $a$. Modulo common
+translation, the first row $r_0=000100$ maps to one of the six displayed rows $r$,
+forcing $b=r-ar_0$. There are twelve candidates. Table~\ref{tab:kernel} gives rejection witnesses: codewords whose images lie outside $C$.
+\begin{table}[htbp]
+\centering
+\caption{Rejection witnesses for pointwise-player kernel candidates.}\label{tab:kernel}
+\begin{tabular}{ccc}
+\toprule
+$r$&$a=1$&$a=-1$\\\midrule
 000100&identity&002221\\002221&002221&011122\\
 011122&002221&002221\\012010&002221&002221\\
-020212&002221&002221\\021001&002221&002221
+020212&002221&002221\\021001&002221&002221\\
+\bottomrule
 \end{tabular}
-\end{center}
-Thus the actual pointwise-player kernel is exactly the common$C_3$.
+\end{table}
+Thus the actual pointwise-player kernel is exactly the common $C_3$.
 
 The following two typed maps preserve the code, as direct substitution in its
 18 words verifies. Maps below are written as image tuples, not cycle notation:
@@ -46,28 +49,28 @@ a:&\ p=(0,3,2,1,4,5),\quad
 b:&\ p=(1,4,0,3,5,2),\quad f_i=012\ \text{for all }i.
 \end{split}
 \]
-Their player permutations are$(1\ 3)$ and$(0\ 1\ 4\ 5\ 2)$, respectively.
+Their player permutations are $(1\ 3)$ and $(0\ 1\ 4\ 5\ 2)$, respectively.
 Conjugating the transposition by the five-cycle supplies all transpositions
-joining 3 to another player, hence generates$S_6$. Orbit--stabilizer for$q$
-now gives$|G|=720\cdot3=2160$; this establishes the \emph{complete} group,
+joining 3 to another player, hence generates $S_6$. Orbit--stabilizer for $q$
+now gives $|G|=720\cdot3=2160$; this establishes the \emph{complete} group,
 including every possible extra binary-payoff automorphism.
 
 For the remaining two finite group facts we use the explicit lemma below.
-The two code-preserving maps$x,y$ there generate a transitive subgroup of
+The two code-preserving maps $x,y$ there generate a transitive subgroup of
 order 60 with 60 player images. Its local maps are translations. A point
-stabilizer has order 10, so its homomorphism into local$C_3$ is trivial.
+stabilizer has order 10, so its homomorphism into local $C_3$ is trivial.
 This proves strategy triviality and standardness.
 
-The even-player inverse image$H=q^{-1}(A_6)$ has order 1080 and is perfect by
-the same lemma. If a section existed, its image would intersect$H$ in a
+The even-player inverse image $H=q^{-1}(A_6)$ has order 1080 and is perfect by
+the same lemma. If a section existed, its image would intersect $H$ in a
 subgroup of order 360, hence index 3. The action on the three cosets would
-give a transitive image of the perfect group$H$ in$S_3$. Images of perfect
-groups are perfect, while$S_3$ has no nontrivial perfect subgroup. This is
+give a transitive image of the perfect group $H$ in $S_3$. Images of perfect
+groups are perfect, while $S_3$ has no nontrivial perfect subgroup. This is
 impossible. Therefore no section exists.
 \end{proof}
 
 \begin{lemma}[Explicit finite group facts]\label{lem:sixcert}
-The maps$a,b$ above generate 2160 elements. The following maps lie in their
+The maps $a,b$ above generate 2160 elements. The following maps lie in their
 group and generate 60 elements with a transitive player image of order 60:
 \[
 \begin{split}
@@ -75,31 +78,31 @@ x:&\ p=(1,0,2,4,3,5),\quad b_x=(1,2,0,1,2,0),\\
 y:&\ p=(1,3,5,0,2,4),\quad b_y=(1,2,1,0,1,1),
 \end{split}
 \]
-where$f_i(t)=t+(b_x)_i$ or$t+(b_y)_i$. Moreover$\langle b,aba\rangle$
-has 1080 elements and is the normal closure in itself of$[b,aba]$.
+where $f_i(t)=t+(b_x)_i$ or $t+(b_y)_i$. Moreover $\langle b,aba\rangle$
+has 1080 elements and is the normal closure in itself of $[b,aba]$.
 \end{lemma}
 These small finite assertions are part of the proof, not consequences assumed
 from a group name. Their complete verification rule is to start with identity,
 close each displayed generator set under left multiplication until no new
 permutation tuple occurs, and count the elements and distinct player tuples.
 For the last assertion conjugate the indicated commutator by every element
-of$\langle b,aba\rangle$ and close those conjugates. Every such conjugate is
-a commutator, proving perfectness when the two sets agree. Membership of$x,y$
+of $\langle b,aba\rangle$ and close those conjugates. Every such conjugate is
+a commutator, proving perfectness when the two sets agree. Membership of $x,y$
 is checked against the first closed set. All calculations use the multiplication
-in Section 2 on 18 typed strategies. The saved certificate gives complete
+in Section~\ref{sec:02-preliminaries} on 18 typed strategies. The saved certificate gives complete
 input data and checks these counts with three implementations, including two
 which do not import the first one's group operations. The analytic 12 case
-kernel proof is additionally checked against all$6^6=46656$pointwise maps.
+kernel proof is additionally checked against all $6^6=46656$ pointwise maps.
 No search of the 33592320 element ambient typed group is needed.
 
-\begin{remark}[Prior group theory]
+\begin{remark}[Prior group theory]\label{remark:07-six-player-2}
 The generated action is the established degree 18 representation of the
-nonsplit triple cover$3.S_6$ from the ATLAS \citep{atlas}. Gillespie,
+nonsplit triple cover $3.S_6$ from the ATLAS \citep{atlas}. Gillespie,
 \'O Cath\'ain and Praeger prove nonsplitting in a related Hadamard realization
 \citep{gillespie2018}. Neither the group nor that representation is asserted
 new. The theorem verifies this exact binary game's full group, standardness
-and represented obstruction independently. If one also notes that$C_3$ is
-central in$H$, perfectness gives an even shorter alternative: a section would
-make$H=C_3\times A_6$, which is not perfect. The coset argument avoids needing
+and represented obstruction independently. If one also notes that $C_3$ is
+central in $H$, perfectness gives an even shorter alternative: a section would
+make $H=C_3\times A_6$, which is not perfect. The coset argument avoids needing
 that additional observation.
 \end{remark}

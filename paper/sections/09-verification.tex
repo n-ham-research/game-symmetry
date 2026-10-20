@@ -1,0 +1,40 @@
+\section{Finite verification and source reproducibility}\label{app:verification}
+The finite claims in Lemmas~\ref{lem:finite} and~\ref{lem:sixcert} are
+parts of the proofs. They concern specified finite permutation sets; no
+finite computation is used to infer a statement about unbounded player counts.
+The general player-count argument is the separate proof in
+Section~\ref{sec:player-counts}.
+
+For Lemma~\ref{lem:finite}, enumerate the six permutations of three letters
+lexicographically and the $6^3$ local triples with player image $(12)$.
+Conjugate by the order-twelve stabilizer of this player transposition in the
+normalizer of the bare three-cycle. Retain the lexicographically least triple
+in each orbit, obtaining 32 representatives. Close each generated subgroup
+under left multiplication. On the 81 recipient--profile cells compute its
+orbits, then test all 1296 ambient typed maps for preservation of every
+individual orbit. Enumerate the 36 matchings with the reference-player map
+fixed. A section is certified by generators satisfying the displayed
+$S_3$ relations; failure of a matching is exhaustive over this finite list.
+These instructions determine the input, stopping criterion and tests underlying
+Table~\ref{tab:ternary}.
+
+For Lemma~\ref{lem:sixcert}, the displayed maps on eighteen strategy labels
+are sufficient input. Close the generators, project to the six player blocks,
+and count the distinct projections. To certify perfectness, close the
+conjugates of the displayed commutator and compare with the even-player
+preimage. The twelve kernel candidates are separately rejected by
+Table~\ref{tab:kernel}. This establishes the complete group, rather than
+merely a subgroup of its claimed order.
+
+The source distribution includes the existing standard-library certificate
+programs and their saved data as ancillary material. From its \texttt{anc}
+directory run
+\begin{verbatim}
+python3 phase5_ternary_audit.py --verify
+python3 phase5_ternary_six_crosscheck.py
+\end{verbatim}
+The first regenerates and compares the 32-case classification certificate;
+the second checks the six-player group from a separate implementation.
+The accompanying verification manifest identifies the original repository
+files by their hashes. These are reproducible internal checks, not external
+peer review or independent evidence of originality.

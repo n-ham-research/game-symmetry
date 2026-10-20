@@ -1,10 +1,20 @@
-\section{Introduction}
-Player labels can be interchangeable in several mathematically distinct
-senses. Each permutation may admit suitable strategy relabelings; these
-relabelings may be selectable coherently as a group action; and that action
-may act trivially on a fixed player's strategies. The last condition identifies
-strategies across roles through a matching. Confusing these requirements
-obscures both examples and classification statements.
+\section{Introduction}\label{sec:01-introduction}
+Symmetry in a strategic-form game should transport both a player's action
+and the payoff recipient consistently. With three or more players, replacing
+inverse profile indices by forward indices is not an innocent notational
+change: the resulting formula also forces the players' payoff functions to
+be identical. The correction in Theorem~\ref{thm:indexing} is established
+work of Vester and Ham. Its significance is the exact boundary it places
+between ordinary symmetry and common interest, not a failure of equilibrium
+existence in every game called symmetric.
+
+There is a second distinction even after the indexing is correct. Every
+player permutation may admit strategy relabelings without those realizations
+being selectable coherently, and a coherent action may still act nontrivially
+on a fixed player's strategies. We develop these requirements in one typed
+framework. The restricted assignment and recommendation consequences in
+Section~\ref{sec:consequences} explain why none is automatically a universal
+fairness criterion.
 
 Ham's binary three-player classification, particularly Figure 4 and
 Example 5.13 of \citet{ham2021}, already separates full player image and standard
@@ -17,20 +27,12 @@ to be rediscovered. We extend it to ternary mechanisms and to the existence
 of coherent lifts at arbitrary player counts. Six is the only player count
 for standard ternary nonsplitting, and an explicit game attains it.
 
-The distinction between coordinate permutations and their inverse profile
-indices has a longer history. Von Neumann and Morgenstern's third edition,
-\S 28, explicitly discusses the composition convention \citep{vnm1953}; the
-1944 first-edition body has not been verified here. Ham's 2011-dated honours
-thesis identifies the permutation mismatch associated with the
-Dasgupta--Maskin definition \citep{dm1986,hamthesis}. Public Wikipedia revisions
-record an inverse-index correction on 4 May 2011 and its reversion on 8 May
-\citep{wiki2011a,wiki2011b}; attributing the anonymous correction to Ham rests
-on his subsequent account, rather than the revision identity alone.
-Vester's 2012 report independently supplies the common-payoff characterization
-\citep{vester2012}; Plan's inspected 2017 draft discusses this history
-\citep{plan2017}. We distinguish that draft from the 2023 published article
-\citep{plan2023}. These historical matters motivate precise definitions; they
-are not premises of the lifting theorems.
+Throughout we use the inverse-index convention
+$(P_p s)_j=s_{p^{-1}(j)}$ and compose maps right to left. This separates the
+permutation of recipients from the indexing of profiles. Background on these
+conventions and forms of symmetry is available in
+\citet{ham2021,vester2012,plan2017,plan2023}. Historical source and version
+qualifications are retained in the accompanying publication assessment.
 
 Typed automorphisms and player-image quotients are established constructions.
 The covering-group method characterizing which orbit constraints can be full
@@ -41,3 +43,13 @@ realization by payoff data, standardness, classification and sharp boundaries.
 Fairness and utility-representation questions are developed in a companion
 project; the binary equilibrium programme remains within the structural
 research programme but is not required for the central lifting argument.
+
+After the indexing correction, the structural extension results are Theorem~\ref{thm:ternary}, which classifies the
+three-player ternary case, and Theorem~\ref{thm:ternary-player-counts}, which
+restricts nonsplitting to six players under the stated hypotheses.
+Theorem~\ref{thm:six} gives the attaining game. We first develop the matching
+and orbit-closure tools, review the binary benchmark, and then prove the
+classification and player-count restrictions. The explicit construction
+makes the distinction between a preserving subgroup and the complete game
+group testable on a small payoff table. Appendix~\ref{app:verification}
+describes precisely which finite assertions require computation.

@@ -1,14 +1,14 @@
-\section{Three-player ternary actions}
-Let$W=S_3^3\rtimes S_3$, with$r=((012);\id,\id,\id)$. For a strategy
-transposition$h$ write
+\section{Three-player ternary actions}\label{sec:04-ternary}
+Let $W=S_3^3\rtimes S_3$, with $r=((012);\id,\id,\id)$. For a strategy
+transposition $h$ write
 \[
  H_h=\{(p;(h^{\varepsilon(p)},h^{\varepsilon(p)},h^{\varepsilon(p)})):p\in S_3\},
  \quad L=\{(p;(f,f,f)):\varepsilon(p)=\varepsilon(f)\}.
 \]
 \begin{lemma}[Finite classification lemma]\label{lem:finite}
-For every odd-player$g\in W$, the group$B=\langle r,g\rangle$ has a section.
-Either$\operatorname{cl}(B)$ contains a full matching, or$B=H_h$ for a
-strategy transposition$h$. Each$H_h$ is orbit closed and non-full.
+For every odd-player $g\in W$, the group $B=\langle r,g\rangle$ has a section.
+Either $\operatorname{cl}(B)$ contains a full matching, or $B=H_h$ for a
+strategy transposition $h$. Each $H_h$ is orbit closed and non-full.
 \end{lemma}
 The following specifies the essential finite part, rather than treating a
 passing test suite as a mathematical explanation. The normalizer of
@@ -16,24 +16,28 @@ $\langle r\rangle$ is
 $\{(p;(f,f,f)):p,f\in S_3\}$, of order 36. Its bare player permutations put
 $q(g)=(12)$. There are 216 local triples; simultaneous strategy conjugation and
 interchange of the two moved coordinates reduce them to 32 classes. Burnside's
-count is$(294+90)/12=32$: the two sums are respectively
-$\sum_f|C(f)|^3$ and$\sum_f|C(f)||C(f^2)|$.
+count is $(294+90)/12=32$: the two sums are respectively
+$\sum_f|C(f)|^3$ and $\sum_f|C(f)||C(f^2)|$.
 
 Close each representative pair under multiplication; quotient the resulting
-groups by normalizer conjugacy. The complete output is:
-\begin{center}\small
-\begin{tabular}{r|rrrrrrrrrrr}
-Class&0&1&2&3&4&5&6&7&8&9&10\\\hline
+groups by normalizer conjugacy. The complete output is recorded in Table~\ref{tab:ternary}.
+\begin{table}[htbp]
+\centering\small
+\caption{The eleven generated-group classes in the ternary finite lemma.}\label{tab:ternary}
+\begin{tabular}{rrrrrrrrrrrr}
+\toprule
+Class&0&1&2&3&4&5&6&7&8&9&10\\\midrule
 Order&6&6&18&18&24&24&54&54&162&648&648\\
 Conjugates&1&3&1&2&3&3&1&2&1&1&1\\
 Lift classes&1&1&1&2&2&2&1&2&6&7&7\\
 Cell orbits&18&15&6&6&7&6&2&2&1&1&1\\
-Closure order&6&6&18&18&24&48&108&108&1296&1296&1296
+Closure order&6&6&18&18&24&48&108&108&1296&1296&1296\\
+\bottomrule
 \end{tabular}
-\end{center}
-Every row has section witnesses$a,t$ with player images$(012),(12)$ and
+\end{table}
+Every row has section witnesses $a,t$ with player images $(012),(12)$ and
 $a^3=t^2=1$, $tat=a^{-1}$. All closures contain a full matching except class 1,
-whose three conjugates are$H_h$. The checker enumerates all 36 matchings by
+whose three conjugates are $H_h$. The checker enumerates all 36 matchings by
 fixing its reference-player bijection and choosing the other two. It computes
 orbits on 81 cells and checks every ambient map against every orbit. Positive
 word closure terminates and includes inverses because the generators have
@@ -45,30 +49,30 @@ domain.
 
 \begin{theorem}\label{thm:ternary}
 Every standard three-player ternary game with full player image has a section.
-If it has no full matching, its complete group, up to local labels, is$H_h$
-or$L$, of orders 6 and 18. Both occur.
+If it has no full matching, its complete group, up to local labels, is $H_h$
+or $L$, of orders 6 and 18. Both occur.
 \end{theorem}
 \begin{proof}
 The matching lemma normalizes the standard subgroup to bare permutations.
-Every transitive subgroup of$S_3$ contains its three-cycle subgroup, so assume
+Every transitive subgroup of $S_3$ contains its three-cycle subgroup, so assume
 $r\in G$. Full image supplies an odd element; Lemma\ref{lem:finite} gives a
-section inside$G$.
+section inside $G$.
 
-If$G$ is non-full, apply the lemma to \emph{every} odd$g\in G$. Each has the
-same transposition at all three local components. Fix one odd$t$. For every
-even$a\in G$, both$at$ and$t$ have common odd components, so$a=(at)t^{-1}$
-has a common even component. Hence$G\le L$. Its kernel is a subgroup of the
-diagonal$A_3$, so has order 1 or 3. Full image gives$|G|=6$or 18; the first case
-is$H_h$ and the second$L$.
+If $G$ is non-full, apply the lemma to \emph{every} odd $g\in G$. Each has the
+same transposition at all three local components. Fix one odd $t$. For every
+even $a\in G$, both $at$ and $t$ have common odd components, so $a=(at)t^{-1}$
+has a common even component. Hence $G\le L$. Its kernel is a subgroup of the
+diagonal $A_3$, so has order 1 or 3. Full image gives $|G|=6$ or 18; the first case
+is $H_h$ and the second $L$.
 
-Distinct cell-orbit payoffs realize$H_h$. For$L$, give all players the same
+Distinct cell-orbit payoffs realize $H_h$. For $L$, give all players the same
 utility: zero on repeated labels and otherwise the sign of the permutation
-of$(0,1,2)$. If local maps$f_j,f_k$ differ at$a$, put$a$ in both coordinates
+of $(0,1,2)$. If local maps $f_j,f_k$ differ at $a$, put $a$ in both coordinates
 and choose the third action so its image completes all three labels. The
 source value is zero and the target nonzero, a contradiction. Thus all local
-maps equal$f$, and orientation preservation is exactly
+maps equal $f$, and orientation preservation is exactly
 $\operatorname{sign}(p)\operatorname{sign}(f)=1$. This proves the complete
-group is$L$. Both groups contain bare$A_3$ and a section$H_h$. Neither can
+group is $L$. Both groups contain bare $A_3$ and a section $H_h$. Neither can
 contain a matching section: an odd player transposition fixes a player, but
 its common odd strategy map is nonidentity there.
 \end{proof}
@@ -88,6 +92,6 @@ normalized values, and conversely equality of the normalized values supplies
 the positive affine coefficients. For the second, a bijective pure-order
 transport identifies exactly the ordered levels and their ties. Thus full
 player image, standardness, sections and strategy-trivial sections transfer
-without alteration. These are the companion utility-invariance results
-U1--U5 (\texttt{game-fairness}, commit \texttt{a5e7f06}).
+without alteration. These are finite utility-representation identities; the preceding argument
+makes their use here self-contained.
 No mixed-equilibrium invariance under arbitrary ordinal maps is assumed.

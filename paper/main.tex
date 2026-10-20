@@ -1,46 +1,49 @@
-\documentclass[11 pt]{article}
+\documentclass[11pt]{article}
 \input{preamble}
-\title{Symmetry, Automorphism Groups and Player Permutations\\in Finite Games}
+\title{Symmetry and Player Interchangeability in Finite Games}
 \author{Nicholas Ham}
-\date{Research draft, 16 October 2026}
+\date{}
 \begin{document}
 \maketitle
 \begin{abstract}
-A finite game's automorphisms may realize every player permutation without
-admitting a coherent choice of such realizations. We distinguish surjectivity
-of the actual player projection, existence of a section, and existence of a
-strategy-trivial section. For three-player games with three strategies, we
-classify the non-full standard full-image actions: their complete groups have
-orders six or eighteen, and both projections split. A local-affine reduction
-proves splitting for standard ternary games whenever the player count is not
-divisible by three. An explicit six-player common-interest game with binary
-payoffs has exactly eighteen winning profiles, complete automorphism group of
-order 2160, and a nonsplit player projection with kernel of order three. Combining the
-local-affine reduction with the classical alternating-group multiplier
-theorem shows that six is the only possible player count for standard
-ternary nonsplitting. For at least five players other than six, full actual
-player image alone forces splitting. Group constructions
-and covering-group principles used here are established prior mathematics;
-novelty of the game classifications and boundary applications remains under
-investigation. Essential small finite certificates are specified separately
-from the general proofs.
+A permutation formula can move payoff recipients and strategy coordinates
+in incompatible directions. For at least three players, the resulting
+condition is equivalent to full symmetry together with identical payoff
+functions, a restriction absent in two-player games. We give a self-contained
+account of this established correction and distinguish it from questions of
+player interchangeability and assignment indifference. For typed game
+automorphisms we separate full player image, coherent lifts, and full symmetry
+under a matching. We classify the non-full standard three-player ternary
+actions and prove that six is the only player count admitting a standard
+ternary game with full player image and a nonsplit player projection. An
+explicit six-player common-interest game attains the boundary. Restricted
+fairness consequences clarify the role of common utility calibration and
+invariant recommendations without imposing a general fairness definition.
+The indexing theorem, group constructions and multiplier inputs retain their
+established attributions; the structural classifications are the extensions
+considered here.
 \end{abstract}
+\noindent\textbf{Keywords:} finite games; symmetry conventions; player interchangeability; group extensions.
+\par\smallskip
+\noindent\textbf{2020 Mathematics Subject Classification:} Primary 91A06; Secondary 20B25, 20J06.
+
 \input{sections/01-introduction}
+\input{sections/00-indexing}
 \input{sections/02-preliminaries}
+\input{sections/02a-consequences}
 \input{sections/03-binary}
 \input{sections/04-ternary}
 \input{sections/06-player-counts}
 \input{sections/07-six-player}
 \input{sections/08-boundaries}
-\section*{Research status and assistance}
-This manuscript presents internally verified research candidates, not an
-assertion of historical priority or completed external peer review. OpenAI
-Codex assisted with proof exploration, source comparison, exact computations,
-manuscript preparation and internal adversarial review. Separate instances
-shared historical context and a model family. Their agreement is not evidence
-in place of the proofs and finite certificates. The repository contribution
-and review records describe their actual scopes. No submission is authorized.
-\clearpage
+\appendix
+\input{sections/09-verification}
+\section*{Acknowledgements and computational assistance}
+OpenAI Codex assisted with proof exploration, source comparison, exact
+computations and manuscript preparation. The proof and computational review
+to date has been internal; it is not external peer review. Reproducibility
+instructions and the distinction between prior mathematics and the present
+classifications accompany the source.
 \bibliographystyle{plainnat}
 \bibliography{references}
 \end{document}

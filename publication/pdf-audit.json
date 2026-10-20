@@ -1,0 +1,38 @@
+{
+  "pdf": "paper/build/main.pdf",
+  "pages": 15,
+  "metadata": {
+    "/Producer": "pdfTeX-1.40.28",
+    "/Author": "Nicholas Ham",
+    "/Title": "Symmetry and player interchangeability in finite games",
+    "/Subject": "Finite game automorphisms and splitting",
+    "/Creator": "LaTeX with hyperref",
+    "/Keywords": "game symmetry, automorphism, group extension",
+    "/CreationDate": "D:20261020175020+11'00'",
+    "/ModDate": "D:20261020175020+11'00'",
+    "/Trapped": "/False",
+    "/PTEX.Fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025/Debian) kpathsea version 6.4.1"
+  },
+  "annotations": 80,
+  "internal_links": 61,
+  "distinct_external_uris": [
+    "https://arxiv.org/abs/1311.4766v1",
+    "https://arxiv.org/abs/1311.4766v5",
+    "https://arxiv.org/abs/1712.04563v2",
+    "https://arxiv.org/abs/1905.00636v1",
+    "https://asafplan.com/files/SymmetricGames.pdf",
+    "https://brauer.maths.qmul.ac.uk/Atlas/alt/A6/",
+    "https://doi.org/10.1007/s10468-015-9542-y",
+    "https://doi.org/10.1007/s11786-018-0382-0",
+    "https://doi.org/10.1016/0304-4068(74)90037-8",
+    "https://doi.org/10.1016/j.fmre.2022.06.015",
+    "https://doi.org/10.1016/j.jet.2022.105549",
+    "https://doi.org/10.1080/03081079.2019.1573228",
+    "https://doi.org/10.1287/moor.14.1.18",
+    "https://doi.org/10.2307/2297588",
+    "https://lsv.ens-paris-saclay.fr/Publis/RAPPORTS_LSV/PDF/rr-lsv-2012-23.pdf"
+  ],
+  "latex_labels_with_valid_page_destinations": 36,
+  "named_destinations": 73,
+  "status": "pass; external URI targets checked, HTTP availability recorded separately"
+}

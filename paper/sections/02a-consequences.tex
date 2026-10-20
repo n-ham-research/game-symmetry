@@ -1,0 +1,63 @@
+\section{What symmetry does and does not imply for fairness}\label{sec:consequences}
+The common-payoff conclusion of Theorem~\ref{thm:indexing} is a strong
+numerical restriction. It should not be substituted for a participant's
+indifference between player assignments. The following elementary comparisons
+state the extra decision data explicitly; the broader fairness programme is
+not required for the structural classification.
+
+\Needspace{11\baselineskip}
+\begin{proposition}[Assignment calibration]\label{prop:assignment-calibration}
+Fix conditional profile laws $L_i$ for a participant assigned to role $i$.
+Within-role expected-utility preferences do not determine assignment values.
+For arbitrary desired values $d_i$ and positive $a_i$, the global assignment
+utility
+\[
+ W(i,s)=a_i u_i(s)+d_i-a_i\mathbb E_{L_i}u_i
+\]
+preserves the given preferences within every role and has conditional value
+$d_i$ in role $i$.
+\end{proposition}
+\begin{proof}
+Within each role the displayed function is a positive-affine transformation
+of $u_i$. Taking its expectation under $L_i$ gives $d_i$.
+\end{proof}
+This constructs different global preferences consistent with the conditional
+data. It does not permit independently rescaling an already specified global
+preference. In particular, exact equality of the game's numerical payoffs and
+cardinal equivalence of conditional preferences answer different questions.
+
+For a positive implication fix common monetary receipts, a reference role 0,
+and exact automorphisms $t_i$ sending 0 to $i$. Suppose the participant chooses
+a reference action after learning the role, and opponent laws are transported
+by these same disclosed maps. Exactness gives
+$u_i(t_i s)=u_0(s)$ pointwise, hence equal action values and equal optimized
+role values for every common reference opponent law. No equation
+$t_i t_j=t_k$ is used. One-shot assignment indifference therefore needs no
+coherent section. Conversely equal optimized values alone need not identify
+payoff rows: menus $\{1,0\}$ and $\{1,-1\}$ have the same optimum.
+
+\begin{proposition}[Invariant recommendations]\label{prop:invariant-recommendations}
+Let $G$ be a finite group of exact typed automorphisms of a finite game.
+A $G$-invariant profile law gives equal expected receipts to players in the
+same player orbit. Averaging any correlated equilibrium over $G$ gives an
+invariant correlated equilibrium. The same conclusion applies to a lottery
+on Nash profiles through its induced joint action law.
+\end{proposition}
+\begin{proof}
+If $g$ sends $i$ to $j$, invariance and exactness give
+$\mathbb E u_j(s)=\mathbb E u_j(gs)=\mathbb E u_i(s)$.
+Pushforward by $g$ maps each recommendation/deviation inequality to the
+corresponding inequality for the transported actions and recipient. Thus it
+preserves correlated equilibrium; convexity permits averaging. A Nash product
+law satisfies every correlated-equilibrium inequality, so a mixture of such
+laws does as well.
+\end{proof}
+These are standard change-of-variables and obedience arguments in the
+correlated-equilibrium framework of \citet{aumann1974}; see also
+\citet{hart1989}. They are not a new equilibrium existence theorem. Averaging does not generally preserve product
+laws or the Nash property of the product of marginal averages. In binary
+anti-coordination, the equal lottery on the two pure equilibria gives each
+player receipt 1, whereas the product of its uniform marginals gives 1/2.
+Thus structural symmetry, invariant procedures and equal realized outcomes
+remain distinct. No unresolved general fairness characterization is needed
+for any theorem below.

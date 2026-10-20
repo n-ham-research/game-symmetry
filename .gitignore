@@ -11,3 +11,4 @@ paper/build/
 *.out
 *.toc
 *.synctex.gz
+output/

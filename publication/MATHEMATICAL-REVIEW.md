@@ -1,0 +1,33 @@
+# Mathematical review — symmetry-first manuscript
+
+20 October 2026. Reviewed title: *Symmetry and Player Interchangeability in Finite Games*. Scope: current game-symmetry paper, compared with baseline e896a5c, canonical correction notes and the game-fairness assignment notes pinned by the campaign at 4e8e069. This is an internal OpenAI Codex review, with inherited campaign context and access to earlier reviews. It is not blinded, external peer review or Nicholas Ham's sign-off. No source mathematics was edited by this reviewer.
+
+## Verdict
+
+Conditionally approve the mathematical content for final human review. I found no theorem-level error in the added inverse-index proof, the restricted fairness consequences, or the retained binary/ternary and player-count arguments. The paper is coherent as a structural symmetry paper with a short consequences section. A full merger with the foundational fairness manuscript is not needed and would weaken its focus.
+
+This verdict relies on explicit proofs and specified finite certificates, not on repeated agreement. Mathematical approval here does not clear historical priority or certify direct inspection of the unavailable Dasgupta–Maskin original proofs or Plan's final article.
+
+## Main proof checks
+
+- Indexing theorem: the common action set, quantification over every permutation, inverse-coordinate convention and n>=3 hypothesis are essential and stated. Transpositions first yield the correctly preserving subgroup; comparison at p and p^{-1}, followed by a three-cycle through a third player, gives identical payoff functions. The converse and the two-player, common-payoff, nonconstant and zero-sum boundary examples are correct. The theorem is attributed to Vester/Ham, with separate dates for the thesis and public posting; it is not presented as a new discovery or as a refutation of uninspected equilibrium proofs.
+- Typed composition and matching: component domains and composition order are consistent. Transitivity plus strategy triviality gives well-defined local transports. A section supplies a regular cyclic subgroup; strategy-trivial splitting is exactly matching symmetry. Full player image alone is correctly kept separate.
+- Fairness consequences: assignment calibration constructs distinct global preferences with identical conditional preferences; it does not rescale a fixed global preference independently by role. Exact transports preserve action values under the stipulated transported opponent laws without requiring coherent transports. Invariant exact automorphisms equate expected numerical receipts; CE pushforwards transport every action/deviation inequality and convex averaging preserves obedience. A lottery over Nash product laws is a CE joint law, rather than necessarily a Nash product law. These claims match A1/A4/A5 of the companion notes and are correctly described as elementary/standard consequences, not foundational fairness solutions.
+- Binary benchmark: the invariant-kernel cases, signed complement and matching-profile obstruction retain their complete proof. Parameter coincidences with beta!=gamma do not produce another non-full family. Published Figure 4/Example 5.13 is treated as prior work.
+- Ternary classification: the 32-case/11-group lemma is an explicitly finite computational ingredient. Its normalizer reduction, fixed-reference matching count and cell-orbit closure are described. The general theorem uses actual payoff closure to promote every odd lift to the diagonal case; both order-six and order-eighteen complete groups are retained.
+- Player counts: the sign-kernel argument uses averaging only over normal two-subgroups, where characteristic three permits division. The E2 case uses fixed-recipient payoff invariance, not arbitrary group structure. The constant-sign n=4 obstruction is excluded using the strategy-trivial subgroup. Translation-module reductions, the ordinary-action Coxeter argument, and the residual parity-twisted C3 extension preserve their stated hypotheses. The alternating multiplier input is attributed and separated from the finite certificates. The universal-central-extension step produces a perfect complement; it does not assume the original even preimage is perfect.
+- Six-player witness: the full-image generators and pointwise-player kernel establish the complete group, rather than only a preserving subgroup. The order-60 subgroup proves standardness; perfectness of the order-1080 even preimage rules out an index-three subgroup and hence a section. These remain finite certificate assertions with explicit input, closure rules and independent implementations; they are not analytic consequences of a group name.
+
+## Small clarifications recommended
+
+1. The heading “six-player binary common-interest game” uses binary for payoff values, while the strategy domain is ternary. Write “six-player ternary game with binary common payoffs” to eliminate an avoidable ambiguity. The statements themselves already specify F3 strategies and indicator payoffs correctly.
+2. For the three-player four-strategy lower bound in the boundaries section, cite the binary benchmark together with the ternary theorem directly. The phrase about embedding smaller local groups as fixed-label subgroups can suggest that subgroup embedding preserves the complete payoff automorphism group; that implication is not automatic. No new mathematics is required: the manuscript already contains the needed binary and ternary results.
+3. Keep the new material distinguished from the unchanged structural results in the publication integrity log: the indexing theorem and short consequences section were added during this campaign, though neither is claimed as a new research theorem.
+
+## Remaining publication limits
+
+The significant candidate extensions are the exact game-realizable classifications and sharp nonsplitting boundary, rather than the known indexing theorem, covering construction, triple cover or multiplier theorem. Specialist comparison with code/design automorphism literature remains an originality question. The source bundle and generated finite certificates must accompany the manuscript and pass reproducibility checks. Human approval of the proofs, attribution, author information and disclosure remains outstanding. No unresolved general fairness problem is a mathematical prerequisite for publishing this paper.
+
+## Verification performed in this pass
+
+`python3 -m unittest discover -s experiments` completed successfully: 88 tests, 10.817 seconds. This is a working-copy check; no fresh-clone, PDF layout or bibliography verification is asserted by this mathematical reviewer. Those belong to the separate publication-readiness pass.

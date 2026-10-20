@@ -316,3 +316,20 @@ requested before committing. All88 experiment tests, five-file pinned-source
 audit and unchanged manuscript build passed. No rendered-page review is
 claimed because no manuscript source or layout changed. No external contact
 occurred; games-symmetry.zip remains untracked and untouched.
+
+
+## Symmetry-first publication campaign — 20 October 2026
+
+OpenAI Codex reorganized the existing manuscript as *Symmetry and Player
+Interchangeability in Finite Games*, adding a self-contained explicitly
+attributed Vester/Ham indexing theorem and restricted consequences from the
+canonical game-fairness baseline 4e8e069. Existing structural proofs and their
+finite hypotheses were retained. A separate mathematical reviewer and then a
+publication reviewer examined the draft; these reviews share campaign context
+and are internal AI reviews, not blinded, human or external approval.
+The mathematical review's wording clarifications were adopted. Presentation
+was compared with the actual East–Ham v3 PDF. See publication/READINESS.md,
+MATHEMATICAL-REVIEW.md and PUBLICATION-REVIEW.md for scope and limitations.
+The original Dasgupta–Maskin scan remains uninspected; attribution is qualified.
+No new priority is claimed for the known indexing theorem, no general fairness
+claim was promoted, and no submission or external contact occurred.

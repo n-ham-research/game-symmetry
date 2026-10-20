@@ -1,18 +1,18 @@
-\section{Typed automorphisms and lifting}
+\section{Typed automorphisms and lifting}\label{sec:02-preliminaries}
 A game has players $N=\{0,\ldots,n-1\}$, nonempty finite strategy sets $A_i$,
 and utilities $u_i:\prod_j A_j\to\R$. A typed bijection $g=(p;(f_i))$ consists
 of $p\in S_n$ and bijections $f_i:A_i\to A_{p(i)}$, acting by
 $(gs)_{p(i)}=f_i(s_i)$. We compose right to left. In particular
 $(P_p s)_j=s_{p^{-1}(j)}$. The exact automorphism condition is
-\[
+\begin{equation}\label{eq:automorphism}
  u_{p(i)}(gs)=u_i(s)\qquad(i\in N,\ s\in\prod_j A_j).
-\]
+\end{equation}
 These maps form $G=\Aut(u)$, with player homomorphism $q:G\to S_n$.
 For equal strategy counts $m$ the ambient group is $S_m^n\rtimes S_n$.
 Its multiplication is
 $(p;f)(r;h)=(pr;(f_{r(i)}h_i)_i)$.
 
-\begin{definition}
+\begin{definition}\label{definition:02-preliminaries-1}
 The game has \emph{full player image} if $q(G)=S_n$. A subgroup is
 \emph{strategy trivial} if every element fixing a player acts identically
 on that player's strategies. The game is \emph{standard symmetric} if it
@@ -29,41 +29,44 @@ permutations after local relabeling. A strategy-trivial section exists if and
 only if the game is fully symmetric under a matching.
 \end{lemma}
 \begin{proof}
-Choose player 0 and an element carrying it to each$i$. Its component at 0 is
-a map$t_i$. Any two choices agree because their quotient fixes 0 and acts
-identically there. Composition gives$f_i t_i=t_{p(i)}$, hence
+Choose player 0 and an element carrying it to each $i$. Its component at 0 is
+a map $t_i$. Any two choices agree because their quotient fixes 0 and acts
+identically there. Composition gives $f_i t_i=t_{p(i)}$, hence
 $f_i=t_{p(i)}t_i^{-1}$. Conversely matching lifts compose coherently and have
 identity components at fixed players. A strategy-trivial group has trivial
 player kernel, so full player image makes it a section.
 \end{proof}
 Consequently matching symmetry implies a section, and a section implies full
-player image. A section also implies standardness: a lifted$n$-cycle generates
-a regular, thus strategy-trivial, cyclic subgroup. For$n=1$ this is immediate.
+player image. A section also implies standardness: a lifted $n$-cycle generates
+a regular, thus strategy-trivial, cyclic subgroup. For $n=1$ this is immediate.
 The converse implications discussed below fail.
 
 The terminology can be summarized without identifying these properties:
-\begin{center}
+Table~\ref{tab:hierarchy} records the requirements on the complete group.
+\begin{table}[htbp]
+\centering
+\caption{Player interchangeability and coherence.}\label{tab:hierarchy}
 \begin{tabular}{p{.28\linewidth}p{.61\linewidth}}
-\hline
-Property & Requirement on the complete group $G$\\\hline
+\toprule
+Property & Requirement on the complete group $G$\\\midrule
 Standard symmetry & A transitive strategy-trivial subgroup of $G$ exists.\\
 Full player image & Every $p\in S_n$ has some lift in $G$.\\
 Splitting & Those lifts can be chosen as a homomorphism $S_n\to G$.\\
 Strategy-trivial splitting & Such a choice acts identically at fixed players.\\
-Full symmetry & Full symmetry under a matching; equivalent to the preceding row.\\\hline
+Full symmetry & Full symmetry under a matching; equivalent to the preceding row.\\\bottomrule
 \end{tabular}
-\end{center}
+\end{table}
 Thus full symmetry implies splitting, which implies both standard symmetry
 and full player image. Standard symmetry alone need not give full player
 image. Ham's Example 5.13 separates splitting from full symmetry; our
 six-player game separates standard full-image symmetry from splitting.
 
 \begin{lemma}[Prior covering principle]\label{lem:closure}
-Let$B$ be an ambient typed subgroup, acting on the cells$(s,i)$ by
-$(s,i)\mapsto(gs,p(i))$. Let$\operatorname{cl}(B)$ consist of all typed maps
-preserving each individual$B$-orbit. If$B\le\Aut(u)$, then
+Let $B$ be an ambient typed subgroup, acting on the cells $(s,i)$ by
+$(s,i)\mapsto(gs,p(i))$. Let $\operatorname{cl}(B)$ consist of all typed maps
+preserving each individual $B$-orbit. If $B\le\Aut(u)$, then
 $\operatorname{cl}(B)\le\Aut(u)$. Distinct utility values on the cell orbits
-realize$\operatorname{cl}(B)$ as the complete group.
+realize $\operatorname{cl}(B)$ as the complete group.
 \end{lemma}
 \begin{proof}
 Invariance means the utility at a cell is constant on each orbit. Orbit

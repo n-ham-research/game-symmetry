@@ -4,7 +4,14 @@
 \usepackage{amsmath,amssymb,amsthm,mathtools}
 \usepackage{microtype}
 \usepackage[numbers,sort&compress]{natbib}
-\usepackage[hidelinks]{hyperref}
+\usepackage{booktabs}
+\usepackage{needspace}
+\usepackage{xurl}
+\usepackage{xcolor}
+\definecolor{linkblue}{RGB}{25,55,95}
+\usepackage[colorlinks=true,allcolors=linkblue,bookmarksnumbered=true]{hyperref}
+\hypersetup{pdfauthor={Nicholas Ham},pdftitle={Symmetry and player interchangeability in finite games},pdfsubject={Finite game automorphisms and splitting},pdfkeywords={game symmetry, automorphism, group extension}}
+\newcommand{\doi}[1]{\href{https://doi.org/#1}{\nolinkurl{doi:#1}}}
 \newtheorem{theorem}{Theorem}[section]
 \newtheorem{lemma}[theorem]{Lemma}
 \newtheorem{proposition}[theorem]{Proposition}

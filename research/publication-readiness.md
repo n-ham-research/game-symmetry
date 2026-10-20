@@ -48,3 +48,14 @@ remains active, including a newly inspected Cheng–Liu2017 primary comparison
 and explicit final2018 limitations. The manuscript is unchanged. All88 tests,
 the pinned-source audit and the local manuscript build passed; no new layout
 inspection is claimed. Specialist review and priority clearance remain open.
+
+
+## Publication priority correction — 20 October 2026
+
+The first intended submission is now the symmetry-first synthesis and
+structural extension, with limited fairness consequences. The maintained
+current human-review assessment is publication/READINESS.md. This supersedes
+older publication-order recommendations, not the original mathematical records.
+The indexing theorem is established Vester/Ham work; broader fairness and
+Agent Games are not prerequisites. Author approval, overlap treatment and
+specialist novelty comparison remain outstanding.
