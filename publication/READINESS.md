@@ -89,3 +89,17 @@ after this packet. The general fairness manuscript remains separate.
 - `paper/main.tex` — maintained editable source; build with `bash scripts/build.sh`.
 
 No submission, repository visibility change or journal contact was made.
+
+## Consolidated campaign disposition
+
+| Manuscript | Current status | Publication priority |
+|---|---|---|
+| Symmetry and Player Interchangeability in Finite Games | 15-page focused paper, proofs and presentation internally reviewed; clean build, 88 tests, source audit and certificates pass. Ready for final human review, with originality/overlap/author decisions above. | First |
+| Information, Incentives and Symmetric Equilibria in Finite Coordination Games | 11-page Agent Games draft polished and sequentially reviewed; 244 tests, three frozen imports, clean build and source-bundle compile pass. Binary query prior-domain omission repaired and reviewed. Human originality/narrative scope decision remains before submission. | Second |
+| Game Fairness | Broader standalone manuscript retained; limited proved calibration/recommendation consequences integrated into the first paper. General fairness remains unresolved, and substantive standalone significance needs further assessment. No claim of a new full publication-polish review of that whole manuscript. | Separate, does not delay symmetry |
+
+The Agent Games review packet is maintained in `../agent-games/publication/`.
+These are existing manuscripts; no extra papers were created from later notes.
+Both polished PDFs are review artifacts, not submission clearance. The existing
+private repositories retain their visibility; only authorized source commits
+are pushed. Generated artifacts stay local and are rebuildable from source.
